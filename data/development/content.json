@@ -1,0 +1,882 @@
+[
+    {
+        "id": 1,
+        "title": "First Trimester",
+        "image": "baby",
+        "icon": "first-trimester",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>Conception to week 12</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>The Baby</h1><p>The fertalised egg attaches itself to the wall of the womb. It starts off as just one cell, which quickly multiplies. Until week eight, it’s technically known as an embryo. By then all of the major organs will be place and medically it’s referred to as a feotus. You’ll call it ‘the baby’.</p><p>Your baby will grow from microscopic size at conception, to the size of a plum by week eight. By week 12 it’ll be about 7.5-10cm long and weigh a whopping 28g.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Your Partner</h1><p>Every pregnancy is different but the flood of new hormones is likely to cause some issues, and for many women (and therefore men) the first trimester is the least enjoyable. Most of the really uncomfortable symptoms take place over the first 12 weeks: tiredness, heartburn, indigestion, wind, constipation and sensitivity to odours. Your partner is also likely to suffer from morning sickness, which is a misleadingly named ailment because it can last all day.</p><p>There’s usually no signs of a bump at this point, which can give the whole experience an air of unreality. But trust the baby scans.</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "Milestones",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Adjusting diet and lifestyle."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Telling your GP."
+                    },
+                    {
+                        "heading": "",
+                        "content": "First scan at eight weeks."
+                    }
+                ]
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Warning signs</h1><p>Unfortunately, this is the stage of pregnancy when the risk of miscarriage is at its highest. In most cases it’s a natural occurrence because the foetus is not developing correctly. You should consult your GP at the first sign of any abdominal pains or unusual bleeding. Be vigilant. But also try not to worry. </p>"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "You",
+        "image": "baby",
+        "icon": "first-trimester",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>1.2 You</h1><p>Your partner will be doing most of the baby work for the next 40 weeks, but that doesn’t mean you’re off the hook. You have a little over nine months to get ready for the biggest change you’ll ever experience in life. The time to start making the adjustment is right now, Daddyo.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Be kind</h1><p>It’s pretty likely that your partner is going to have some mood swings. This is normal. Be smart about it and try to rise. Your partner could be equally frustrated by how she feels. Stay calm to diffuse the tension and gain kudos in the long run.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Do stuff</h1><p>That means cleaning, vacuuming, shopping, laundry and all the other things you probably hate doing. If your partner is the clean freak in your relationship try to meet her at least halfway on standards. Pre-empting arguments about this can be a real win. (if you’re the clean freak, then carry on with what you’re doing.)</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Get fit</h1><p>The next while is going to be physically demanding getting into a routine of a little extra exercise pays off in the long run. Join a gym. Do a bootcamp. Go jogging. Start cycling. It all helps. It’ll probably give you some time to think too, which can be nice.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Make a budget</h1><p>Figure out the numbers. A new kid is expensive and you may need to make some changes now to afford things down the track.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Lifestyle</h1><p>You’re probably going to need to be a bit more responsible about your time. That could mean cutting down on the lads nights out, or not spending three weekends away a month rock climbing.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Learn how to cook</h1><p>An incredibly useful skill. If you know how to cook already, that’s great. Now learn how to cook for a pregnant lady and a baby.</p>"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Baby scans",
+        "image": "baby",
+        "icon": "first-trimester",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>What are they?</h1><p>Ultrasound scans use sound waves to create a picture of the baby in the womb. The sonographer, the person who conducts the test,  will put some gel on your partner’s tummy and run a small device over it. The device emits high-frequency sound waves that the machine converts into a picture of your baby on a TV screen. The sonographer will explain the picture to you. There’s generally two scans.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>First scan, 8-14 weeks</h1><p>This scan is used to ‘date’ the baby to see how it’s growing.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Second scan, 18-21 weeks</h1><p>This is more detailed scan, which checks for major physical problems. The sonographer may also be able to tell you the sex of your baby, if they can make it out.</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "Scans can confirm:",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "<b>The baby’s size – And its development. The sonographer will be able to point our arms and legs."
+                    },
+                    {
+                        "heading": "",
+                        "content": "<b>The baby’s gender – Talk to you partner before you go in for the scan about whether or not you want to know the sex of the baby. There’s not that many real surprises in life – but then again, knowing this might help you deck out the nursery. "
+                    },
+                    {
+                        "heading": "",
+                        "content": "<b>Multiple babies – Yes. It happens. One in eight pregnancies results in twins. Be mentally prepared."
+                    },
+                    {
+                        "heading": "",
+                        "content": "<b>Physical abnormalities – The sonographer or doctor will advise you if there are any issues."
+                    },
+                    {
+                        "heading": "",
+                        "content": "<b>Baby position – This is only a factor in later stages of the pregnancy."
+                    }
+                ]
+            },
+            {
+                "type": "tip",
+                "content": "Some private clinics offer additional ultrasound scans or 3D scans. It’s amazing to see what the foetus is up to in there – for you, at least. Your friends aren’t going to understand the fascination."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Morning Sickness",
+        "image": "baby",
+        "icon": "first-trimester",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>What is it?</h1><p>Morning sickness is the common name for Nausea and Vomiting in Pregnancy (NVP) that most women experience at some point in the first trimester of pregnancy. Around half of all pregnant women will experience full-on morning sickness, while another third will have frequent bouts of nausea. So it’s very likely that your partner will be affected by it. The good new is that it usually has subsided by week 14.</p><p>There’s no definite answer on the cause of morning sickness but the consensus is that the most likely culprit is the dramatic hormonal changes that your partner’s body is going through.</p><p>Your partner might be one of the lucky ones and escape with only mild symptoms, or maybe none at all. If that’s the case, thank your lucky stars and don’t gloat over other less fortunate fathers-to-be.</p><p>Morning sickness doesn’t just happen in the morning. It can onset at any time of the day or night. It can last for just a short time, or all day long. For some women it’s a minor inconvenience, for others it can be debilitating.</p><p>For a while at least, it’s probably going to be just one of those things.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>What to do</h1><p><b>Care –</b> It’s easy to forget how much nausea sucks. If you notice that your partner is looking a little down or peeky, ask is she’s alright or if you can help with anything. If you can, great. If not, then at least she knows you care.</p><p><b>Rest –</b>Encourage your partner to rest. More rest, usually mean less vomiting. Doing an extra 20-30 minutes of the daily chores can go a long way.</p><p><b>Eat in bed –</b> If your partner is vomiting or ill in the morning, she should get up slowly. She could try to have something plain to eat. Dry toast or crackers can be good.</p><p><b>Food smells –</b> Expectant mothers can acquire a superhuman sense of smell, which can bring on morning sickness. Also the scent of food can trigger nausea. Fish is a common trigger, so are beer and garlic. Every woman is different and some foods that she used to love will be intolerable now. Consider eating cold meals more often as the smells tend not to be as strong.</p><p><b>Citrus –</b> The smell of lemons and oranges can sometimes  reduce nausea.</p><p><b>Drinks –</b> Drink lots of fluids and stay hydrated. However, avoid drinks that are too cold or sharp tasting.</p><p><b>Frequent small meals –</b> This is often better than having two large meals. Eat foods that are high in carbohydrates eg. pasta, bread, rice, etc. Spicy, sweet food might be harder to keep down than plain, savoury foods.</p><p><b>Loose waisted clothes –</b> Your partner should wear something comfortable; tight waist bands can increase nausea.</p>"
+            },
+            {
+                "type": "tip",
+                "content": "Ginger biscuits, ginger ale or ginger supplements might alleviate the symptoms, as long as they contain real ginger. Just make sure, particularly with the supplements, that you are buying from a reputable source."
+            },
+            {
+                "type": "tip",
+                "content": "Aftershave has an extremely strong smell that can be a trigger for morning sickness. Put the bottle away, if it’s a problem."
+            },
+            {
+                "type": "tip",
+                "content": "Morning sickness is more likely to occur when your partner is tired and emotional. As she may not have told her family and friends that she’s pregnant, you’re the one on-call to support. As no one probably knows that your partner is pregnant yet, keep a couple of excuses handy to explain why you’re both suddenly leaving parties in a hurry."
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Warning signs</h1><p>Some women experience severe or extreme morning sickness, which is called hyperemesis gravidarum. If your partner is chronically and violently ill, get medical advice. She may need to be treated in hospital.</p><p><b>Watch out for – </b>Dizzy or faint spells; very dark urine; stomach pains; high temperatures; or blood in vomit.</p>"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Feeding Time",
+        "image": "baby",
+        "icon": "first-trimester",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>The best diet during pregnancy is a balanced and nutritious one that promotes steady weight gain. Your partner shouldn’t be concerned about putting on weight but equally, that’s not an excuse to go to town on takeaways.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>It’s generally recommended that your partner eats every three hours and drinks plenty of water. Do not encourage her to ‘eat enough for two’. It’s not necessary. She should just enough for healthy weight gain.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>As always, if your partner experiences anything that you’re concerned about – chronic vomiting, loss of appetite, whatever –  visit your GP.</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "Yes Things",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Lean meats – Baked, boiled or grilled."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Poultry (fully cooked) – Healthy low fat protein."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Eggs (fully cooked) – They’re brilliant."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Fruit – Going crazy on fruit can help with constipation."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Vegetables – No brainer."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Cereals – Choose whole grains whenever possible."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Nuts – Great for healthy fats and protein."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Milk – For calcium. You can also get calcium from fortified OJ, cheeses, soup made from proper chicken stock and sardines."
+                    }
+                ]
+            },
+            {
+                "type": "warning-list",
+                "title": "No Things",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Alcohol – In general, your partner should cut out the booze."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Liver – Has some great qualities, but it can contain too much vitamin A."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Pate – High risk of Listeria."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Swordfish, Marlin, Shark – Too high in mercury."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Hot dogs – High risk of Listeria."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Luncheon meats – High risk of Listeria."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Cured meats (parma, prosciutto) – Risk of listeriosis, toxoplamosis."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Salamis – Risk of listeriosis & toxoplamosis."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Uncooked smoked seafood – Fine when cooked."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Raw milk – Risk of Listeria and salmonella."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Certain cheeses (soft, blue vein, mould ripened) – Same as raw milk."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Cigarettes – Yes, it’s not a food but we’re putting it in here while we’re talking about things to give up. If she’s a smoker, quitting is going to be really tough on your partner, so you’ll have to be supportive. If you smoke too, it’d be a good move to join in and quit. There’s no better motivation than a baby on the way."
+                    }
+                ]
+            },
+            {
+                "type": "yes-list",
+                "title": "Maybe",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Butter and cream – Limit your intake. It’s safe, but unhealthy."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Salt – Totally fine in moderation. Just try to avoid processed food."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Tuna – Once or twice a week max. High but generally safe level of mercury."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Caffeine – Try to limit to one coffee a day."
+                    }
+                ]
+            },
+            {
+                "type": "tip",
+                "content": "<h1>Alcohol</h1></br>Preferably alcohol should be avoided during pregnancy. There are serious risks associated with it, including restricted growth, facial abnormalities and learning disorders. Having said that, the highest risk is during the first three months of the pregnancy and there is some disagreement on whether or not there is a safe level of consumption. One or two units (that’s about half a glass of wine) a week after the first trimester may be OK. But it’s best to play it safe though and avoid completely. If it removes temptation, support your partner and cut back your own intake."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Cravings",
+        "image": "baby",
+        "icon": "first-trimester",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>What are they?</h1>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>Pregnancy is often associated with food cravings. They often have a sudden onset and can be quite intense. It could be a craving for something that your partner normally likes, normally doesn’t like, or something that’s downright weird.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>(Alternatively, your partner might go off foods that she used to love.)</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>You can make them work for you – a well-timed trip to an Indian takeaway for a curry craving can earn you a lot of good will.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>There’s no consensus on what causes cravings. They usually start in the first trimester, are at their strongest in the second, and have generally subsided before the birth of the baby.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>It’s common for women to crave dairy products, sweet foods or salty foods including pickles. Unless it’s explicitly against medical advice, your partner should feel free to satisfy them. Stock the fridge and have takeaway menus to hand.</p>"
+            },
+            {
+                "type": "tip",
+                "content": "Any cravings your partner normally has are likely to continue, whether they’re harmful (nicotine), or not so harmful (chocolate). Obviously, the harmful cravings should be ignored."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Finances",
+        "image": "baby",
+        "icon": "first-trimester",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>Babies are expensive. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted out Porsche, or go for an ultra-reliable Toyota that will get the job done just as well.</p><p>As a general rule, don’t get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><p><b>Regular chats –</b> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a café or a quiet bar if that makes them less painful.</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "You’re going to need to sort out figures for",
+                "bullets": [
+                    {
+                        "heading": "Income changes",
+                        "content": "Benefit entitlements"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Loss of earnings (maternity, paternity leave)"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Tax changes"
+                    },
+                    {
+                        "heading": "Costs",
+                        "content": "Birth Medical bills – Obstetrics fees"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Post natal GP care"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Childcare costs – Worth thinking about early."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Home improvements – Baby proofing/decor."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Sleeping kit – Cots, nightlights, baby monitors."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Nappies – Lots and lots of these."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Car – Is what you drive now appropriate?"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Car seat – You will need one car seat for the first 12 months or so, and then another larger one."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Buggy – You might have a  travel system (a car seat buggy combo) but you’ll need another all-purpose buggy at a later stage."
+                    }
+                ]
+            },
+            {
+                "type": "tip",
+                "content": "Saving from day one is a good idea. Even if you’ve been planning for a while, use the nine months to get a budget in place that allows you to put a few quid away. Not everyone can afford to do so, but if you can it’ll take some pressure off later."
+            },
+            {
+                "type": "tip",
+                "content": "People don’t need buggies and baby gear forever. Savvy shoppers can pick up great deals on second hand gear, and hand-me-downs are likely to be offered by friends and family. Just make sure that you are satisfied that the items are safe and in good nick. Never buy a second hand car seat."
+            },
+            {
+                "type": "tip",
+                "content": "Make a list of all the major purchases and buy one of them every month for the duration of the pregnancy. It’ll be weird buying a bottle steriliser six months in advance but do it now and you won’t have a giant last minute panic-shop."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Cooking",
+        "image": "baby",
+        "icon": "first-trimester",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>This may seem like a small thing but there’s lots of good reasons to brush up on your cooking skills..</p>"
+            },
+            {
+                "heading": "",
+                "content": "1. If you take responsibility for most of the cooking, it’ll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win."
+            },
+            {
+                "heading": "",
+                "content": "2. If you don’t usually cook at home already, you’ll find that you’re saving yourselves some cash."
+            },
+            {
+                "heading": "",
+                "content": "3. You’ll know exactly what you’re eating from a nutritional point of view, meaning you can both make good choices. "
+            },
+            {
+                "heading": "",
+                "content": "4. When you’re both tired you’ll be able to cook something healthy, fast. Or better still, you’ll have stuff in the freezer ready to be microwaved. "
+            },
+            {
+                "heading": "",
+                "content": "5. You’ll get kudos. Lots and lots of kudos. "
+            },
+            {
+                "type": "yes-list",
+                "title": "What to do:",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Focus on simple meals – It’s better to get the basics right than learn how to plan elaborate dinner parties. Start with pasta dishes, stews, soups and salads. Lasagne and chilli freeze particularly well. Anything that can be made one-handed while carrying a baby.  "
+                    },
+                    {
+                        "heading": "",
+                        "content": "Cook to order – Learn how to cook your partner’s favourite things.  "
+                    },
+                    {
+                        "heading": "",
+                        "content": "Collect recipes – There are tons of great sites out there. BBC Food, the Guardian Life & Style section, and Epicurious are excellent resources for healthy quick meals. Keep a note of the ones that work.  "
+                    },
+                    {
+                        "heading": "",
+                        "content": "Classes – Cooking lessons can be expensive. However beginners classes can be a good way to get you started.  "
+                    },
+                    {
+                        "heading": "",
+                        "content": "Baby cook books – Although you won’t need it right away, learning to cook healthy tasty food for you baby is a great way to ensure they’re getting the nutrition they need. And it feels brilliant when you’ve cooked something healthy that your kid loves.  "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Second Trimester",
+        "image": "baby",
+        "icon": "second-trimester",
+        "category": "second-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>From week 12th to week 18-20</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>The Baby</h1><p>The baby is now putting on about 100g a week in weight, and in the last few weeks of the trimester the baby will be almost fully formed. It’ll also start being very active in the womb. Expect the first kick sometime between weeks 16 and 20.</p><p>Some women experience feotal movements even earlier, which are called quickening or flutters.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Your Partner</h1><p>The good news is that your partner’s morning sickness has probably eased off. However, she’s still likely to suffer from heartburn, indigestion as well as constipation, varicose veins, hemorrhoids and general aches and pains. Yes, the going can get tough.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>Your partner’s body is going through a lot of changes in a very short space of time, so as she’s getting bigger she may get some stretch marks. She might be self-conscious or unhappy about all of this. Do a good job of making her feel good about herself. Most stretch marks reduce after giving birth.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>The bump will start showing and as the morning sickness and other symptoms subside, your partner may find she’s enjoying this trimester more than the first. So you should too.</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "Milestones",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Telling your family and friends"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Flutters"
+                    },
+                    {
+                        "heading": "",
+                        "content": "First kick"
+                    }
+                ]
+            },
+            {
+                "type": "warning-list",
+                "title": "Warning signs",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Unusual abdominal pain"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Vaginal bleeding"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Chronic nausea or vomiting"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Picking Names",
+        "image": "baby",
+        "icon": "second-trimester",
+        "category": "second-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>When couples start thinking of having kids they play the what’ll-we-name-our-kids game. It can be a lot less fun when you’re playing for keeps and both parties start playing rough.</br>To keep it clean, and to keep arguments to a minimum, here’s the rules to the Daddyo baby name game.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>1</h1><p>Go through a ‘research phase’. Get inspiration from books, movies, wherever. (Ironman is not a name) Have a time limit on this part – a week, a month, it doesn’t matter. Although, it’s probably a good idea to do it a bit before the due date.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>2</h1><p>On a pre-arranged day, both you and your partner each make a top 10 list of your favourite names. Five boys’ names, five girls’ names. If you already know the gender of the baby, you only get five names in total.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>3</h1><p>Swap the lists over. You each get two vetoes, one for each gender, and you get to cross the offending names off the list your partner made.</p>"
+            },
+            {
+                "type": "generic",
+                "content": "<h1>4</h1><p>Now rank the remaining names from your partner’s selection in your order of preference. Working together, eliminate names by:</p>"
+            },
+            {
+                "type": "generic",
+                "content": "<p>Checking the remaining choices against the current most popular current children’s names. You probably don’t want your baby’s name to be too common.</p>"
+            },
+            {
+                "type": "generic",
+                "content": "<p>Noting any family connections to any of the names – would a connection be a good thing or a bad thing?</p>"
+            },
+            {
+                "type": "generic",
+                "content": "<p>Asking if any of the names are cute for a kid, but odd for a grown man or woman?</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>Looking for negative connotations for the names, either historically or in fiction? Do they rhyme with anything that could lead to a schoolyard annoyance.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>5</h1><p>Check what’s left on both lists and take it in turns to make the case for the remaining names from your own list.</p>"
+            },
+            {
+                "type": "generic",
+                "content": "<h1>6</h1><p>Finding any common ground yet?</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>7</h1><p>If you still can’t agree, go back to step one. This time around you’re only allowed to take one name from your previous selection.</p>"
+            },
+            {
+                "type": "generic",
+                "content": "<p>Good luck!</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>After all of this, be ready to change – when you meet your baby, the name you’ve spent all this time fighting over may not seem to fit.</p>"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Buying a car seat",
+        "image": "baby",
+        "icon": "second-trimester",
+        "category": "second-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>As a parent, your first job is to make sure that your baby is as safe as possible. A good, safe, properly installed car seat is part of this.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>You’re likely to need two types of seat in your baby’s first year and a half. When choosing a car seat you use weight and height as a gauge, not age.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>You use a rear facing seat from birth. By the time your baby is about 13kg, it will most likely have outgrown rear facing car seats and you’ll need to switch to a front facing one.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>You should keep your baby in a rear facing seat as long as possible, but its head should never reach the top of the seat. </p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>As usual with baby equipment, the choice can be overwhelming at first. Be practical, do research online, and buy from a reputable source. Take the advice of relatives and friends who’ve recently had kids on the car seats that they’ve used.</p>"
+            },
+            {
+                "type": "generic",
+                "content": "<h1>Things to keep in mind</h1>"
+            },
+            {
+                "type": "normal",
+                "content": "<p><b>Head-hugger or a head cushion –</b> Helpful to support your baby’s head in the early months.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p><b>Fitting service –</b> Consider buying from a source that also offers to install it for you. Most car seats are manageable on your own but it might be worth checking all the same.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p><b>ISOFIX –</b> This is an international standard for fitting car seats. You should check if your car(s) supports this standard. Some older cars don’t. Although many seats also fit to adult seat belts, ISOFIX is recommended.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p><b>UN-ECE –</b> Your car seat needs to be compliant with EU and UN safety standards.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Warning Signs:</h1><p>Always make sure that the seat is fully secure. Check it regularly for defects, damage or stress on any of the fixtures.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Warning Signs:</h1><p><b>Never</b> install a rear facing baby seat in the front seat of a car without first disabling the airbag. It’s very dangerous and illegal.</p>"
+            },
+            {
+                "type": "tip",
+                "content": "Don’t buy a second hand car seat. You can’t be guaranteed that it’s still safe. Buy straight from a store to ensure that you’re getting a product in good condition and in perfect working order."
+            },
+            {
+                "type": "tip",
+                "content": "Fit the seat in advance of going to the hospital. They can be tricky and you don’t want to be fussing around trying to fit a seat when your partner is waiting for you to pick her up and take her home."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Cots and baskets",
+        "image": "baby",
+        "icon": "second-trimester",
+        "category": "second-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>Sleeping kit Cots and baskets</h1><p>Newborn babies eat, cry and sleep. The more they sleep, the less they do the other two things. So getting the right shut-eye gear is essential.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Baskets</h1><p>Moses baskets are useful for the first month or so. They’re portable and usually have a stand that folds away. However, they will be outgrown quickly and they can be expensive. If you’re thinking about using one, you could consider either borrowing one or buying secondhand.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Cots</h1><p>Your baby is probably going to be sleeping in this for quite some time. It’s worth putting some thought into your purchase. Here’s the Daddyo cot checklist:</p><h2>Does it comply with all EU safety standards?</h2><p>As with everything that you purchase for your baby, check that it is safety compliant. If you’re buying secondhand, make sure that the model you’re buying hasn’t been recalled due to safety concerns since its original purchase.</p><h2>Check the size?</h2><p>You want a cot that’s both big enough for your baby’s needs and fits within the space you have available. Measure your nursery before going out to buy. You might choose to have the baby in your room for the first few months, so you’ll have to consider how much space there is beside your bed.</p><h2>Is a mattress included with the cot?</h2><p>Most new cots, or cotbeds, will come with a mattress made to fit it. If you’re buying a secondhand cot, buy a new mattress. Whether your mattress comes with the cot or is bought separately, confirm that it is:</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Flame resistant."
+                    },
+                    {
+                        "heading": "",
+                        "content": "The correct size for your cot."
+                    },
+                    {
+                        "heading": "",
+                        "content": "And comfortably firm."
+                    }
+                ]
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Does the cot feel sturdy and durable?</h2><p>If you’re buying flatpack make sure that you’ve had the opportunity to look at a fully built show unit.</p><h2>Does it have a drop down side?</h2><p>A drop down side can be convenient for access but make sure that it is fully safety compliant, with a lock in the lower position. Frequently check that the mechanism is in good working order. Cots with drop down sides have been banned in the US since 2011. They are still available for sale in the EU, as long as they have met certain safety criteria.</p><h2>Is it height adjustable?</h2><p>A convenient, useful feature.</p>"
+            },
+            {
+                "type": "tip",
+                "content": "Cotbeds - these are cots that convert into small beds, either by simply removing the sides or by more complex re-configurations. Yes, they can be more expensive but your toddler could be sleeping in it for a number of years. Before you buy, make sure to have had a good look at the cot both in its normal and converted state."
+            },
+            {
+                "type": "tip",
+                "content": "Baby sleeping bags - these are recommended. They’re better than duvets or pillows, which can restrict the baby’s movements and make them too warm. And at the same time, they can’t be kicked off and they help prevent your baby getting their feet caught in the bars of the cot."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Strollers, pushchairs, prams and buggies.",
+        "image": "baby",
+        "icon": "second-trimester",
+        "category": "second-trimester",
+        "sections": [
+            {
+                "type": "yes-list",
+                "title": "Keep the following in mind.",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "<b>Cost –</b> Buggies can be expensive. How much you spend on one is up to you and your partner. Consider buying secondhand if you can find one in good condition."
+                    },
+                    {
+                        "heading": "",
+                        "content": "<b>Safety first –</b> Whether buying from a shop or secondhand always make sure that the buggy complies with proper safety standards."
+                    },
+                    {
+                        "heading": "",
+                        "content": "<b>Research –</b> Talk to friends and family who’ve had kids recently. Find out what’s worked for them. If you get a chance, try out a friend’s buggy for yourself. (Even better if there’s a helpful kid already in it.) Do your own research online on the model you’re thinking of buying. Time spent researching will save time in the buggy shop, and that’ll be time well spent."
+                    },
+                    {
+                        "heading": "",
+                        "content": "<b>Use from birth –</b> Most buggies can’t be used from birth. You’ll need to check with your retailer to assess suitability."
+                    }
+                ]
+            },
+            {
+                "type": "yes-list",
+                "title": "Checklist:",
+                "bullets": [
+                    {
+                        "heading": "Size",
+                        "content": "Is the buggy going to fit in your car boot? Three wheelers in particular take up a lot of room."
+                    },
+                    {
+                        "heading": "Ease of folding",
+                        "content": "Can you easily collapse or fold the stroller? Do you need both hands to do it, or can you do it with one? These are important questions because with one arm holding a baby many simple-seeming tasks become very tricky. Foldability is also critical if you take public transport regularly."
+                    },
+                    {
+                        "heading": "Lifestyle",
+                        "content": "If you and your partner have an active, outdoorsy lifestyle you’ll probably want a stroller that can take some punishment and that is maneuverable. Ask friends with similar habits what models they’re using."
+                    },
+                    {
+                        "heading": "Five point harness",
+                        "content": "These are the safety belts that keep the kid securely in the buggy. The harness goes over your baby’s shoulders, around the waist and between the legs. Make sure your buggy’s got them, and that they’re good. "
+                    },
+                    {
+                        "heading": "Brakes",
+                        "content": "Even if the model you’re looking at has a good safety record, check the brakes on the actual one that you’re buying and make sure you’re satisfied. Kick the tires, metaphorically."
+                    },
+                    {
+                        "heading": "Adjustable handles",
+                        "content": "Essential for if there’s a big difference in height between you and your partner. Even if there isn’t, this is still a very useful feature to have. "
+                    },
+                    {
+                        "heading": "Add ons",
+                        "content": "Check to see what’s included in the price. Usually the nice-to-have extras, including rain covers and sun umbrellas, are sold separately. "
+                    },
+                    {
+                        "heading": "Guarantee",
+                        "content": "If you’re buying from new, try to look for a local retailer that offers more than a one year guarantee. Strollers are an expensive purchase and having confidence that you can use the same one for child number two is an advantage."
+                    }
+                ]
+            },
+            {
+                "type": "yes-list",
+                "title": "Types of Strollers:",
+                "bullets": [
+                    {
+                        "heading": "Travel systems",
+                        "content": "A great solution for newborns. You get portability and easy switching from pram to car seat. You’ll need to check if separate adaptors are needed to correctly fit the car seat."
+                    },
+                    {
+                        "heading": "Buggy/stroller",
+                        "content": "Not suitable from birth but a good all rounder. Usually lower cost and reasonably compact."
+                    },
+                    {
+                        "heading": "Three Wheeler",
+                        "content": "Bulkier and trickier to fold, which can be a consideration for public transport, but a lot more maneuverable when you’ve got it set. Great for active lifestyles."
+                    }
+                ]
+            },
+            {
+                "type": "tip",
+                "content": "If you’re going to the shop to have a look at your options, avoid busy shopping times. You’ll be able to spend a more time with the retail staff and probably be able to give the strollers a better going over."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Third Trimester",
+        "image": "baby",
+        "icon": "third-trimester",
+        "category": "third-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>Week 18 to  birth (usually between weeks 38-40).</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>The Baby</h1><p>There’ll be less kicking and activity over the course of this trimester – mostly because the growing baby is running out of space in the womb. Your kid will now be capable of responding to sound, light and touch. From week 26 it is possible that the baby could survive outside the womb, albeit with intensive medical care. Closer to the time of birth the baby should position itself head down and lower down the abdomen.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>You partner</h1><p>Your partner will likely be in serious discomfort, so you’ll be called upon to help out even more. Resting will be difficult and she will have to sleep on her side. She will probably be nesting too, so expect demands to move things around or instruction to have the place tidier than normal. Ailments could include constipation, varicose veins, hemorrhoids, shortness of breath and swollen ankles. Her bladder will have pressure on it, meaning frequent trips to the bathroom. She’ll probably also experience Braxton Hicks contractions – a brief tensing of your partner’s tummy. They aren’t a sign of the onset of labour, just a normal part of pregnancy.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>You</h1><p>Yes, you get to be involved now. Start to talk to the baby, if you haven't already. It can feel a bit strange at first, especially if you're trying to think up something to say on the spot. You could try reading something aloud next to the bump. Children's books are good because they’re easy to read and act out. If you feel awkward doing this, then try humming songs. You'll be doing plenty of singing when the baby arrives, so getting practice in now can't hurt. Hopefully your partner will think this is all cool and not weird.</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "Milestones",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Antenatal classes"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Hitting the due date"
+                    },
+                    {
+                        "heading": "",
+                        "content": "XXXXX Any others? XXXXX"
+                    }
+                ]
+            },
+            {
+                "type": "warning-list",
+                "title": "Warning signs",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Unusual abdominal pain"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Vaginal bleeding"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Chronic nausea or vomiting"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Waters breaking too early"
+                    }
+                ]
+            }
+        ]
+    }
+]
