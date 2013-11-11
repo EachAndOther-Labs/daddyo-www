@@ -3,7 +3,7 @@
         "id": 1,
         "title": "First Trimester",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "1.1-first-trimester.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -46,7 +46,7 @@
         "id": 1,
         "title": "You",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "1.2-you.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -83,7 +83,7 @@
         "id": 1,
         "title": "Baby scans",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "1.3-baby-scans.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -134,7 +134,7 @@
         "id": 1,
         "title": "Morning Sickness",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "1.5-morning-sickness.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -167,7 +167,7 @@
         "id": 1,
         "title": "Feeding Time",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "1.4-food.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -306,7 +306,7 @@
         "id": 1,
         "title": "Cravings",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "1.6-cravings.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -343,7 +343,7 @@
         "id": 1,
         "title": "Finances",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "1.8-finances.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -422,7 +422,7 @@
         "id": 1,
         "title": "Cooking",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "1.9-cooking.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -481,7 +481,7 @@
         "id": 1,
         "title": "Second Trimester",
         "image": "baby",
-        "icon": "second-trimester",
+        "icon": "2.1-second-trimester.png",
         "category": "second-trimester",
         "sections": [
             {
@@ -546,7 +546,7 @@
         "id": 1,
         "title": "Picking Names",
         "image": "baby",
-        "icon": "second-trimester",
+        "icon": "2.3-picking-names.png",
         "category": "second-trimester",
         "sections": [
             {
@@ -611,7 +611,7 @@
         "id": 1,
         "title": "Buying a car seat",
         "image": "baby",
-        "icon": "second-trimester",
+        "icon": "3.2-car-seat.png",
         "category": "second-trimester",
         "sections": [
             {
@@ -676,7 +676,7 @@
         "id": 1,
         "title": "Cots and baskets",
         "image": "baby",
-        "icon": "second-trimester",
+        "icon": "3.3-cots-and-baskets.png",
         "category": "second-trimester",
         "sections": [
             {
@@ -727,7 +727,7 @@
         "id": 1,
         "title": "Strollers, pushchairs, prams and buggies.",
         "image": "baby",
-        "icon": "second-trimester",
+        "icon": "3.4-prams-buggies.png",
         "category": "second-trimester",
         "sections": [
             {
