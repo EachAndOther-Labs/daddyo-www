@@ -132,39 +132,6 @@
     },
     {
         "id": 1,
-        "title": "Morning Sickness",
-        "image": "baby",
-        "icon": "1.5-morning-sickness.png",
-        "category": "first-trimester",
-        "sections": [
-            {
-                "type": "normal",
-                "content": "<h1>What is it?</h1><p>Morning sickness is the common name for Nausea and Vomiting in Pregnancy (NVP) that most women experience at some point in the first trimester of pregnancy. Around half of all pregnant women will experience full-on morning sickness, while another third will have frequent bouts of nausea. So it’s very likely that your partner will be affected by it. The good new is that it usually has subsided by week 14.</p><p>There’s no definite answer on the cause of morning sickness but the consensus is that the most likely culprit is the dramatic hormonal changes that your partner’s body is going through.</p><p>Your partner might be one of the lucky ones and escape with only mild symptoms, or maybe none at all. If that’s the case, thank your lucky stars and don’t gloat over other less fortunate fathers-to-be.</p><p>Morning sickness doesn’t just happen in the morning. It can onset at any time of the day or night. It can last for just a short time, or all day long. For some women it’s a minor inconvenience, for others it can be debilitating.</p><p>For a while at least, it’s probably going to be just one of those things.</p>"
-            },
-            {
-                "type": "normal",
-                "content": "<h1>What to do</h1><p><b>Care –</b> It’s easy to forget how much nausea sucks. If you notice that your partner is looking a little down or peeky, ask is she’s alright or if you can help with anything. If you can, great. If not, then at least she knows you care.</p><p><b>Rest –</b>Encourage your partner to rest. More rest, usually mean less vomiting. Doing an extra 20-30 minutes of the daily chores can go a long way.</p><p><b>Eat in bed –</b> If your partner is vomiting or ill in the morning, she should get up slowly. She could try to have something plain to eat. Dry toast or crackers can be good.</p><p><b>Food smells –</b> Expectant mothers can acquire a superhuman sense of smell, which can bring on morning sickness. Also the scent of food can trigger nausea. Fish is a common trigger, so are beer and garlic. Every woman is different and some foods that she used to love will be intolerable now. Consider eating cold meals more often as the smells tend not to be as strong.</p><p><b>Citrus –</b> The smell of lemons and oranges can sometimes  reduce nausea.</p><p><b>Drinks –</b> Drink lots of fluids and stay hydrated. However, avoid drinks that are too cold or sharp tasting.</p><p><b>Frequent small meals –</b> This is often better than having two large meals. Eat foods that are high in carbohydrates eg. pasta, bread, rice, etc. Spicy, sweet food might be harder to keep down than plain, savoury foods.</p><p><b>Loose waisted clothes –</b> Your partner should wear something comfortable; tight waist bands can increase nausea.</p>"
-            },
-            {
-                "type": "tip",
-                "content": "Ginger biscuits, ginger ale or ginger supplements might alleviate the symptoms, as long as they contain real ginger. Just make sure, particularly with the supplements, that you are buying from a reputable source."
-            },
-            {
-                "type": "tip",
-                "content": "Aftershave has an extremely strong smell that can be a trigger for morning sickness. Put the bottle away, if it’s a problem."
-            },
-            {
-                "type": "tip",
-                "content": "Morning sickness is more likely to occur when your partner is tired and emotional. As she may not have told her family and friends that she’s pregnant, you’re the one on-call to support. As no one probably knows that your partner is pregnant yet, keep a couple of excuses handy to explain why you’re both suddenly leaving parties in a hurry."
-            },
-            {
-                "type": "normal",
-                "content": "<h1>Warning signs</h1><p>Some women experience severe or extreme morning sickness, which is called hyperemesis gravidarum. If your partner is chronically and violently ill, get medical advice. She may need to be treated in hospital.</p><p><b>Watch out for – </b>Dizzy or faint spells; very dark urine; stomach pains; high temperatures; or blood in vomit.</p>"
-            }
-        ]
-    },
-    {
-        "id": 1,
         "title": "Feeding Time",
         "image": "baby",
         "icon": "1.4-food.png",
@@ -299,6 +266,39 @@
             {
                 "type": "tip",
                 "content": "<h1>Alcohol</h1></br>Preferably alcohol should be avoided during pregnancy. There are serious risks associated with it, including restricted growth, facial abnormalities and learning disorders. Having said that, the highest risk is during the first three months of the pregnancy and there is some disagreement on whether or not there is a safe level of consumption. One or two units (that’s about half a glass of wine) a week after the first trimester may be OK. But it’s best to play it safe though and avoid completely. If it removes temptation, support your partner and cut back your own intake."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Morning Sickness",
+        "image": "baby",
+        "icon": "1.5-morning-sickness.png",
+        "category": "first-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>What is it?</h1><p>Morning sickness is the common name for Nausea and Vomiting in Pregnancy (NVP) that most women experience at some point in the first trimester of pregnancy. Around half of all pregnant women will experience full-on morning sickness, while another third will have frequent bouts of nausea. So it’s very likely that your partner will be affected by it. The good new is that it usually has subsided by week 14.</p><p>There’s no definite answer on the cause of morning sickness but the consensus is that the most likely culprit is the dramatic hormonal changes that your partner’s body is going through.</p><p>Your partner might be one of the lucky ones and escape with only mild symptoms, or maybe none at all. If that’s the case, thank your lucky stars and don’t gloat over other less fortunate fathers-to-be.</p><p>Morning sickness doesn’t just happen in the morning. It can onset at any time of the day or night. It can last for just a short time, or all day long. For some women it’s a minor inconvenience, for others it can be debilitating.</p><p>For a while at least, it’s probably going to be just one of those things.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>What to do</h1><p><b>Care –</b> It’s easy to forget how much nausea sucks. If you notice that your partner is looking a little down or peeky, ask is she’s alright or if you can help with anything. If you can, great. If not, then at least she knows you care.</p><p><b>Rest –</b>Encourage your partner to rest. More rest, usually mean less vomiting. Doing an extra 20-30 minutes of the daily chores can go a long way.</p><p><b>Eat in bed –</b> If your partner is vomiting or ill in the morning, she should get up slowly. She could try to have something plain to eat. Dry toast or crackers can be good.</p><p><b>Food smells –</b> Expectant mothers can acquire a superhuman sense of smell, which can bring on morning sickness. Also the scent of food can trigger nausea. Fish is a common trigger, so are beer and garlic. Every woman is different and some foods that she used to love will be intolerable now. Consider eating cold meals more often as the smells tend not to be as strong.</p><p><b>Citrus –</b> The smell of lemons and oranges can sometimes  reduce nausea.</p><p><b>Drinks –</b> Drink lots of fluids and stay hydrated. However, avoid drinks that are too cold or sharp tasting.</p><p><b>Frequent small meals –</b> This is often better than having two large meals. Eat foods that are high in carbohydrates eg. pasta, bread, rice, etc. Spicy, sweet food might be harder to keep down than plain, savoury foods.</p><p><b>Loose waisted clothes –</b> Your partner should wear something comfortable; tight waist bands can increase nausea.</p>"
+            },
+            {
+                "type": "tip",
+                "content": "Ginger biscuits, ginger ale or ginger supplements might alleviate the symptoms, as long as they contain real ginger. Just make sure, particularly with the supplements, that you are buying from a reputable source."
+            },
+            {
+                "type": "tip",
+                "content": "Aftershave has an extremely strong smell that can be a trigger for morning sickness. Put the bottle away, if it’s a problem."
+            },
+            {
+                "type": "tip",
+                "content": "Morning sickness is more likely to occur when your partner is tired and emotional. As she may not have told her family and friends that she’s pregnant, you’re the one on-call to support. As no one probably knows that your partner is pregnant yet, keep a couple of excuses handy to explain why you’re both suddenly leaving parties in a hurry."
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Warning signs</h1><p>Some women experience severe or extreme morning sickness, which is called hyperemesis gravidarum. If your partner is chronically and violently ill, get medical advice. She may need to be treated in hospital.</p><p><b>Watch out for – </b>Dizzy or faint spells; very dark urine; stomach pains; high temperatures; or blood in vomit.</p>"
             }
         ]
     },
@@ -609,10 +609,71 @@
     },
     {
         "id": 1,
+        "title": "Third Trimester",
+        "image": "baby",
+        "icon": "3.1-third-trimester",
+        "category": "third-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>Week 18 to  birth (usually between weeks 38-40).</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>The Baby</h1><p>There’ll be less kicking and activity over the course of this trimester – mostly because the growing baby is running out of space in the womb. Your kid will now be capable of responding to sound, light and touch. From week 26 it is possible that the baby could survive outside the womb, albeit with intensive medical care. Closer to the time of birth the baby should position itself head down and lower down the abdomen.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>You partner</h1><p>Your partner will likely be in serious discomfort, so you’ll be called upon to help out even more. Resting will be difficult and she will have to sleep on her side. She will probably be nesting too, so expect demands to move things around or instruction to have the place tidier than normal. Ailments could include constipation, varicose veins, hemorrhoids, shortness of breath and swollen ankles. Her bladder will have pressure on it, meaning frequent trips to the bathroom. She’ll probably also experience Braxton Hicks contractions – a brief tensing of your partner’s tummy. They aren’t a sign of the onset of labour, just a normal part of pregnancy.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>You</h1><p>Yes, you get to be involved now. Start to talk to the baby, if you haven't already. It can feel a bit strange at first, especially if you're trying to think up something to say on the spot. You could try reading something aloud next to the bump. Children's books are good because they’re easy to read and act out. If you feel awkward doing this, then try humming songs. You'll be doing plenty of singing when the baby arrives, so getting practice in now can't hurt. Hopefully your partner will think this is all cool and not weird.</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "Milestones",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Antenatal classes"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Hitting the due date"
+                    }
+                ]
+            },
+            {
+                "type": "warning-list",
+                "title": "Warning signs",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Unusual abdominal pain"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Vaginal bleeding"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Chronic nausea or vomiting"
+                    },
+                    {
+                        "heading": "",
+                        "content": "Waters breaking too early"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
         "title": "Buying a car seat",
         "image": "baby",
         "icon": "3.2-car-seat.png",
-        "category": "second-trimester",
+        "category": "third-trimester",
         "sections": [
             {
                 "type": "normal",
@@ -674,10 +735,10 @@
     },
     {
         "id": 1,
-        "title": "Cots and baskets",
+        "title": "Cots & baskets",
         "image": "baby",
         "icon": "3.3-cots-and-baskets.png",
-        "category": "second-trimester",
+        "category": "third-trimester",
         "sections": [
             {
                 "type": "normal",
@@ -725,10 +786,10 @@
     },
     {
         "id": 1,
-        "title": "Strollers, pushchairs, prams and buggies.",
+        "title": "Strollers & prams",
         "image": "baby",
         "icon": "3.4-prams-buggies.png",
-        "category": "second-trimester",
+        "category": "third-trimester",
         "sections": [
             {
                 "type": "yes-list",
@@ -816,72 +877,7 @@
     },
     {
         "id": 1,
-        "title": "Third Trimester",
-        "image": "baby",
-        "icon": "third-trimester",
-        "category": "third-trimester",
-        "sections": [
-            {
-                "type": "normal",
-                "content": "<p>Week 18 to  birth (usually between weeks 38-40).</p>"
-            },
-            {
-                "type": "normal",
-                "content": "<h1>The Baby</h1><p>There’ll be less kicking and activity over the course of this trimester – mostly because the growing baby is running out of space in the womb. Your kid will now be capable of responding to sound, light and touch. From week 26 it is possible that the baby could survive outside the womb, albeit with intensive medical care. Closer to the time of birth the baby should position itself head down and lower down the abdomen.</p>"
-            },
-            {
-                "type": "normal",
-                "content": "<h1>You partner</h1><p>Your partner will likely be in serious discomfort, so you’ll be called upon to help out even more. Resting will be difficult and she will have to sleep on her side. She will probably be nesting too, so expect demands to move things around or instruction to have the place tidier than normal. Ailments could include constipation, varicose veins, hemorrhoids, shortness of breath and swollen ankles. Her bladder will have pressure on it, meaning frequent trips to the bathroom. She’ll probably also experience Braxton Hicks contractions – a brief tensing of your partner’s tummy. They aren’t a sign of the onset of labour, just a normal part of pregnancy.</p>"
-            },
-            {
-                "type": "normal",
-                "content": "<h1>You</h1><p>Yes, you get to be involved now. Start to talk to the baby, if you haven't already. It can feel a bit strange at first, especially if you're trying to think up something to say on the spot. You could try reading something aloud next to the bump. Children's books are good because they’re easy to read and act out. If you feel awkward doing this, then try humming songs. You'll be doing plenty of singing when the baby arrives, so getting practice in now can't hurt. Hopefully your partner will think this is all cool and not weird.</p>"
-            },
-            {
-                "type": "yes-list",
-                "title": "Milestones",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "Antenatal classes"
-                    },
-                    {
-                        "heading": "",
-                        "content": "Hitting the due date"
-                    },
-                    {
-                        "heading": "",
-                        "content": "XXXXX Any others? XXXXX"
-                    }
-                ]
-            },
-            {
-                "type": "warning-list",
-                "title": "Warning signs",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "Unusual abdominal pain"
-                    },
-                    {
-                        "heading": "",
-                        "content": "Vaginal bleeding"
-                    },
-                    {
-                        "heading": "",
-                        "content": "Chronic nausea or vomiting"
-                    },
-                    {
-                        "heading": "",
-                        "content": "Waters breaking too early"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "title": "Feeding Time",
+        "title": "Hospital bag",
         "image": "baby",
         "icon": "3.5-hospital-bag.png",
         "category": "third-trimester",
@@ -1039,7 +1035,7 @@
         "title": "Labour",
         "image": "baby",
         "icon": "4.1-labour.png",
-        "category": "third-trimester",
+        "category": "labour",
         "sections": [
             {
                 "type": "normal",
@@ -1166,8 +1162,8 @@
     {
         "id": 1,
         "title": "Signs of labour",
-        "image": "4.1-labour.png",
-        "icon": "labour",
+        "image": "baby",
+        "icon": "4.1-labour.png",
         "category": "labour",
         "sections": [
             {
@@ -1201,7 +1197,7 @@
         "title": "What do you do for the birth?",
         "image": "baby",
         "icon": "4.1-labour.png",
-        "category": "third-trimester",
+        "category": "labour",
         "sections": [
             {
                 "type": "normal",
@@ -1349,7 +1345,7 @@
         "title": "Daddyo Labour Checklist",
         "image": "baby",
         "icon": "4.6-labour-checklist.png",
-        "category": "labour-trimester",
+        "category": "labour",
         "sections": [
             {
                 "type": "yes-list",
@@ -1667,7 +1663,7 @@
         "id": 1,
         "title": "Changing Nappies",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "5.4-changing-nappies.png",
         "category": "0-3 Months",
         "sections": [
             {
@@ -1973,7 +1969,7 @@
         "id": 1,
         "title": "Sterilising bottles",
         "image": "baby",
-        "icon": "5.5-breast-feeding.png",
+        "icon": "5.6-sterilising-bottles.png",
         "category": "0-3 Months",
         "sections": [
             {
@@ -2098,7 +2094,7 @@
         "id": 1,
         "title": "Preparing a bottle",
         "image": "baby",
-        "icon": "5.5-breast-feeding.png",
+        "icon": "5.7-preparing-bottle.png",
         "category": "naught-to-three",
         "sections": [
             {
@@ -2288,8 +2284,8 @@
     {
         "id": 1,
         "title": "How to give a baby a bath",
-        "image": "5.11-baby-bath.png",
-        "icon": "first-trimester",
+        "icon": "5.11-baby-bath.png",
+        "image": "baby",
         "category": "naught-to-three",
         "sections": [
             {
@@ -2384,7 +2380,7 @@
         "id": 1,
         "title": "Baby Talk",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "5.12-talk-to-baby.png",
         "category": "naught-to-three",
         "sections": [
             {
@@ -2430,7 +2426,7 @@
         "id": 1,
         "title": "Caring for your partner",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "5.14-caring-for-partner.png",
         "category": "naught-to-three",
         "sections": [
             {
@@ -2451,7 +2447,7 @@
         "id": 1,
         "title": "3-6 Months",
         "image": "baby",
-        "icon": "first-trimester",
+        "icon": "6.1-3-6-months.png",
         "category": "three-to-six",
         "sections": [
             {
@@ -2509,7 +2505,7 @@
     },
     {
         "id": 1,
-        "title": "Feeding Time",
+        "title": "Immunisations",
         "image": "baby",
         "icon": "6.3-immunizations.png",
         "category": "three-to-six",
