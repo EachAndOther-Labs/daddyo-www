@@ -1035,7 +1035,7 @@
         "title": "Labour",
         "image": "baby",
         "icon": "4.1-labour.png",
-        "category": "labour",
+        "category": "labour-trimester",
         "sections": [
             {
                 "type": "normal",
