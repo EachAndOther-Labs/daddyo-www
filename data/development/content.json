@@ -417,32 +417,26 @@
                 "type": "normal",
                 "content": "<p>This may seem like a small thing but there’s lots of good reasons to brush up on your cooking skills..</p>"
             },
-            {
-                "type": "yes-list",
-                "title": "",
-                "bullets": [
                     {
-                        "heading": "",
+                "type": "normal",
                         "content": "1. If you take responsibility for most of the cooking, it’ll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win."
                     },
                     {
-                        "heading": "",
+                "type": "normal",
                         "content": "2. If you don’t usually cook at home already, you’ll find that you’re saving yourselves some cash."
                     },
                     {
-                        "heading": "",
+                "type": "normal",
                         "content": "3. You’ll know exactly what you’re eating from a nutritional point of view, meaning you can both make good choices. "
                     },
                     {
-                        "heading": "",
+                "type": "normal",
                         "content": "4. When you’re both tired you’ll be able to cook something healthy, fast. Or better still, you’ll have stuff in the freezer ready to be microwaved. "
                     },
                     {
-                        "heading": "",
+                "type": "normal",
                         "content": "5. You’ll get kudos. Lots and lots of kudos. "
-                    }
-                ]
-            },
+                    },
             {
                 "type": "yes-list",
                 "title": "What to do:",
