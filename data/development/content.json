@@ -243,19 +243,19 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Butter and cream – Limit your intake. It’s safe, but unhealthy."
+                        "content": "<b>BUTTER AND CREAM</b> – Limit your intake. It’s safe, but unhealthy."
                     },
                     {
                         "heading": "",
-                        "content": "Salt – Totally fine in moderation. Just try to avoid processed food."
+                        "content": "<b>SALT</b> – Totally fine in moderation. Just try to avoid processed food."
                     },
                     {
                         "heading": "",
-                        "content": "Tuna – Once or twice a week max. High but generally safe level of mercury."
+                        "content": "<b>TUNA</b> – Once or twice a week max. High but generally safe level of mercury."
                     },
                     {
                         "heading": "",
-                        "content": "Caffeine – Try to limit to one coffee a day."
+                        "content": "<b>CAFFEINE</b> – Try to limit to one coffee a day."
                     }
                 ]
             },
@@ -307,15 +307,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>What are they?</h1>"
-            },
-            {
-                "type": "normal",
-                "content": "<p>Pregnancy is often associated with food cravings. They often have a sudden onset and can be quite intense. It could be a craving for something that your partner normally likes, normally doesn’t like, or something that’s downright weird.</p>"
-            },
-            {
-                "type": "normal",
-                "content": "<p>(Alternatively, your partner might go off foods that she used to love.)</p>"
+                "content": "<h1>What are they?</h1><p>Pregnancy is often associated with food cravings. They often have a sudden onset and can be quite intense. It could be a craving for something that your partner normally likes, normally doesn’t like, or something that’s downright weird. (Alternatively, your partner might go off foods that she used to love.)</p>"
             },
             {
                 "type": "normal",
@@ -323,7 +315,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>There’s no consensus on what causes cravings. They usually start in the first trimester, are at their strongest in the second, and have generally subsided before the birth of the baby.</p>"
+                "content": "<h2>What causes them?</h2><p>There’s no consensus on what causes cravings. They usually start in the first trimester, are at their strongest in the second, and have generally subsided before the birth of the baby.</p>"
             },
             {
                 "type": "normal",
@@ -344,11 +336,11 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Babies are expensive. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted out Porsche, or go for an ultra-reliable Toyota that will get the job done just as well.</p><p>As a general rule, don’t get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><p><b>Regular chats –</b> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a café or a quiet bar if that makes them less painful.</p>"
+                "content": "<h1>Finances</h1><p>Babies are expensive. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted out Porsche, or go for an ultra-reliable Toyota that will get the job done just as well.</p><p>As a general rule, don’t get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><p><h2>Regular chats</h2> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a café or a quiet bar if that makes them less painful.</p>"
             },
             {
                 "type": "yes-list",
-                "title": "You’re going to need to sort out figures for",
+                "title": "Sort out figures for",
                 "bullets": [
                     {
                         "heading": "Income changes",
@@ -426,24 +418,30 @@
                 "content": "<p>This may seem like a small thing but there’s lots of good reasons to brush up on your cooking skills..</p>"
             },
             {
-                "heading": "",
-                "content": "1. If you take responsibility for most of the cooking, it’ll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win."
-            },
-            {
-                "heading": "",
-                "content": "2. If you don’t usually cook at home already, you’ll find that you’re saving yourselves some cash."
-            },
-            {
-                "heading": "",
-                "content": "3. You’ll know exactly what you’re eating from a nutritional point of view, meaning you can both make good choices. "
-            },
-            {
-                "heading": "",
-                "content": "4. When you’re both tired you’ll be able to cook something healthy, fast. Or better still, you’ll have stuff in the freezer ready to be microwaved. "
-            },
-            {
-                "heading": "",
-                "content": "5. You’ll get kudos. Lots and lots of kudos. "
+                "type": "yes-list",
+                "title": "",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "1. If you take responsibility for most of the cooking, it’ll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win."
+                    },
+                    {
+                        "heading": "",
+                        "content": "2. If you don’t usually cook at home already, you’ll find that you’re saving yourselves some cash."
+                    },
+                    {
+                        "heading": "",
+                        "content": "3. You’ll know exactly what you’re eating from a nutritional point of view, meaning you can both make good choices. "
+                    },
+                    {
+                        "heading": "",
+                        "content": "4. When you’re both tired you’ll be able to cook something healthy, fast. Or better still, you’ll have stuff in the freezer ready to be microwaved. "
+                    },
+                    {
+                        "heading": "",
+                        "content": "5. You’ll get kudos. Lots and lots of kudos. "
+                    }
+                ]
             },
             {
                 "type": "yes-list",
