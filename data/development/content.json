@@ -8,10 +8,6 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Conception to week 12</p>"
-            },
-            {
-                "type": "normal",
                 "content": "<h1>The Baby</h1><p>The fertalised egg attaches itself to the wall of the womb. It starts off as just one cell, which quickly multiplies. Until week eight, it’s technically known as an embryo. By then all of the major organs will be place and medically it’s referred to as a feotus. You’ll call it ‘the baby’.</p><p>Your baby will grow from microscopic size at conception, to the size of a plum by week eight. By week 12 it’ll be about 7.5-10cm long and weigh a whopping 28g.</p>"
             },
             {
@@ -51,31 +47,31 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>1.2 You</h1><p>Your partner will be doing most of the baby work for the next 40 weeks, but that doesn’t mean you’re off the hook. You have a little over nine months to get ready for the biggest change you’ll ever experience in life. The time to start making the adjustment is right now, Daddyo.</p>"
+                "content": "<h1>You</h1><p>Your partner will be doing most of the baby work for the next 40 weeks, but that doesn’t mean you’re off the hook. You have a little over nine months to get ready for the biggest change you’ll ever experience in life. The time to start making the adjustment is right now, Daddyo.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Be kind</h1><p>It’s pretty likely that your partner is going to have some mood swings. This is normal. Be smart about it and try to rise. Your partner could be equally frustrated by how she feels. Stay calm to diffuse the tension and gain kudos in the long run.</p>"
+                "content": "<h2>Be kind</h2><p>It’s pretty likely that your partner is going to have some mood swings. This is normal. Be smart about it and try to rise. Your partner could be equally frustrated by how she feels. Stay calm to diffuse the tension and gain kudos in the long run.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Do stuff</h1><p>That means cleaning, vacuuming, shopping, laundry and all the other things you probably hate doing. If your partner is the clean freak in your relationship try to meet her at least halfway on standards. Pre-empting arguments about this can be a real win. (if you’re the clean freak, then carry on with what you’re doing.)</p>"
+                "content": "<h2>Do stuff</h2><p>That means cleaning, vacuuming, shopping, laundry and all the other things you probably hate doing. If your partner is the clean freak in your relationship try to meet her at least halfway on standards. Pre-empting arguments about this can be a real win. (if you’re the clean freak, then carry on with what you’re doing.)</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Get fit</h1><p>The next while is going to be physically demanding getting into a routine of a little extra exercise pays off in the long run. Join a gym. Do a bootcamp. Go jogging. Start cycling. It all helps. It’ll probably give you some time to think too, which can be nice.</p>"
+                "content": "<h2>Get fit</h2><p>The next while is going to be physically demanding getting into a routine of a little extra exercise pays off in the long run. Join a gym. Do a bootcamp. Go jogging. Start cycling. It all helps. It’ll probably give you some time to think too, which can be nice.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Make a budget</h1><p>Figure out the numbers. A new kid is expensive and you may need to make some changes now to afford things down the track.</p>"
+                "content": "<h2>Make a budget</h2><p>Figure out the numbers. A new kid is expensive and you may need to make some changes now to afford things down the track.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Lifestyle</h1><p>You’re probably going to need to be a bit more responsible about your time. That could mean cutting down on the lads nights out, or not spending three weekends away a month rock climbing.</p>"
+                "content": "<h2>Lifestyle</h2><p>You’re probably going to need to be a bit more responsible about your time. That could mean cutting down on the lads nights out, or not spending three weekends away a month rock climbing.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Learn how to cook</h1><p>An incredibly useful skill. If you know how to cook already, that’s great. Now learn how to cook for a pregnant lady and a baby.</p>"
+                "content": "<h2>Learn how to cook</h2><p>An incredibly useful skill. If you know how to cook already, that’s great. Now learn how to cook for a pregnant lady and a baby.</p>"
             }
         ]
     },
@@ -92,11 +88,11 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>First scan, 8-14 weeks</h1><p>This scan is used to ‘date’ the baby to see how it’s growing.</p>"
+                "content": "<h2>First scan, 8-14 weeks</h2><p>This scan is used to ‘date’ the baby to see how it’s growing.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Second scan, 18-21 weeks</h1><p>This is more detailed scan, which checks for major physical problems. The sonographer may also be able to tell you the sex of your baby, if they can make it out.</p>"
+                "content": "<h2>Second scan, 18-21 weeks</h2><p>This is more detailed scan, which checks for major physical problems. The sonographer may also be able to tell you the sex of your baby, if they can make it out.</p>"
             },
             {
                 "type": "yes-list",
@@ -132,14 +128,14 @@
     },
     {
         "id": 1,
-        "title": "Feeding Time",
+        "title": "Food Safety",
         "image": "baby",
         "icon": "1.4-food.png",
         "category": "first-trimester",
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>The best diet during pregnancy is a balanced and nutritious one that promotes steady weight gain. Your partner shouldn’t be concerned about putting on weight but equally, that’s not an excuse to go to town on takeaways.</p>"
+                "content": "<h1>Food Safety</h1><p>The best diet during pregnancy is a balanced and nutritious one that promotes steady weight gain. Your partner shouldn’t be concerned about putting on weight but equally, that’s not an excuse to go to town on takeaways.</p>"
             },
             {
                 "type": "normal",
@@ -155,35 +151,35 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Lean meats – Baked, boiled or grilled."
+                        "content": "<b>LEAN MEATS</b> – Baked, boiled or grilled."
                     },
                     {
                         "heading": "",
-                        "content": "Poultry (fully cooked) – Healthy low fat protein."
+                        "content": "<b>POULTRY (FULLY COOKED)</b> – Healthy low fat protein."
                     },
                     {
                         "heading": "",
-                        "content": "Eggs (fully cooked) – They’re brilliant."
+                        "content": "<b>EGGS (FULLY COOKED)</b> – They’re brilliant."
                     },
                     {
                         "heading": "",
-                        "content": "Fruit – Going crazy on fruit can help with constipation."
+                        "content": "<b>FRUIT</b> – Going crazy on fruit can help with constipation."
                     },
                     {
                         "heading": "",
-                        "content": "Vegetables – No brainer."
+                        "content": "<b>VEGETABLES</b> – No brainer."
                     },
                     {
                         "heading": "",
-                        "content": "Cereals – Choose whole grains whenever possible."
+                        "content": "<b>CEREALS</b> – Choose whole grains whenever possible."
                     },
                     {
                         "heading": "",
-                        "content": "Nuts – Great for healthy fats and protein."
+                        "content": "<b>NUTS</b> – Great for healthy fats and protein."
                     },
                     {
                         "heading": "",
-                        "content": "Milk – For calcium. You can also get calcium from fortified OJ, cheeses, soup made from proper chicken stock and sardines."
+                        "content": "<b>MILK</b> – For calcium. You can also get calcium from fortified OJ, cheeses, soup made from proper chicken stock and sardines."
                     }
                 ]
             },
@@ -193,51 +189,51 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Alcohol – In general, your partner should cut out the booze."
+                        "content": "<b>ALCOHOL</b> – In general, your partner should cut out the booze."
                     },
                     {
                         "heading": "",
-                        "content": "Liver – Has some great qualities, but it can contain too much vitamin A."
+                        "content": "<b>LIVER</b> – Has some great qualities, but it can contain too much vitamin A."
                     },
                     {
                         "heading": "",
-                        "content": "Pate – High risk of Listeria."
+                        "content": "<b>PATE</b> – High risk of Listeria."
                     },
                     {
                         "heading": "",
-                        "content": "Swordfish, Marlin, Shark – Too high in mercury."
+                        "content": "<b>SWORDFISH, MARLIN, SHARK</b> – Too high in mercury."
                     },
                     {
                         "heading": "",
-                        "content": "Hot dogs – High risk of Listeria."
+                        "content": "<b>HOT DOGS</b> – High risk of Listeria."
                     },
                     {
                         "heading": "",
-                        "content": "Luncheon meats – High risk of Listeria."
+                        "content": "<b>LUNCHEON MEATS</b> – High risk of Listeria."
                     },
                     {
                         "heading": "",
-                        "content": "Cured meats (parma, prosciutto) – Risk of listeriosis, toxoplamosis."
+                        "content": "<b>CURED MEATS (PARMA, PROSCUITTO)</b> – Risk of listeriosis, toxoplamosis."
                     },
                     {
                         "heading": "",
-                        "content": "Salamis – Risk of listeriosis & toxoplamosis."
+                        "content": "<b>SALAMIS</b> – Risk of listeriosis & toxoplamosis."
                     },
                     {
                         "heading": "",
-                        "content": "Uncooked smoked seafood – Fine when cooked."
+                        "content": "<b>UNCOOKED SMOKED SEAFOOD</b> – Fine when cooked."
                     },
                     {
                         "heading": "",
-                        "content": "Raw milk – Risk of Listeria and salmonella."
+                        "content": "<b>RAW MILK</b> – Risk of Listeria and salmonella."
                     },
                     {
                         "heading": "",
-                        "content": "Certain cheeses (soft, blue vein, mould ripened) – Same as raw milk."
+                        "content": "<b>CERTAIN CHEESES</b> - (soft, blue vein, mould ripened) same as raw milk."
                     },
                     {
                         "heading": "",
-                        "content": "Cigarettes – Yes, it’s not a food but we’re putting it in here while we’re talking about things to give up. If she’s a smoker, quitting is going to be really tough on your partner, so you’ll have to be supportive. If you smoke too, it’d be a good move to join in and quit. There’s no better motivation than a baby on the way."
+                        "content": "<b>CIGARETTES</b> – Yes, it’s not a food but we’re putting it in here while we’re talking about things to give up. If she’s a smoker, quitting is going to be really tough on your partner, so you’ll have to be supportive. If you smoke too, it’d be a good move to join in and quit. There’s no better motivation than a baby on the way."
                     }
                 ]
             },
@@ -265,7 +261,7 @@
             },
             {
                 "type": "tip",
-                "content": "<h1>Alcohol</h1></br>Preferably alcohol should be avoided during pregnancy. There are serious risks associated with it, including restricted growth, facial abnormalities and learning disorders. Having said that, the highest risk is during the first three months of the pregnancy and there is some disagreement on whether or not there is a safe level of consumption. One or two units (that’s about half a glass of wine) a week after the first trimester may be OK. But it’s best to play it safe though and avoid completely. If it removes temptation, support your partner and cut back your own intake."
+                "content": "Preferably alcohol should be avoided during pregnancy. There are serious risks associated with it, including restricted growth, facial abnormalities and learning disorders. Having said that, the highest risk is during the first three months of the pregnancy and there is some disagreement on whether or not there is a safe level of consumption. One or two units (that’s about half a glass of wine) a week after the first trimester may be OK. But it’s best to play it safe though and avoid completely. If it removes temptation, support your partner and cut back your own intake."
             }
         ]
     },
