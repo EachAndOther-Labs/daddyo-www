@@ -100,23 +100,23 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "<b>The baby’s size – And its development. The sonographer will be able to point our arms and legs."
+                        "content": "<b>The baby’s size</b> – And its development. The sonographer will be able to point our arms and legs."
                     },
                     {
                         "heading": "",
-                        "content": "<b>The baby’s gender – Talk to you partner before you go in for the scan about whether or not you want to know the sex of the baby. There’s not that many real surprises in life – but then again, knowing this might help you deck out the nursery. "
+                        "content": "<b>The baby’s gender</b> – Talk to you partner before you go in for the scan about whether or not you want to know the sex of the baby. There’s not that many real surprises in life – but then again, knowing this might help you deck out the nursery. "
                     },
                     {
                         "heading": "",
-                        "content": "<b>Multiple babies – Yes. It happens. One in eight pregnancies results in twins. Be mentally prepared."
+                        "content": "<b>Multiple babies</b> – Yes. It happens. One in eight pregnancies results in twins. Be mentally prepared."
                     },
                     {
                         "heading": "",
-                        "content": "<b>Physical abnormalities – The sonographer or doctor will advise you if there are any issues."
+                        "content": "<b>Physical abnormalities</b> – The sonographer or doctor will advise you if there are any issues."
                     },
                     {
                         "heading": "",
-                        "content": "<b>Baby position – This is only a factor in later stages of the pregnancy."
+                        "content": "<b>Baby position</b> – This is only a factor in later stages of the pregnancy."
                     }
                 ]
             },
@@ -184,7 +184,7 @@
                 ]
             },
             {
-                "type": "warning-list",
+                "type": "no-list",
                 "title": "No Things",
                 "bullets": [
                     {
@@ -415,51 +415,51 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>This may seem like a small thing but there’s lots of good reasons to brush up on your cooking skills..</p>"
+                "content": "<h1>Cooking</h1><p>This may seem like a small thing but there’s lots of good reasons to brush up on your cooking skills..</p>"
             },
-                    {
+            {
                 "type": "normal",
-                        "content": "1. If you take responsibility for most of the cooking, it’ll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win."
-                    },
-                    {
+                "content": "<h2>Win win</h2><p>1. If you take responsibility for most of the cooking, it’ll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win.</p>"
+            },
+            {
                 "type": "normal",
-                        "content": "2. If you don’t usually cook at home already, you’ll find that you’re saving yourselves some cash."
-                    },
-                    {
+                "content": "<h2>Save cash</h2><p>2. If you don’t usually cook at home already, you’ll find that you’re saving yourselves some cash.</p>"
+            },
+            {
                 "type": "normal",
-                        "content": "3. You’ll know exactly what you’re eating from a nutritional point of view, meaning you can both make good choices. "
-                    },
-                    {
+                "content": "<h2>Healthier</h2><p>3. You’ll know exactly what you’re eating from a nutritional point of view, meaning you can both make good choices.</p>"
+            },
+            {
                 "type": "normal",
-                        "content": "4. When you’re both tired you’ll be able to cook something healthy, fast. Or better still, you’ll have stuff in the freezer ready to be microwaved. "
-                    },
-                    {
+                "content": "<h2>Faster</h2><p>4. When you’re both tired you’ll be able to cook something healthy, fast. Or better still, you’ll have stuff in the freezer ready to be microwaved.</p>"
+            },
+            {
                 "type": "normal",
-                        "content": "5. You’ll get kudos. Lots and lots of kudos. "
-                    },
+                "content": "<h2>Kudos</h2><p>5. You’ll get kudos. Lots and lots of kudos.</p>"
+            },
             {
                 "type": "yes-list",
                 "title": "What to do:",
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Focus on simple meals – It’s better to get the basics right than learn how to plan elaborate dinner parties. Start with pasta dishes, stews, soups and salads. Lasagne and chilli freeze particularly well. Anything that can be made one-handed while carrying a baby.  "
+                        "content": "<b>Focus on simple meals</b> – It’s better to get the basics right than learn how to plan elaborate dinner parties. Start with pasta dishes, stews, soups and salads. Lasagne and chilli freeze particularly well. Anything that can be made one-handed while carrying a baby.  "
                     },
                     {
                         "heading": "",
-                        "content": "Cook to order – Learn how to cook your partner’s favourite things.  "
+                        "content": "<b>Cook to order</b> – Learn how to cook your partner’s favourite things.  "
                     },
                     {
                         "heading": "",
-                        "content": "Collect recipes – There are tons of great sites out there. BBC Food, the Guardian Life & Style section, and Epicurious are excellent resources for healthy quick meals. Keep a note of the ones that work.  "
+                        "content": "<b>Collect recipes</b> – There are tons of great sites out there. BBC Food, the Guardian Life & Style section, and Epicurious are excellent resources for healthy quick meals. Keep a note of the ones that work.  "
                     },
                     {
                         "heading": "",
-                        "content": "Classes – Cooking lessons can be expensive. However beginners classes can be a good way to get you started.  "
+                        "content": "<b>Classes</b> – Cooking lessons can be expensive. However beginners classes can be a good way to get you started.  "
                     },
                     {
                         "heading": "",
-                        "content": "Baby cook books – Although you won’t need it right away, learning to cook healthy tasty food for you baby is a great way to ensure they’re getting the nutrition they need. And it feels brilliant when you’ve cooked something healthy that your kid loves.  "
+                        "content": "<b>Baby cook books</b> – Although you won’t need it right away, learning to cook healthy tasty food for you baby is a great way to ensure they’re getting the nutrition they need. And it feels brilliant when you’ve cooked something healthy that your kid loves.  "
                     }
                 ]
             }
@@ -474,11 +474,11 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>From week 12th to week 18-20</p>"
+                "content": "<h1>The Baby</h1>"
             },
             {
                 "type": "normal",
-                "content": "<h1>The Baby</h1><p>The baby is now putting on about 100g a week in weight, and in the last few weeks of the trimester the baby will be almost fully formed. It’ll also start being very active in the womb. Expect the first kick sometime between weeks 16 and 20.</p><p>Some women experience feotal movements even earlier, which are called quickening or flutters.</p>"
+                "content": "<p>From week 12th to week 18-20. The baby is now putting on about 100g a week in weight, and in the last few weeks of the trimester the baby will be almost fully formed. It’ll also start being very active in the womb. Expect the first kick sometime between weeks 16 and 20.</p><p>Some women experience feotal movements even earlier, which are called quickening or flutters.</p>"
             },
             {
                 "type": "normal",
@@ -539,51 +539,51 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>When couples start thinking of having kids they play the what’ll-we-name-our-kids game. It can be a lot less fun when you’re playing for keeps and both parties start playing rough.</br>To keep it clean, and to keep arguments to a minimum, here’s the rules to the Daddyo baby name game.</p>"
+                "content": "<h1>Picking names</h1><p>When couples start thinking of having kids they play the what’ll-we-name-our-kids game. It can be a lot less fun when you’re playing for keeps and both parties start playing rough.</br>To keep it clean, and to keep arguments to a minimum, here’s the rules to the Daddyo baby name game.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>1</h1><p>Go through a ‘research phase’. Get inspiration from books, movies, wherever. (Ironman is not a name) Have a time limit on this part – a week, a month, it doesn’t matter. Although, it’s probably a good idea to do it a bit before the due date.</p>"
+                "content": "<h1>Phases</h1><h2>Research phase</h2><p>Go through a ‘research phase’. Get inspiration from books, movies, wherever. (Ironman is not a name) Have a time limit on this part – a week, a month, it doesn’t matter. Although, it’s probably a good idea to do it a bit before the due date.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>2</h1><p>On a pre-arranged day, both you and your partner each make a top 10 list of your favourite names. Five boys’ names, five girls’ names. If you already know the gender of the baby, you only get five names in total.</p>"
+                "content": "<h2>Top 10 lists</h2><p>On a pre-arranged day, both you and your partner each make a top 10 list of your favourite names. Five boys’ names, five girls’ names. If you already know the gender of the baby, you only get five names in total.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>3</h1><p>Swap the lists over. You each get two vetoes, one for each gender, and you get to cross the offending names off the list your partner made.</p>"
+                "content": "<h2>Swap lists</h2><p>Swap the lists over. You each get two vetoes, one for each gender, and you get to cross the offending names off the list your partner made.</p>"
             },
             {
                 "type": "generic",
-                "content": "<h1>4</h1><p>Now rank the remaining names from your partner’s selection in your order of preference. Working together, eliminate names by:</p>"
+                "content": "<h2>Ranking</h2><p>Now rank the remaining names from your partner’s selection in your order of preference. Working together, eliminate names by:</p>"
             },
             {
                 "type": "generic",
-                "content": "<p>Checking the remaining choices against the current most popular current children’s names. You probably don’t want your baby’s name to be too common.</p>"
+                "content": "<h2>Too popular?</h2><p>Checking the remaining choices against the current most popular current children’s names. You probably don’t want your baby’s name to be too common.</p>"
             },
             {
                 "type": "generic",
-                "content": "<p>Noting any family connections to any of the names – would a connection be a good thing or a bad thing?</p>"
+                "content": "<h2>Family name?</h2><p>Noting any family connections to any of the names – would a connection be a good thing or a bad thing?</p>"
             },
             {
                 "type": "generic",
-                "content": "<p>Asking if any of the names are cute for a kid, but odd for a grown man or woman?</p>"
+                "content": "<h2>Too cute?</h2><p>Asking if any of the names are cute for a kid, but odd for a grown man or woman?</p>"
             },
             {
                 "type": "normal",
-                "content": "<p>Looking for negative connotations for the names, either historically or in fiction? Do they rhyme with anything that could lead to a schoolyard annoyance.</p>"
+                "content": "<h2>Bully-proof?</h2><p>Looking for negative connotations for the names, either historically or in fiction? Do they rhyme with anything that could lead to a schoolyard annoyance.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>5</h1><p>Check what’s left on both lists and take it in turns to make the case for the remaining names from your own list.</p>"
+                "content": "<h2>Swap back</h2><p>Check what’s left on both lists and take it in turns to make the case for the remaining names from your own list.</p>"
             },
             {
                 "type": "generic",
-                "content": "<h1>6</h1><p>Finding any common ground yet?</p>"
+                "content": "<p>Finding any common ground yet?</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>7</h1><p>If you still can’t agree, go back to step one. This time around you’re only allowed to take one name from your previous selection.</p>"
+                "content": "<h2>Start over</h2><p>If you still can’t agree, go back to step one. This time around you’re only allowed to take one name from your previous selection.</p>"
             },
             {
                 "type": "generic",
@@ -604,11 +604,11 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Week 18 to  birth (usually between weeks 38-40).</p>"
+                "content": "<h1>The Baby</h1>"
             },
             {
                 "type": "normal",
-                "content": "<h1>The Baby</h1><p>There’ll be less kicking and activity over the course of this trimester – mostly because the growing baby is running out of space in the womb. Your kid will now be capable of responding to sound, light and touch. From week 26 it is possible that the baby could survive outside the womb, albeit with intensive medical care. Closer to the time of birth the baby should position itself head down and lower down the abdomen.</p>"
+                "content": "<p>Week 18 to  birth (usually between weeks 38-40). There’ll be less kicking and activity over the course of this trimester – mostly because the growing baby is running out of space in the womb. Your kid will now be capable of responding to sound, light and touch. From week 26 it is possible that the baby could survive outside the womb, albeit with intensive medical care. Closer to the time of birth the baby should position itself head down and lower down the abdomen.</p>"
             },
             {
                 "type": "normal",
@@ -658,14 +658,14 @@
     },
     {
         "id": 1,
-        "title": "Buying a car seat",
+        "title": "Car seat",
         "image": "baby",
         "icon": "3.2-car-seat.png",
         "category": "third-trimester",
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>As a parent, your first job is to make sure that your baby is as safe as possible. A good, safe, properly installed car seat is part of this.</p>"
+                "content": "<h1>Buying a car seat</h1><p>As a parent, your first job is to make sure that your baby is as safe as possible. A good, safe, properly installed car seat is part of this.</p>"
             },
             {
                 "type": "normal",
@@ -689,27 +689,37 @@
             },
             {
                 "type": "normal",
-                "content": "<p><b>Head-hugger or a head cushion –</b> Helpful to support your baby’s head in the early months.</p>"
+                "content": "<h2>Head-hugger or a head cushion</h2><p>Helpful to support your baby’s head in the early months.</p>"
             },
             {
                 "type": "normal",
-                "content": "<p><b>Fitting service –</b> Consider buying from a source that also offers to install it for you. Most car seats are manageable on your own but it might be worth checking all the same.</p>"
+                "content": "<h2>Fitting service</h2><p> Consider buying from a source that also offers to install it for you. Most car seats are manageable on your own but it might be worth checking all the same.</p>"
             },
             {
                 "type": "normal",
-                "content": "<p><b>ISOFIX –</b> This is an international standard for fitting car seats. You should check if your car(s) supports this standard. Some older cars don’t. Although many seats also fit to adult seat belts, ISOFIX is recommended.</p>"
+                "content": "<h2>ISOFIX</h2><p>This is an international standard for fitting car seats. You should check if your car(s) supports this standard. Some older cars don’t. Although many seats also fit to adult seat belts, ISOFIX is recommended.</p>"
             },
             {
                 "type": "normal",
-                "content": "<p><b>UN-ECE –</b> Your car seat needs to be compliant with EU and UN safety standards.</p>"
+                "content": "<h2>UN-ECE</h2><p>Your car seat needs to be compliant with EU and UN safety standards.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Warning Signs:</h1><p>Always make sure that the seat is fully secure. Check it regularly for defects, damage or stress on any of the fixtures.</p>"
+                "content": "<h1>Warning Signs:</h1><p></p>"
             },
             {
-                "type": "normal",
-                "content": "<h1>Warning Signs:</h1><p><b>Never</b> install a rear facing baby seat in the front seat of a car without first disabling the airbag. It’s very dangerous and illegal.</p>"
+                "type": "warning-list",
+                "title": "Warning signs",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Always make sure that the seat is fully secure. Check it regularly for defects, damage or stress on any of the fixtures."
+                    },
+                    {
+                        "heading": "",
+                        "content": "<b>Never</b> install a rear facing baby seat in the front seat of a car without first disabling the airbag. It’s very dangerous and illegal."
+                    }
+                ]
             },
             {
                 "type": "tip",
@@ -730,7 +740,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Sleeping kit Cots and baskets</h1><p>Newborn babies eat, cry and sleep. The more they sleep, the less they do the other two things. So getting the right shut-eye gear is essential.</p>"
+                "content": "<h1>Sleeping Cots and baskets</h1><p>Newborn babies eat, cry and sleep. The more they sleep, the less they do the other two things. So getting the right shut-eye gear is essential.</p>"
             },
             {
                 "type": "normal",
@@ -738,11 +748,15 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Cots</h1><p>Your baby is probably going to be sleeping in this for quite some time. It’s worth putting some thought into your purchase. Here’s the Daddyo cot checklist:</p><h2>Does it comply with all EU safety standards?</h2><p>As with everything that you purchase for your baby, check that it is safety compliant. If you’re buying secondhand, make sure that the model you’re buying hasn’t been recalled due to safety concerns since its original purchase.</p><h2>Check the size?</h2><p>You want a cot that’s both big enough for your baby’s needs and fits within the space you have available. Measure your nursery before going out to buy. You might choose to have the baby in your room for the first few months, so you’ll have to consider how much space there is beside your bed.</p><h2>Is a mattress included with the cot?</h2><p>Most new cots, or cotbeds, will come with a mattress made to fit it. If you’re buying a secondhand cot, buy a new mattress. Whether your mattress comes with the cot or is bought separately, confirm that it is:</p>"
+                "content": "<h1>Cots</h1><p>Your baby is probably going to be sleeping in this for quite some time. It’s worth putting some thought into your purchase. Here’s the Daddyo cot checklist:</p><h2>Does it comply with all EU standards?</h2><p>As with everything that you purchase for your baby, check that it is safety compliant. If you’re buying secondhand, make sure that the model you’re buying hasn’t been recalled due to safety concerns since its original purchase.</p><h2>Check the size</h2><p>You want a cot that’s both big enough for your baby’s needs and fits within the space you have available. Measure your nursery before going out to buy. You might choose to have the baby in your room for the first few months, so you’ll have to consider how much space there is beside your bed.</p><h2>Is a mattress included with the cot?</h2><p>Most new cots, or cotbeds, will come with a mattress made to fit it. If you’re buying a secondhand cot, buy a new mattress. Whether your mattress comes with the cot or is bought separately, confirm that it is:</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Does the cot feel sturdy and durable?</h2><p>If you’re buying flatpack make sure that you’ve had the opportunity to look at a fully built show unit.</p><h2>Does it have a drop down side?</h2><p>A drop down side can be convenient for access but make sure that it is fully safety compliant, with a lock in the lower position. Frequently check that the mechanism is in good working order. Cots with drop down sides have been banned in the US since 2011. They are still available for sale in the EU, as long as they have met certain safety criteria.</p><h2>Height adjustable?</h2><p>A convenient, useful feature.</p>"
             },
             {
                 "type": "yes-list",
-                "title": "",
+                "title": "Make sure it's",
                 "bullets": [
                     {
                         "heading": "",
@@ -757,10 +771,6 @@
                         "content": "And comfortably firm."
                     }
                 ]
-            },
-            {
-                "type": "normal",
-                "content": "<h2>Does the cot feel sturdy and durable?</h2><p>If you’re buying flatpack make sure that you’ve had the opportunity to look at a fully built show unit.</p><h2>Does it have a drop down side?</h2><p>A drop down side can be convenient for access but make sure that it is fully safety compliant, with a lock in the lower position. Frequently check that the mechanism is in good working order. Cots with drop down sides have been banned in the US since 2011. They are still available for sale in the EU, as long as they have met certain safety criteria.</p><h2>Is it height adjustable?</h2><p>A convenient, useful feature.</p>"
             },
             {
                 "type": "tip",
@@ -780,26 +790,20 @@
         "category": "third-trimester",
         "sections": [
             {
-                "type": "yes-list",
-                "title": "Keep the following in mind.",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "<b>Cost –</b> Buggies can be expensive. How much you spend on one is up to you and your partner. Consider buying secondhand if you can find one in good condition."
-                    },
-                    {
-                        "heading": "",
-                        "content": "<b>Safety first –</b> Whether buying from a shop or secondhand always make sure that the buggy complies with proper safety standards."
-                    },
-                    {
-                        "heading": "",
-                        "content": "<b>Research –</b> Talk to friends and family who’ve had kids recently. Find out what’s worked for them. If you get a chance, try out a friend’s buggy for yourself. (Even better if there’s a helpful kid already in it.) Do your own research online on the model you’re thinking of buying. Time spent researching will save time in the buggy shop, and that’ll be time well spent."
-                    },
-                    {
-                        "heading": "",
-                        "content": "<b>Use from birth –</b> Most buggies can’t be used from birth. You’ll need to check with your retailer to assess suitability."
-                    }
-                ]
+                "type": "normal",
+                "content": "<h1>Keep the following in mind.</h1><h2>Cost</h2><p>Buggies can be expensive. How much you spend on one is up to you and your partner. Consider buying secondhand if you can find one in good condition.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Safety first</h2><p>Whether buying from a shop or secondhand always make sure that the buggy complies with proper safety standards.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Research</h2><p>Talk to friends and family who’ve had kids recently. Find out what’s worked for them. If you get a chance, try out a friend’s buggy for yourself. (Even better if there’s a helpful kid already in it.) Do your own research online on the model you’re thinking of buying. Time spent researching will save time in the buggy shop, and that’ll be time well spent.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Use from birth</h2><p>Most buggies can’t be used from birth. You’ll need to check with your retailer to assess suitability.</p>"
             },
             {
                 "type": "yes-list",
