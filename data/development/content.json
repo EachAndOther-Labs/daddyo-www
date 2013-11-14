@@ -530,7 +530,7 @@
             }
         ]
     },
-        {
+    {
         "id": 1,
         "title": "Announcement",
         "image": "baby",
@@ -638,81 +638,81 @@
             }
         ]
     },
-      {
-  "id": 1,
-  "title": "Antenatal Classes",
-  "image": "baby",
-  "icon": "2.4-antenatal-classes.png",
-  "category": "second-trimester",
-  "sections": [
-               {
-			   "type": "normal",
-               "content": "<p>Antenatal classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They’re supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
-               },
-{
-               "type": "normal",
-               "content": "<p>However, it’s generally true that soon-to-be dads find it a more useful than their partners (often because the mums have done their homework better). Make the most of these classes because they are genuinely useful.</p>"
-               },
-{
-               "type": "normal",
-               "content": "<p>This is going to be a crash course, so pay attention. And take notes.</p>"
-               },
- {
-               "type": "yes-list",
-               "title": "Depending on the class, you’ll cover",
-               "bullets": [
-                           {
-                           "heading": "",
-                           "content": " Birth choices available – Hospital, home birth, private, semi-private, etc."
-                           }, 
-						   {
-  						   "heading": "",
-                           "content": "Birth plans – What they are, how to make one."
-                           }, 
-						   {
-						   "heading": "",
-                           "content": "Labour – How to recognise it, what to do."
-                           }, 
-						   {
-						   "heading": "",
-                           "content": "Pain relief – From prescription medicine to massage techniques and everything in between."
-                           }, 
-                           {
-						   "heading": "",
-                           "content": "Relaxation tips – Which can be key to a smooth birth."
-                           }, 
-                           {
-						   "heading": "",
-                           "content": "Breathing techniques – Mostly for your partner, but during labour you might need some reminding too. "
-                           }, 
-                           {
-						   "heading": "",
-                           "content": "Birthing balls –  You’ll find out what they are and might be allowed to try one out, if you’re lucky. "
-                           }, 
-                           {
-						   "heading": "",
-                           "content": "Birth interventions – What happens when things get complicated."
-                           }, 
-						   {
-						   "heading": "",
-                           "content": "How tos – stay healthy, feed a baby, hold a baby, and more."
-                           }, 
-						   {
-						   "heading": "",
-                           "content": "Emotional wellbeing – for both you and your partner."
-						   }
-						]
-					},
-					{
-               "type": "normal",
-               "content": "<p>You’ll also be able to discuss your concerns and ask questions.</p>"
-               },
- {
-               "type": "tip",
-               "content": "Sign up to these classes early in pregnancy. They can fill up quickly and you don’t need the stress of telling your partner at week 30 that you never booked them."
-               }
-             ]
-             },
+    {
+        "id": 1,
+        "title": "Antenatal Classes",
+        "image": "baby",
+        "icon": "2.4-antenatal-classes.png",
+        "category": "second-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<p>Antenatal classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They’re supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>However, it’s generally true that soon-to-be dads find it a more useful than their partners (often because the mums have done their homework better). Make the most of these classes because they are genuinely useful.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<p>This is going to be a crash course, so pay attention. And take notes.</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "Depending on the class, you’ll cover",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": " Birth choices available – Hospital, home birth, private, semi-private, etc."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Birth plans – What they are, how to make one."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Labour – How to recognise it, what to do."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Pain relief – From prescription medicine to massage techniques and everything in between."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Relaxation tips – Which can be key to a smooth birth."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Breathing techniques – Mostly for your partner, but during labour you might need some reminding too. "
+                    },
+                    {
+                        "heading": "",
+                        "content": "Birthing balls –  You’ll find out what they are and might be allowed to try one out, if you’re lucky. "
+                    },
+                    {
+                        "heading": "",
+                        "content": "Birth interventions – What happens when things get complicated."
+                    },
+                    {
+                        "heading": "",
+                        "content": "How tos – stay healthy, feed a baby, hold a baby, and more."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Emotional wellbeing – for both you and your partner."
+                    }
+                ]
+            },
+            {
+                "type": "normal",
+                "content": "<p>You’ll also be able to discuss your concerns and ask questions.</p>"
+            },
+            {
+                "type": "tip",
+                "content": "Sign up to these classes early in pregnancy. They can fill up quickly and you don’t need the stress of telling your partner at week 30 that you never booked them."
+            }
+        ]
+    },
     {
         "id": 1,
         "title": "Third Trimester",
@@ -1273,7 +1273,7 @@
         "id": 1,
         "title": "Signs of labour",
         "image": "baby",
-        "icon": "4.1-labour.png",
+        "icon": "4.2-signs-of-labour.png",
         "category": "labour",
         "sections": [
             {
@@ -1306,7 +1306,7 @@
         "id": 1,
         "title": "What do you do for the birth?",
         "image": "baby",
-        "icon": "4.1-labour.png",
+        "icon": "4.3-what-you-do.png",
         "category": "labour",
         "sections": [
             {
@@ -2205,7 +2205,7 @@
         "title": "Preparing a bottle",
         "image": "baby",
         "icon": "5.7-preparing-bottle.png",
-        "category": "naught-to-three",
+        "category": "0-3-months",
         "sections": [
             {
                 "type": "yes-list",
@@ -2396,7 +2396,7 @@
         "title": "How to give a baby a bath",
         "icon": "5.11-baby-bath.png",
         "image": "baby",
-        "category": "naught-to-three",
+        "category": "0-3-months",
         "sections": [
             {
                 "type": "yes-list",
@@ -2490,12 +2490,12 @@
         "id": 1,
         "title": "Baby Talk",
         "image": "baby",
-        "icon": "5.12-talk-to-baby.png",
-        "category": "naught-to-three",
+        "icon": "5.12-baby-talk.png",
+        "category": "0-3-months",
         "sections": [
             {
                 "type": "generic",
-                "content": "<p>If you’ve never been around kids before it might feel strange to natter away to a baby. It’ll probably feel very natural when you’re holding your own.</br>Babies understand tones from an early age. Talking to them can soothe and relax them, and of course, it’s good for speech development. But that’s further down the road.</p>"
+                "content": "<h1>Talk to the Baby</h1><p>If you’ve never been around kids before it might feel strange to natter away to a baby. It’ll probably feel very natural when you’re holding your own.</br>Babies understand tones from an early age. Talking to them can soothe and relax them, and of course, it’s good for speech development. But that’s further down the road.</p>"
             },
             {
                 "type": "normal",
@@ -2508,7 +2508,7 @@
         "title": "Dealing with sleep deprivation",
         "image": "baby",
         "icon": "5.13-sleeping-arrangements.png",
-        "category": "naught-to-three",
+        "category": "0-3-months",
         "sections": [
             {
                 "type": "generic",
@@ -2536,8 +2536,8 @@
         "id": 1,
         "title": "Caring for your partner",
         "image": "baby",
-        "icon": "5.14-caring-for-partner.png",
-        "category": "naught-to-three",
+        "icon": "5.14-caring-for-your-partner.png",
+        "category": "0-3-months",
         "sections": [
             {
                 "type": "normal",
