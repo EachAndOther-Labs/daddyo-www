@@ -530,6 +530,49 @@
             }
         ]
     },
+        {
+        "id": 1,
+        "title": "Announcement",
+        "image": "baby",
+        "icon": "2.2-when-to-announce.png",
+        "category": "second-trimester",
+        "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>When to announce</h1><p>The tradition is to wait until twelve weeks from conception before telling your family and friends that you’re going to have a baby.</p><p>It’s more than tradition. The majority of miscarriages happen in the first three months. It can be hard enough to cope with this as a couple without having the added pressure of telling the bad news to everyone. So resist the temptation as much as possible.</p><p>Many couples make the choice not to tell the big news until after their first scan. You’ll both probably be really excited to spread the word as quickly as possible but to avoid hurt feelings tell agree together to tell people in order.</p><p>Assuming that you’re lucky enough to have all of the following, The Daddyo recommended announcement order is:</p>"
+            },
+            {
+                "type": "yes-list",
+                "title": "Announcement order",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "1. Both sets of parents"
+                    },
+                    {
+                        "heading": "",
+                        "content": "2. Brothers, sisters and close friends"
+                    },
+                    {
+                        "heading": "",
+                        "content": "3. Aunts, uncles, cousins"
+                    },
+                    {
+                        "heading": "",
+                        "content": "4. Colleagues & anyone else."
+                    }
+                ]
+            },
+            {
+                "type": "normal",
+                "content": "<p>If you feel the need to share your news over Facebook, only do it after you’ve gone through this list. Family members might find it hurtful to find out third hand that they’re going to have a new relation.</p>"
+            },
+            {
+                "type": "tip",
+                "content": "Book your paternity leave/holidays from work. You may need to ask for some flexibility, as the birth could happen a couple of weeks before or after the due date and you might have to duck out on very short notice. Nevertheless, having these dates down in the work diary makes everything feel a lot more real."
+            }
+        ]
+    },
     {
         "id": 1,
         "title": "Picking Names",
@@ -595,6 +638,81 @@
             }
         ]
     },
+      {
+  "id": 1,
+  "title": "Antenatal Classes",
+  "image": "baby",
+  "icon": "2.4-antenatal-classes.png",
+  "category": "second-trimester",
+  "sections": [
+               {
+			   "type": "normal",
+               "content": "<p>Antenatal classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They’re supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
+               },
+{
+               "type": "normal",
+               "content": "<p>However, it’s generally true that soon-to-be dads find it a more useful than their partners (often because the mums have done their homework better). Make the most of these classes because they are genuinely useful.</p>"
+               },
+{
+               "type": "normal",
+               "content": "<p>This is going to be a crash course, so pay attention. And take notes.</p>"
+               },
+ {
+               "type": "yes-list",
+               "title": "Depending on the class, you’ll cover",
+               "bullets": [
+                           {
+                           "heading": "",
+                           "content": " Birth choices available – Hospital, home birth, private, semi-private, etc."
+                           }, 
+						   {
+  						   "heading": "",
+                           "content": "Birth plans – What they are, how to make one."
+                           }, 
+						   {
+						   "heading": "",
+                           "content": "Labour – How to recognise it, what to do."
+                           }, 
+						   {
+						   "heading": "",
+                           "content": "Pain relief – From prescription medicine to massage techniques and everything in between."
+                           }, 
+                           {
+						   "heading": "",
+                           "content": "Relaxation tips – Which can be key to a smooth birth."
+                           }, 
+                           {
+						   "heading": "",
+                           "content": "Breathing techniques – Mostly for your partner, but during labour you might need some reminding too. "
+                           }, 
+                           {
+						   "heading": "",
+                           "content": "Birthing balls –  You’ll find out what they are and might be allowed to try one out, if you’re lucky. "
+                           }, 
+                           {
+						   "heading": "",
+                           "content": "Birth interventions – What happens when things get complicated."
+                           }, 
+						   {
+						   "heading": "",
+                           "content": "How tos – stay healthy, feed a baby, hold a baby, and more."
+                           }, 
+						   {
+						   "heading": "",
+                           "content": "Emotional wellbeing – for both you and your partner."
+						   }
+						]
+					},
+					{
+               "type": "normal",
+               "content": "<p>You’ll also be able to discuss your concerns and ask questions.</p>"
+               },
+ {
+               "type": "tip",
+               "content": "Sign up to these classes early in pregnancy. They can fill up quickly and you don’t need the stress of telling your partner at week 30 that you never booked them."
+               }
+             ]
+             },
     {
         "id": 1,
         "title": "Third Trimester",
