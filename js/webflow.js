@@ -19,17 +19,22 @@
   /**
    * Webflow.define() - Define a webflow.js module
    * @param  {string} name
-   * @param  {function} init
+   * @param  {function} factory
    */
-  api.define = function (name, init) {
-    var module = modules[name] = init($, _);
+  api.define = function (name, factory) {
+    var module = modules[name] = factory($, _);
     if (!module) return;
-    // Push module ready method into primary queue
-    module.ready && primary.push(module.ready);
     // If running in Webflow app, subscribe to design/preview events
     if (api.env()) {
-      module.design && window.addEventListener('__wf_design', module.design);
-      module.preview && window.addEventListener('__wf_preview', module.preview);
+      $.isFunction(module.design) && window.addEventListener('__wf_design', module.design);
+      $.isFunction(module.preview) && window.addEventListener('__wf_preview', module.preview);
+    }
+    // Look for a ready method on module
+    if (module.ready && $.isFunction(module.ready)) {
+      // If domready has already happened, call ready method
+      if (domready) module.ready();
+      // Otherwise push ready method into primary queue
+      else primary.push(module.ready);
     }
   };
   
@@ -402,7 +407,7 @@ Webflow.define('webflow-forms', function ($) {
     var siteId = $('html').data('wf-site');
 
     if (siteId) {
-      var url = 'http://localhost:3000/api/v1/form/' + siteId;
+      var url = 'https://webflow.com/api/v1/form/' + siteId;
 
       // Work around same-protocol IE XDR limitation
       if (retro && url.indexOf('https://webflow.com') >= 0) {
@@ -710,6 +715,27 @@ Webflow.define('webflow-maps', function ($) {
   return api;
 });
 /**
+ * Webflow: Google+ widget
+ */
+Webflow.define('webflow-gplus', function ($) {
+  'use strict';
+  
+  var $doc = $(document);
+  var api = {};
+  
+  api.ready = function () {
+    // Load Google+ API on the front-end
+    if (!Webflow.env()) init();
+  };
+  
+  function init() {
+    $doc.find('.w-widget-gplus') && Webflow.script('https://apis.google.com/js/plusone.js');
+  }
+  
+  // Export module
+  return api;
+});
+/**
  * Webflow: Smooth scroll
  */
 Webflow.define('webflow-scroll', function ($) {
@@ -721,29 +747,27 @@ Webflow.define('webflow-scroll', function ($) {
   var loc = win.location;
   
   function ready() {
-    // Smooth scroll during page load
+    // If hash is already present on page load, scroll to it right away
     if (loc.hash) {
-      _scroll(loc.hash.substring(1));
+      findEl(loc.hash.substring(1));
     }
 
-    // Smooth scroll to page sections
+    // When clicking on a link, check if it links to another part of the page
     $doc.on('click', 'a', function(e) {
       if (Webflow.env('design')) {
         return;
       }
 
-      var lnk = this,
-        hash = lnk.hash ? lnk.hash.substring(1) : null;
-
+      var hash = this.hash ? this.hash.substring(1) : null;
       if (hash) {
-        _scroll(hash, e);
+        findEl(hash, e);
       }
     });
   }
   
-  function _scroll(hash, e) {
-    var n = $('#' + hash);
-    if (!n || n.length === 0) {
+  function findEl(hash, e) {
+    var el = $('#' + hash);
+    if (!el.length) {
       return;
     }
 
@@ -757,66 +781,43 @@ Webflow.define('webflow-scroll', function ($) {
       win.history.pushState(null, null, '#' + hash);
     }
 
-    // Adjust for fixed header
-    var header = $('header');
-    header = header.length ? header : $body.children(':first');
-    var h = header.length ? header.get(0) : null;
-    var styles = null;
+    // If a fixed header exists, offset for the height
+    var header = $('header, body > .header, body > div:first-child');
+    var offset = header.css('position') === 'fixed' ? header.outerHeight() : 0;
 
-    if (h) {
-      if (win.getComputedStyle) {
-        styles = win.getComputedStyle(h, null);
-      } else if (h.currentStyle) {
-        styles = h.currentStyle; // IE8
-      }
-    }
-
-    var fixed = styles && styles['position'] == 'fixed',
-      offset = fixed ? header.outerHeight() : 0;
-
-    // Smooth scroll
-    if (e) {
-      _smooth(n, offset);
-    } else {
-      win.setTimeout(function() {
-        _smooth(n, offset);
-      }, 300);
-    }
+    win.setTimeout(function() {
+      scroll(el, offset);
+    }, e ? 0 : 300);
   }
   
-  function _smooth(n, offset, cb){
-    var w = window,
-      start = $(w).scrollTop(),
-      end = n.offset().top - offset,
-      clock = Date.now(),
-      animate = w.requestAnimationFrame || w.mozRequestAnimationFrame || w.webkitRequestAnimationFrame || function(fn) { window.setTimeout(fn, 15); },
-      duration = 472.143 * Math.log(Math.abs(start - end) +125) - 2000,
-      step = function() {
-        var elapsed = Date.now() - clock;
+  function scroll(el, offset){
+    var start = $(win).scrollTop();
+    var end = el.offset().top - offset;
+    var clock = Date.now();
+    var animate = win.requestAnimationFrame || win.mozRequestAnimationFrame || win.webkitRequestAnimationFrame || function(fn) { win.setTimeout(fn, 15); };
+    var duration = 472.143 * Math.log(Math.abs(start - end) +125) - 2000;
+    
+    var step = function() {
+      var elapsed = Date.now() - clock;
+      win.scroll(0, getY(start, end, elapsed, duration));
 
-        w.scroll(0, _pos(start, end, elapsed, duration));
-
-        if (elapsed > duration) {
-          if (cb) {
-            cb(n);
-          }
-        } else {
-          animate(step);
-        }
-      };
+      if (elapsed <= duration) {
+        animate(step);
+      }
+    };
 
     step();
   }
   
-  function _pos(start, end, elapsed, duration) {
+  function getY(start, end, elapsed, duration) {
     if (elapsed > duration) {
       return end;
     }
 
-    return start + (end - start) * _ease(elapsed / duration); 
+    return start + (end - start) * ease(elapsed / duration); 
   }
   
-  function _ease(t) {
+  function ease(t) {
     return t<0.5 ? 4*t*t*t : (t-1)*(2*t-2)*(2*t-2)+1;
   }
   
