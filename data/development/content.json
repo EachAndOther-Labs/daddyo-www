@@ -1475,7 +1475,7 @@
         "sections": [
             {
                 "type": "yes-list",
-                "title": "Workstation",
+                "title": "The list",
                 "bullets": [
                     {
                         "heading": "",
@@ -1537,32 +1537,36 @@
                 "content": "<p>None of them are reliable, so occupy your mind and find something useful to do:</p>"
             },
             {
-                "type": "normal",
-                "content": "<h1>Cook</h1><p>Use the extra time to cook a lot of freezer ready food. You’ll be congratulating yourself on your foresight after the birth.</p>"
+                "type": "generic",
+                "content": "<h1>What to do?</h1>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Plan stuff to do</h1><p>Box sets, walks, evenings out, friends over, books, video games. Do things together, and with other people. No need to get too adventurous – your partner could still go into labour at any time.</p>"
+                "content": "<h2>Cook</h2><p>Use the extra time to cook a lot of freezer ready food. You’ll be congratulating yourself on your foresight after the birth.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Relax</h1><p>Send your partner off for a gentle massage somewhere or run her a bath. And if you have the time, catch up on sleep.</p>"
+                "content": "<h2>Plan stuff to do</h2><p>Box sets, walks, evenings out, friends over, books, video games. Do things together, and with other people. No need to get too adventurous – your partner could still go into labour at any time.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Work</h1><p>Alternatively, work. If you’ve got a lot on your plate, doing more before the birth might give you a little extra space after it.</p>"
+                "content": "<h2>Relax</h2><p>Send your partner off for a gentle massage somewhere or run her a bath. And if you have the time, catch up on sleep.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>What you can do to bring on labour...</h1><p>Not much. There’s a lot of advice out there on the internet. It’s all pretty much nonsense. Some of it is benign, some of it is ill-advised and some of it is ridiculous. Stick to the following:</p>"
+                "content": "<h2>Work</h2><p>Alternatively, work. If you’ve got a lot on your plate, doing more before the birth might give you a little extra space after it.</p>"
             },
             {
                 "type": "normal",
-                "content": "<p><b>Sex –</b> Semen contains prostaglandin which softens the cervis. Sex also causes the release of oxytocin, which is linked to contractions. Don’t try this if your partner’s waters have already broken.</p>"
+                "content": "<h1>What helps to bring on labour?</h1><p>Not much. There’s a lot of advice out there on the internet. It’s all pretty much nonsense. Some of it is benign, some of it is ill-advised and some of it is ridiculous. Stick to the following:</p>"
             },
             {
                 "type": "normal",
-                "content": "<p><b>Light Exercise –</b> A walk around a park might work. Even if it doesn’t, at least you got out.</p>"
+                "content": "<h2>Sex</h2><p>Semen contains prostaglandin which softens the cervis. Sex also causes the release of oxytocin, which is linked to contractions. Don’t try this if your partner’s waters have already broken.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Light Exercise</h2><p>A walk around a park might work. Even if it doesn’t, at least you got out.</p>"
             }
         ]
     },
