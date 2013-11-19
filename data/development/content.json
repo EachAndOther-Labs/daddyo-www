@@ -1278,7 +1278,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>How to recognise early labour</h1><p>Strong, long, regular contractions</p><p>The most reliable sign that pregnancy is starting. Your partner’s womb is tensing and then relaxing. These are going to be a lot more pronounced than the Braxton Hicks contractions. If the contractions are lasting 30-60 seconds and are at 5 minute intervals, time to get in contact with the hospital or midwife, and go grab your contraction kit.</p>"
+                "content": "<h1>How to recognise early labour</h1><h2>Strong, long, regular contractions</h2><p>The most reliable sign that pregnancy is starting. Your partner’s womb is tensing and then relaxing. These are going to be a lot more pronounced than the Braxton Hicks contractions. If the contractions are lasting 30-60 seconds and are at 5 minute intervals, time to get in contact with the hospital or midwife, and go grab your contraction kit.</p>"
             },
             {
                 "type": "tip",
@@ -1286,7 +1286,23 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>A show</h1><p>This is when the mucus that is plugging the cervix comes away. It’s a blob of jelly like stuff, possibly with some blood in it. It’s not always obvious, and for some women it doesn’t come away until much later in labour. If it does happen, call the midwife or hospital. They’ll probably tell you to stay put but best to check in.</p><p>A show is evidence that the cervix is starting to open. Labour can follow immediately or it can take a few days. It’s a wait and see situation. Nevertheless, it’s time to double check the hospital bags.</p><h2>Warning sign</h2><p>A little blood in the show is fine and to be expected. If there’s continued bleeding though, call the midwife or the hospital.</p><h1>Waters breaking</h1><p>This is amniotic fluid draining from the vagina. The baby has been growing in what’s called an amniotic sac. When the membrane breaks the fluid comes out the vagina. It can either be a sudden a gush or just a trickle. It’s the traditional sign of labour starting but in many cases it doesn’t happen until much later in labour.</p><h2>Warning sign</h2><p>Amniotic fluid is a little yellowish and actually looks a lot like urine. It might have a little blood in it to begin with, but not much. Extra blood means you need to seek medical advice.</p><h2>Warning sign</h2><p>If your partner’s waters break, and there’s no other signs of the onset of labour, call the midwife or hospital. Without the protection of the amniotic sac the baby may be at risk of infection. It’s likely you’ll be told to wait for 24 hours and after that point the baby may be induced. But call, and get advice.</p>"
+                "content": "<h2>A show</h2><p>This is when the mucus that is plugging the cervix comes away. It’s a blob of jelly like stuff, possibly with some blood in it. It’s not always obvious, and for some women it doesn’t come away until much later in labour. If it does happen, call the midwife or hospital. They’ll probably tell you to stay put but best to check in.</p><p>A show is evidence that the cervix is starting to open. Labour can follow immediately or it can take a few days. It’s a wait and see situation. Nevertheless, it’s time to double check the hospital bags.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Warning sign</h2><p>A little blood in the show is fine and to be expected. If there’s continued bleeding though, call the midwife or the hospital.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Waters breaking</h2><p>This is amniotic fluid draining from the vagina. The baby has been growing in what’s called an amniotic sac. When the membrane breaks the fluid comes out the vagina. It can either be a sudden a gush or just a trickle. It’s the traditional sign of labour starting but in many cases it doesn’t happen until much later in labour.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Warning sign</h2><p>Amniotic fluid is a little yellowish and actually looks a lot like urine. It might have a little blood in it to begin with, but not much. Extra blood means you need to seek medical advice.</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h2>Warning sign</h2><p>If your partner’s waters break, and there’s no other signs of the onset of labour, call the midwife or hospital. Without the protection of the amniotic sac the baby may be at risk of infection. It’s likely you’ll be told to wait for 24 hours and after that point the baby may be induced. But call, and get advice.</p>"
             },
             {
                 "type": "tip",
@@ -1307,7 +1323,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Most women like the idea of having their partner with them in the delivery room. It’s common to the point of expected these days. You and your partner should agree whether or not you are to be present at the birth.</p><p>It can get pretty hair in there, so if you decide that it’s not for you, your partner can ask that another family member – for instance her mother or sister – attend instead. Alternatively, she can be attended by a doula instead.</p>"
+                "content": "<h1>What do you do for the birth?</h1><p>Most women like the idea of having their partner with them in the delivery room. It’s common to the point of expected these days. You and your partner should agree whether or not you are to be present at the birth.</p><p>It can get pretty hair in there, so if you decide that it’s not for you, your partner can ask that another family member – for instance her mother or sister – attend instead. Alternatively, she can be attended by a doula instead.</p>"
             },
             {
                 "type": "yes-list",
@@ -1336,36 +1352,40 @@
                 ]
             },
             {
-                "type": "generic",
-                "content": "<h1>If you’re not attending the birth.</h1>"
+                "type": "yes-list",
+                "title": "Not attending the birth?",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Stay in, or close by, the hospital (if that’s where you’re planning to have the birth)."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Try to stay occupied or distracted, which can be difficult."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Keep the relations informed."
+                    }
+                ]
             },
             {
-                "type": "normal",
-                "content": "Stay in, or close by, the hospital (if that’s where you’re planning to have the birth)."
-            },
-            {
-                "type": "normal",
-                "content": "Try to stay occupied or distracted, which can be difficult."
-            },
-            {
-                "type": "normal",
-                "content": "Keep the relations informed."
-            },
-            {
-                "type": "generic",
-                "content": "<h1>If you are attending the birth</h1>"
-            },
-            {
-                "type": "normal",
-                "content": "Follow the instructions from your antenatal classes. Ask the midwives where you should stand or what to do if you’re not sure. They’ll tell you anyway if you’re getting in the way."
-            },
-            {
-                "type": "normal",
-                "content": "If your partner doesn’t opt for an epidural, it may seem like she is being tortured. Do not panic, stay levelled headed and calm ."
-            },
-            {
-                "type": "normal",
-                "content": "Follow the medical staffs’ instructions to the letter"
+                "type": "yes-list",
+                "title": "Attending the birth?",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Follow the instructions from your antenatal classes. Ask the midwives where you should stand or what to do if you’re not sure. They’ll tell you anyway if you’re getting in the way."
+                    },
+                    {
+                        "heading": "",
+                        "content": "If your partner doesn’t opt for an epidural, it may seem like she is being tortured. Do not panic, stay levelled headed and calm ."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Follow the medical staffs’ instructions to the letter"
+                    }
+                ]
             },
             {
                 "type": "normal",
