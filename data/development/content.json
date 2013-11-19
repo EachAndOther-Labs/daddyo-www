@@ -1001,10 +1001,6 @@
                 "content": "<p>Pack all items for the labour ward in their own bag. It makes it easier to find what you need without having the stuff for the ward in the way.</br>Also, you don’t know how long your partner’s stay in hospital is going to be. Make sure that you know where all the spare clothes, pads and baby things are at home in case the stay is longer than expected.</p>"
             },
             {
-                "type": "generic",
-                "content": "<h1>Here’s the Daddyo list.</h1>"
-            },
-            {
                 "type": "yes-list",
                 "title": "Your partner",
                 "bullets": [
@@ -1149,7 +1145,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>This phase is all action. And sometimes, a fair bit of waiting around too.</br>The baby is ready to go. Hopefully it happens on, or near, the due date. However, early or late births are not uncommon. Unfortunately, every woman’s labour is different so it’s hard to give hard and fast rules.</p>"
+                "content": "<h1>Labour</h1><p>This phase is all action. And sometimes, a fair bit of waiting around too.</br>The baby is ready to go. Hopefully it happens on, or near, the due date. However, early or late births are not uncommon. Unfortunately, every woman’s labour is different so it’s hard to give hard and fast rules.</p>"
             },
             {
                 "type": "normal",
@@ -1282,7 +1278,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>How to recognise early labour</h1><h1>Strong, long, regular contractions</h1><p>The most reliable sign that pregnancy is starting. Your partner’s womb is tensing and then relaxing. These are going to be a lot more pronounced than the Braxton Hicks contractions. If the contractions are lasting 30-60 seconds and are at 5 minute intervals, time to get in contact with the hospital or midwife, and go grab your contraction kit.</p>"
+                "content": "<h1>How to recognise early labour</h1><p>Strong, long, regular contractions</p><p>The most reliable sign that pregnancy is starting. Your partner’s womb is tensing and then relaxing. These are going to be a lot more pronounced than the Braxton Hicks contractions. If the contractions are lasting 30-60 seconds and are at 5 minute intervals, time to get in contact with the hospital or midwife, and go grab your contraction kit.</p>"
             },
             {
                 "type": "tip",
