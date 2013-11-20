@@ -1579,7 +1579,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>You’re a Daddyo! Congratulations. For the next few weeks you’re probably going to be on an amazing, constant buzz. But don’t get carried away; the first three months can be pretty tough. Expect sleepless nights and a lot of adjustment. It’s non-stop feeding, crying and changing nappies – repeat. But the positives are going to blow the negatives away.</p>"
+                "content": "<h1>You’re a Daddyo!</h1><p>Congratulations. For the next few weeks you’re probably going to be on an amazing, constant buzz. But don’t get carried away; the first three months can be pretty tough. Expect sleepless nights and a lot of adjustment. It’s non-stop feeding, crying and changing nappies – repeat. But the positives are going to blow the negatives away.</p>"
             },
             {
                 "type": "normal",
