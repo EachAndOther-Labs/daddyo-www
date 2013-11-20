@@ -2112,7 +2112,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Sterilising your baby’s feeding equipment is vital in preventing potential infections.</br>You can either use a sterilising solution or an electric steriliser, which is probably more convenient but is also more expensive.</p>"
+                "content": "<h1>Sterilising bottles</h1><p>Sterilising your baby’s feeding equipment is vital in preventing potential infections.</br>You can either use a sterilising solution or an electric steriliser, which is probably more convenient but is also more expensive.</p>"
             },
             {
                 "type": "generic",
@@ -2262,8 +2262,66 @@
                 ]
             },
             {
-                "type": "normal",
-                "content": "<h1>The Job</h1><p>Boil the kettle. Use fresh tap/drinking water each time.</p><p>Let it cool for 30 minutes.</p><p>Follow the guidelines on the formula container.</p><p>Fill the bottle with the exact amount of water required.</p><p>Add in exactly the amount of powder recommend on the formula container.</p><p>Put on the lid and shake it until it’s well mixed.</p><p>Fill a bowl or other container with hot water but don’t fill it to the top of the container.</p><p>Put the bottle in the container to heat it up. ONLY use this method to heat the bottle. No microwaves. Ever.</p><p>Test the heat of the milk on your wrist. It should feel a little warm but not hot.</p><p>Position the baby comfortably in your arms. Her head should be higher than her body.</p><p>Hold the bottle at an angle so that the teat is filled with milk. Put it fully into her mouth.</p><p>She may stop and start feeding several times. Take your time and do your best to  get her to take the whole bottle.</p><p>If she’s done feeding, get rid of any formula that she did take. There’s too much of a risk of bacteria.</p><p></p><p>Feeding should take about 20 minutes but that’s a guideline not a hard and fast rule.</p>"
+                "type": "yes-list",
+                "title": "The Job",
+                "bullets": [
+                    {
+                        "heading": "",
+                        "content": "Boil the kettle. Use fresh tap/drinking water each time."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Let it cool for 30 minutes."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Follow the guidelines on the formula container."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Fill the bottle with the exact amount of water required."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Add in exactly the amount of powder recommend on the formula container."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Put on the lid and shake it until it’s well mixed."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Fill a bowl or other container with hot water but don’t fill it to the top of the container."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Put the bottle in the container to heat it up. ONLY use this method to heat the bottle. No microwaves. Ever."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Test the heat of the milk on your wrist. It should feel a little warm but not hot."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Position the baby comfortably in your arms. Her head should be higher than her body."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Hold the bottle at an angle so that the teat is filled with milk. Put it fully into her mouth."
+                    },
+                    {
+                        "heading": "",
+                        "content": "She may stop and start feeding several times. Take your time and do your best to  get her to take the whole bottle."
+                    },
+                    {
+                        "heading": "",
+                        "content": "If she’s done feeding, get rid of any formula that she did take. There’s too much of a risk of bacteria."
+                    },
+                    {
+                        "heading": "",
+                        "content": "Feeding should take about 20 minutes but that’s a guideline not a hard and fast rule."
+                    }
+                ]
             },
             {
                 "type": "tip",
@@ -2302,11 +2360,11 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>When babies are born their digestive tracts are not fully developed. This means that they often swallow air when they feed or cry, which makes their tummy swell and bloat. It’s very uncomfortable for them. This is called wind.</br>Some babies get wind very frequently, but it should reduce as they learn better control in feeding and their digestive track matures.</p>"
+                "content": "<h1>Winding a baby</h1><p>When babies are born their digestive tracts are not fully developed. This means that they often swallow air when they feed or cry, which makes their tummy swell and bloat. It’s very uncomfortable for them. This is called wind.</br>Some babies get wind very frequently, but it should reduce as they learn better control in feeding and their digestive track matures.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>How to identify wind</h1><p>The baby might stop sucking on the bottle before it’s finished. It might squirm, make faces and wail. You may even be able to hear trapped air rattling in its stomach. It might be in extra discomfort when lying flat on its back.</p>"
+                "content": "<h1>Identifying wind</h1><p>The baby might stop sucking on the bottle before it’s finished. It might squirm, make faces and wail. You may even be able to hear trapped air rattling in its stomach. It might be in extra discomfort when lying flat on its back.</p>"
             },
             {
                 "type": "normal",
@@ -2318,7 +2376,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Sitting pat</h2><p>Put the baby on your lap facing away from you. Lean the baby forward, supporting the chest with one arm and holding the chin in your hand. With your other hand pat or rub the baby’s back gently, but firmly. This has two advantages. Firstly, it’s easy to do when feeding and secondly when they burp and milk comes up it will dribble on them and their bib not on you.</p>"
+                "content": "<h2>Shoulder pat</h2><p>Place some muslin cloth on your shoulder. Hold the baby against your chest with an arm under the baby’s bottom for support. With your other hand pat or run the baby’s back gently, but firmly. It may also help to gently bounce on the spot. It may take a couple of tries.</p>"
             },
             {
                 "type": "normal",
