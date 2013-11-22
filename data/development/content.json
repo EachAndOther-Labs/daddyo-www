@@ -1800,8 +1800,8 @@
     {
         "id": 1,
         "title": "Changing Nappies",
-        "icon": "5.4-changing-nappies.png",
         "image": "5.4-changing-nappies-content.png",
+        "icon": "5.4-changing-nappies.png",
         "category": "0-3-months",
         "sections": [
             {
@@ -1836,77 +1836,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>The Job</h1><p>Daunting but very doable. Young babies will need changing up to twelve times a day, so you’ll get plenty of practice.</p>"
-            },
-            {
-                "type": "yes-list",
-                "title": "",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "If you’re using a changing table <b>NEVER</b> leave the baby unattended."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Unfasten the old nappy by pulling on the tabs."
-                    },
-                    {
-                        "heading": "",
-                        "content": "If there’s poo, use the old nappy to wipe off most of it as you take it off."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Disposable nappies can be rolled and resealed."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Put it in the nappy bin or plastic bag."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Use the baby wipes to get the rest of the poo."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Even it there’s just pee, you still have to do a good job cleaning."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Clean girls from front to back to avoid getting bacteria in her vagina."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Wipe boys from front to back making sure to clean around the scrotum and penis."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Place the fresh nappy under the baby with the tabs facing up."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Pour baby powder around the genitals to avoid nappy rash."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Pull the front of the nappy over the baby."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Fasten one side of the nappy, then the other."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Fasten the nappy so that it won’t come off but isn’t so tight that it could cause discomfort."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Put the baby in a secure place."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Wash your hands or use antibacterial handwash."
-                    }
-                ]
+                "content": "<h1>The Job</h1><p>Daunting but very doable. Young babies will need changing up to twelve times a day, so you’ll get plenty of practice.</p><ol><li>If you’re using a changing table <b>NEVER</b> leave the baby unattended.</li><li>Unfasten the old nappy by pulling on the tabs.</li><li>If there’s poo, use the old nappy to wipe off most of it as you take it off.</li><li>Disposable nappies can be rolled and resealed.</li><li>Put it in the nappy bin or plastic bag.</li><li>Use the baby wipes to get the rest of the poo.</li><li>Even it there’s just pee, you still have to do a good job cleaning.</li><li>Clean girls from front to back to avoid getting bacteria in her vagina.</li><li>Wipe boys from front to back making sure to clean around the scrotum and penis.</li><li>Place the fresh nappy under the baby with the tabs facing up.</li><li>Pour baby powder around the genitals to avoid nappy rash.</li><li>Pull the front of the nappy over the baby.</li><li>Fasten one side of the nappy, then the other.</li><li>Fasten the nappy so that it won’t come off but isn’t so tight that it could cause discomfort.</li><li>Put the baby in a secure place.</li><li>Wash your hands or use antibacterial handwash.</li></ol>"
             },
             {
                 "type": "tip",
@@ -2010,148 +1940,6 @@
             }
         ]
     },
-{  "id": 1,
-  "title": "Changing Nappies",
-  "image": "baby",
-  "icon": "5.4-changing-nappies.png",
-  "category": "0-3-months",
-  "sections": [
-               {
-               "type": "yes-list",
-               "title": "Workstation",
-               "bullets": [
-                           {
-                           "heading": "",
-                           "content": "Changing mat/changing table"
-                           },
-                           {
-                           "heading": "",
-                           "content": "Nappy – correct size"
-                           },
-                           {
-                           "heading": "",
-                           "content": "Baby wipes"
-                           },
-                           {
-                           "heading": "",
-                           "content": "Baby powder"
-                           },
-                           {
-                           "heading": "",
-                           "content": "Spare clothes"
-                           },
-                           {
-                           "heading": "",
-                           "content": "Plastic bag or nappy bin"
-                           }
-                           ]
-               },
-               {
-               "type": "normal",
-               "content": "<h1>The Job</h1><p>Daunting but very doable. Young babies will need changing up to twelve times a day, so you’ll get plenty of practice.</p><ol><li>If you’re using a changing table <b>NEVER</b> leave the baby unattended.</li><li>Unfasten the old nappy by pulling on the tabs.</li><li>If there’s poo, use the old nappy to wipe off most of it as you take it off.</li><li>Disposable nappies can be rolled and resealed.</li><li>Put it in the nappy bin or plastic bag.</li><li>Use the baby wipes to get the rest of the poo.</li><li>Even it there’s just pee, you still have to do a good job cleaning.</li><li>Clean girls from front to back to avoid getting bacteria in her vagina.</li><li>Wipe boys from front to back making sure to clean around the scrotum and penis.</li><li>Place the fresh nappy under the baby with the tabs facing up.</li><li>Pour baby powder around the genitals to avoid nappy rash.</li><li>Pull the front of the nappy over the baby.</li><li>Fasten one side of the nappy, then the other.</li><li>Fasten the nappy so that it won’t come off but isn’t so tight that it could cause discomfort.</li><li>Put the baby in a secure place.</li><li>Wash your hands or use antibacterial handwash.</li></ol>"
-               },
-               {
-               "type": "tip",
-               "content": "Don’t get oil, lotion or any moisture on the nappy’s sticky tabs as they may lose their stickability."
-               },
-               {
-               "type": "normal",
-               "content": "<h1>Nappy rash</h1><p>A pretty common affliction that most babies will get at some point in their first 18 months, and some babies have more sensitive skin.</p>"
-               },
-               {
-               "type": "warning-list",
-               "title": "Can be caused by:",
-               "bullets": [
-                           {
-                           "heading": "",
-                           "content": "Not changing the nappy after a poo or wee."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Chemical in disposable nappies."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Chafing soaps that are too irritating."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Not drying the baby properly after a bath."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Baby wipes."
-                           }
-                           ]
-               },
-               {
-               "type": "yes-list",
-               "title": "How to identify:",
-               "bullets": [
-                           {
-                           "heading": "",
-                           "content": "There’ll be red patches on the baby’s bottom."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Sore or aggravated looking skin."
-                           },
-                           {
-                           "heading": "",
-                           "content": "The skin is hot to touch."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Other blemishes, including spots and blisters."
-                           }
-                           ]
-               },
-               {
-               "type": "yes-list",
-               "title": "Preventing it:",
-               "bullets": [
-                           {
-                           "heading": "",
-                           "content": "Change nappies as soon as possible."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Make sure to clean everything really well."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Use baby powder to soak up extra moisture."
-                           },
-                           {
-                           "heading": "",
-                           "content": "If your baby seems to frequently get nappy rash, consider using a barrier cream, which you can get from your pharmacist."
-                           }
-                           ]
-               },
-               {
-               "type": "yes-list",
-               "title": "Treating it:",
-               "bullets": [
-                           {
-                           "heading": "",
-                           "content": "The best treatment is prevention, so follow the steps above."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Use a nappy rash cream, which you can get from your pharmacist."
-                           },
-                           {
-                           "heading": "",
-                           "content": "Put the baby on a towel leave it nappy-less for as long as possible to let air at the sore areas."
-                           }
-                           ]
-               },
-               {
-               "type": "normal",
-               "content": "<h1>Warning Sign</h1><p>A persistent rash could be something other than nappy rash. A bright red, moist rash with little pimples could be thrush. Check with your pharmacist or GP.</p>"
-               }
-               ]
-  },
     {
         "id": 1,
         "title": "Breast or bottle Feeding",
