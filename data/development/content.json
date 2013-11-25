@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+        "title": "First Trimester",
         "icon": "1.1-first-trimester.png",
         "image": "1.1-first-trimester-content-content.png",
         "category": "first-trimester",
@@ -1316,7 +1316,7 @@
     },
     {
         "id": 1,
-        "title": "What do you do for the birth?",
+        "title": "Birth: What to do?",
         "icon": "4.3-what-you-do.png",
         "image": "4.3-what-you-do-content.png",
         "category": "labour",
@@ -1395,11 +1395,15 @@
     },
     {
         "id": 1,
-        "title": "How to Time Contractions",
+        "title": "Timing Contractions",
         "icon": "4.5-contractions.png",
         "image": "4.5-contractions-content.png",
         "category": "labour",
         "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>How to Time Contractions</h1>"
+            },
             {
                 "type": "yes-list",
                 "title": "Workstation",
@@ -1468,7 +1472,7 @@
     },
     {
         "id": 1,
-        "title": "Daddyo Labour Checklist",
+        "title": "Labour Checklist",
         "icon": "4.6-labour-checklist.png",
         "image": "4.6-labour-checklist-content.png",
         "category": "labour",
@@ -1519,7 +1523,7 @@
     },
     {
         "id": 1,
-        "title": "Missing the due date",
+        "title": "Missing due date",
         "icon": "4.7-missing-due-date.png",
         "image": "4.7-missing-due-date-content.png",
         "category": "labour",
@@ -1942,14 +1946,14 @@
     },
     {
         "id": 1,
-        "title": "Breast or bottle Feeding",
+        "title": "Breast or bottle?",
         "icon": "5.5-breast-feeding.png",
         "image": "5.5-breast-feeding-content.png",
         "category": "0-3-months",
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Breast or bottle</h1><p>Breast feeding is generally considered the best way to go but there can be good reasons why your partner might choose to bottle feed instead.</p>"
+                "content": "<h1>Breast or bottle Feeding</h1><p>Breast feeding is generally considered the best way to go but there can be good reasons why your partner might choose to bottle feed instead.</p>"
             },
             {
                 "type": "generic",
@@ -2320,11 +2324,15 @@
     },
     {
         "id": 1,
-        "title": "How to stop a baby crying",
+        "title": "Stop a baby crying",
         "icon": "5.10-baby-crying.png",
         "image": "5.10-baby-crying-content.png",
         "category": "0-3-months",
         "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>How to stop a baby crying</h1>"
+            },
             {
                 "type": "yes-list",
                 "title": "Workstation",
@@ -2409,11 +2417,15 @@
     },
     {
         "id": 1,
-        "title": "How to give a baby a bath",
+        "title": "Bath the baby",
         "icon": "5.11-baby-bath.png",
         "image": "5.11-baby-bath-content.png",
         "category": "0-3-months",
         "sections": [
+            {
+                "type": "normal",
+                "content": "<h1>How to give a baby a bath</h1>"
+            },
             {
                 "type": "yes-list",
                 "title": "Workstation",
@@ -2521,14 +2533,14 @@
     },
     {
         "id": 1,
-        "title": "Dealing with sleep deprivation",
+        "title": "Sleep deprivation",
         "icon": "5.13-sleeping-arrangements.png",
         "image": "5.13-sleeping-arrangements-content.png",
         "category": "0-3-months",
         "sections": [
             {
                 "type": "generic",
-                "content": "<h1>Sleep deprivation</h1><p>The first weeks, and possibly months, can be very disruptive on your sleeping patterns. You’ll learn to live with never having enough sleep.</br>However, sleep deprivation can lead to postnatal depression for you or your partner, so don’t overlook trying to organise your lives to make it as easy as possible on you both. Talk about it early, and be ready to make compromises and allowances.</p>"
+                "content": "<h1>Dealing with sleep deprivation</h1><p>The first weeks, and possibly months, can be very disruptive on your sleeping patterns. You’ll learn to live with never having enough sleep.</br>However, sleep deprivation can lead to postnatal depression for you or your partner, so don’t overlook trying to organise your lives to make it as easy as possible on you both. Talk about it early, and be ready to make compromises and allowances.</p>"
             },
             {
                 "type": "normal",
@@ -2618,14 +2630,14 @@
     },
     {
         "id": 1,
-        "title": "playing with the baby",
+        "title": "playing with babies",
         "icon": "6.2-playing-with-baby.png",
         "image": "6.2-playing-with-baby-content.png",
         "category": "3-6-months",
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Playing is an important part of learning for children of all ages. It’s how they grow and develop and learn everything from basic motor skills, to how to communicate. </br>As your baby gets older and learns how to sit up and interact with the world, your games can become more physical and a lot more interactive.</p><h1>The Bang Things Together game</h1><p>Give the baby little wooden or plastic blocks that it can easily grip. Show it how to bang them together. That’s it. That’s a game.</p><h1>Knee Rides</h1><p>Put the kid on your knees and bounce it up and down gently. It’s a good one to do with nursery rhymes. Also, learn some nursery rhymes.</p><h1>Bath Time</h1><p>By three months you’ll be able to introduce toys into bath time that the baby can hold and play with. You can gently splash around too, if the kid enjoys the water.</p><h1>Blowing Bubbles</h1><p>Keeping bubbles on hand at all times is a good idea. After about four months or so the baby will be able to focus its eyes far enough ahead to be entertained by them.</p><h1>Gotcha!</h1><p>Children learn to anticipate actions at around four months. You can sneak up in a  mock-threatening way, and then inflict tickles and cuddles. This sounds really dumb but once you do this once, it’s hard to stop.</p><h1>Aeroplanes</h1><p>This one’s easy – pick the baby up and fly it around in your arms like an aeroplane or a rocket, making all the correct noises. This is about 80% of what being a dad is about.</p><h1>This Little Piggy</h1><p>Does this bring back memories? Count off your baby’s toes to the This Little Piggy nursery rhyme. Why do they like it? We don’t know. But they do.</p>"
+                "content": "<h1>playing with the baby</h1><p>Playing is an important part of learning for children of all ages. It’s how they grow and develop and learn everything from basic motor skills, to how to communicate. </br>As your baby gets older and learns how to sit up and interact with the world, your games can become more physical and a lot more interactive.</p><h1>The Bang Things Together game</h1><p>Give the baby little wooden or plastic blocks that it can easily grip. Show it how to bang them together. That’s it. That’s a game.</p><h1>Knee Rides</h1><p>Put the kid on your knees and bounce it up and down gently. It’s a good one to do with nursery rhymes. Also, learn some nursery rhymes.</p><h1>Bath Time</h1><p>By three months you’ll be able to introduce toys into bath time that the baby can hold and play with. You can gently splash around too, if the kid enjoys the water.</p><h1>Blowing Bubbles</h1><p>Keeping bubbles on hand at all times is a good idea. After about four months or so the baby will be able to focus its eyes far enough ahead to be entertained by them.</p><h1>Gotcha!</h1><p>Children learn to anticipate actions at around four months. You can sneak up in a  mock-threatening way, and then inflict tickles and cuddles. This sounds really dumb but once you do this once, it’s hard to stop.</p><h1>Aeroplanes</h1><p>This one’s easy – pick the baby up and fly it around in your arms like an aeroplane or a rocket, making all the correct noises. This is about 80% of what being a dad is about.</p><h1>This Little Piggy</h1><p>Does this bring back memories? Count off your baby’s toes to the This Little Piggy nursery rhyme. Why do they like it? We don’t know. But they do.</p>"
             }
         ]
     },
@@ -2724,7 +2736,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Introducing solids into your baby’s diet is called weaning, and it starts at about six months. Before this point, their digestive system just isn’t developed enough to handle anything other than breast milk or baby formula.</p><p>Even though you start introducing solids you should still continue to bottle or breastfeed.</p>"
+                "content": "<h1>Weaning and solid foods</h1><p>Introducing solids into your baby’s diet is called weaning, and it starts at about six months. Before this point, their digestive system just isn’t developed enough to handle anything other than breast milk or baby formula.</p><p>Even though you start introducing solids you should still continue to bottle or breastfeed.</p>"
             },
             {
                 "type": "yes-list",
@@ -2870,7 +2882,7 @@
     },
     {
         "id": 1,
-        "title": "Baby Proofing your home",
+        "title": "Baby Proofing",
         "icon": "6.6-babyproofing.png",
         "image": "6.6-babyproofing-content.png",
         "category": "3-6-months",
