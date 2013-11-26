@@ -1852,7 +1852,7 @@
             },
             {
                 "type": "warning-list",
-                "title": "Can be caused by:",
+                "title": "Caused by:",
                 "bullets": [
                     {
                         "heading": "",
@@ -1956,12 +1956,8 @@
                 "content": "<h1>Breast or bottle Feeding</h1><p>Breast feeding is generally considered the best way to go but there can be good reasons why your partner might choose to bottle feed instead.</p>"
             },
             {
-                "type": "generic",
-                "content": "<h1>Breast</h1>"
-            },
-            {
                 "type": "yes-list",
-                "title": "Pros",
+                "title": "Breast - Pros",
                 "bullets": [
                     {
                         "heading": "",
@@ -1979,7 +1975,7 @@
             },
             {
                 "type": "warning-list",
-                "title": "Cons",
+                "title": "Breast - Cons",
                 "bullets": [
                     {
                         "heading": "",
@@ -1992,12 +1988,8 @@
                 ]
             },
             {
-                "type": "generic",
-                "content": "<h1>Bottle</h1>"
-            },
-            {
                 "type": "yes-list",
-                "title": "Pros",
+                "title": "Bottle - Pros",
                 "bullets": [
                     {
                         "heading": "",
@@ -2011,7 +2003,7 @@
             },
             {
                 "type": "warning-list",
-                "title": "Cons",
+                "title": "Bottle - Cons",
                 "bullets": [
                     {
                         "heading": "",
@@ -2049,12 +2041,8 @@
                 "content": "<h1>Sterilising bottles</h1><p>Sterilising your baby’s feeding equipment is vital in preventing potential infections.</br>You can either use a sterilising solution or an electric steriliser, which is probably more convenient but is also more expensive.</p>"
             },
             {
-                "type": "generic",
-                "content": "<h1>Using sterilising solution</h1>"
-            },
-            {
                 "type": "yes-list",
-                "title": "Workstation",
+                "title": "Sterilising solution Workstation",
                 "bullets": [
                     {
                         "heading": "",
@@ -2117,12 +2105,8 @@
                 ]
             },
             {
-                "type": "generic",
-                "content": "<h1>Electric steriliser</h1>"
-            },
-            {
                 "type": "yes-list",
-                "title": "Workstation",
+                "title": "Electric steriliser Workstation",
                 "bullets": [
                     {
                         "heading": "",
@@ -2196,66 +2180,8 @@
                 ]
             },
             {
-                "type": "yes-list",
-                "title": "The Job",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "Boil the kettle. Use fresh tap/drinking water each time."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Let it cool for 30 minutes."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Follow the guidelines on the formula container."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Fill the bottle with the exact amount of water required."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Add in exactly the amount of powder recommend on the formula container."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Put on the lid and shake it until it’s well mixed."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Fill a bowl or other container with hot water but don’t fill it to the top of the container."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Put the bottle in the container to heat it up. ONLY use this method to heat the bottle. No microwaves. Ever."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Test the heat of the milk on your wrist. It should feel a little warm but not hot."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Position the baby comfortably in your arms. Her head should be higher than her body."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Hold the bottle at an angle so that the teat is filled with milk. Put it fully into her mouth."
-                    },
-                    {
-                        "heading": "",
-                        "content": "She may stop and start feeding several times. Take your time and do your best to  get her to take the whole bottle."
-                    },
-                    {
-                        "heading": "",
-                        "content": "If she’s done feeding, get rid of any formula that she did take. There’s too much of a risk of bacteria."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Feeding should take about 20 minutes but that’s a guideline not a hard and fast rule."
-                    }
-                ]
+                "type": "normal",
+                "content": "<h1>The Job</h1><ol><li>Boil the kettle. Use fresh tap/drinking water each time.</li><li>Let it cool for 30 minutes.</li><li>Follow the guidelines on the formula container.</li><li>Fill the bottle with the exact amount of water required.</li><li>Add in exactly the amount of powder recommend on the formula container.</li><li>Put on the lid and shake it until it’s well mixed.</li><li>Fill a bowl or other container with hot water but don’t fill it to the top of the container.</li><li>Put the bottle in the container to heat it up. ONLY use this method to heat the bottle. No microwaves. Ever.</li><li>Test the heat of the milk on your wrist. It should feel a little warm but not hot.</li><li>Position the baby comfortably in your arms. Her head should be higher than her body.</li><li>Hold the bottle at an angle so that the teat is filled with milk. Put it fully into her mouth.</li><li>She may stop and start feeding several times. Take your time and do your best to  get her to take the whole bottle.</li><li>If she’s done feeding, get rid of any formula that she did take. There’s too much of a risk of bacteria.</li><li>Feeding should take about 20 minutes but that’s a guideline not a hard and fast rule.</li></ol>"
             },
             {
                 "type": "tip",
