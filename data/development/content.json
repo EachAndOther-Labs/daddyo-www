@@ -1579,7 +1579,7 @@
         "title": "0-3 Months",
         "icon": "5.1-0-3-months.png",
         "image": "5.1-0-3-months-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "normal",
@@ -1660,7 +1660,7 @@
         "title": "Taking baby home",
         "icon": "5.2-going-home.png",
         "image": "5.2-going-home-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "generic",
@@ -1765,7 +1765,7 @@
         "title": "Holding the baby",
         "icon": "5.3-holding-baby.png",
         "image": "5.3-holding-baby-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "normal",
@@ -1806,7 +1806,7 @@
         "title": "Changing Nappies",
         "image": "5.4-changing-nappies-content.png",
         "icon": "5.4-changing-nappies.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "yes-list",
@@ -1949,7 +1949,7 @@
         "title": "Breast or bottle?",
         "icon": "5.5-breast-feeding.png",
         "image": "5.5-breast-feeding-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "normal",
@@ -2042,7 +2042,7 @@
         "title": "Sterilising bottles",
         "icon": "5.6-sterilising-bottles.png",
         "image": "5.6-sterilising-bottles-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "normal",
@@ -2167,7 +2167,7 @@
         "title": "Preparing a bottle",
         "icon": "5.7-preparing-bottle.png",
         "image": "5.7-preparing-bottle-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "yes-list",
@@ -2290,7 +2290,7 @@
         "title": "Winding a baby",
         "icon": "5.9-winding-baby.png",
         "image": "5.9-winding-baby-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "normal",
@@ -2327,7 +2327,7 @@
         "title": "Stop a baby crying",
         "icon": "5.10-baby-crying.png",
         "image": "5.10-baby-crying-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "normal",
@@ -2420,7 +2420,7 @@
         "title": "Bathing baby",
         "icon": "5.11-baby-bath.png",
         "image": "5.11-baby-bath-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "normal",
@@ -2519,7 +2519,7 @@
         "title": "Baby Talk",
         "icon": "5.12-baby-talk.png",
         "image": "5.12-baby-talk-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "generic",
@@ -2536,7 +2536,7 @@
         "title": "Sleep deprivation",
         "icon": "5.13-sleeping-arrangements.png",
         "image": "5.13-sleeping-arrangements-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "generic",
@@ -2565,7 +2565,7 @@
         "title": "Caring for partner",
         "icon": "5.14-caring-for-your-partner.png",
         "image": "5.14-caring-for-your-partner-content.png",
-        "category": "0-3-months",
+        "category": "zero-three-months",
         "sections": [
             {
                 "type": "normal",
@@ -2586,7 +2586,7 @@
         "title": "3-6 Months",
         "icon": "6.1-3-6-months.png",
         "image": "6.1-3-6-months-content.png",
-        "category": "3-6-months",
+        "category": "three-six-months",
         "sections": [
             {
                 "type": "normal",
@@ -2633,7 +2633,7 @@
         "title": "playing with baby",
         "icon": "6.2-playing-with-baby.png",
         "image": "6.2-playing-with-baby-content.png",
-        "category": "3-6-months",
+        "category": "three-six-months",
         "sections": [
             {
                 "type": "normal",
@@ -2646,7 +2646,7 @@
         "title": "Immunisations",
         "icon": "6.3-immunizations.png",
         "image": "6.3-immunizations-content.png",
-        "category": "3-6-months",
+        "category": "three-six-months",
         "sections": [
             {
                 "type": "normal",
@@ -2677,7 +2677,7 @@
         "title": "Teething",
         "icon": "6.4-teething.png",
         "image": "6.4-teething-content.png",
-        "category": "3-6-months",
+        "category": "three-six-months",
         "sections": [
             {
                 "type": "normal",
@@ -2732,7 +2732,7 @@
         "title": "Solid foods",
         "icon": "6.5-weaning-solid-food.png",
         "image": "6.5-weaning-solid-food-content.png",
-        "category": "3-6-months",
+        "category": "three-six-months",
         "sections": [
             {
                 "type": "normal",
@@ -2885,7 +2885,7 @@
         "title": "Baby Proofing",
         "icon": "6.6-babyproofing.png",
         "image": "6.6-babyproofing-content.png",
-        "category": "3-6-months",
+        "category": "three-six-months",
         "sections": [
             {
                 "type": "normal",
