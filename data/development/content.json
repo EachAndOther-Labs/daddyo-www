@@ -1316,7 +1316,7 @@
     },
     {
         "id": 1,
-        "title": "Birth: What to do?",
+        "title": "What do you do?",
         "icon": "4.3-what-you-do.png",
         "image": "4.3-what-you-do-content.png",
         "category": "labour",
@@ -2723,7 +2723,7 @@
                 "title": "Baby Food",
                 "bullets": [
                     {
-                        "heading": "",
+                        "heading": "Easy to digest",
                         "content": "Baby food has to be easy to digest, smooth and not strongly flavoured."
                     },
                     {
@@ -2772,12 +2772,12 @@
                 "title": "Install Alarms",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "Smoke alarm."
+                        "heading": "Smoke alarm",
+                        "content": "At least one on each level of the house."
                     },
                     {
-                        "heading": "",
-                        "content": "Carbon Monoxide alarm – make sure that it's fitted to the manufacturer's guidelines."
+                        "heading": "Carbon Monoxide alarm",
+                        "content": "Make sure that it's fitted to the manufacturer's guidelines."
                     }
                 ]
             },
