@@ -2071,38 +2071,8 @@
                 ]
             },
             {
-                "type": "yes-list",
-                "title": "The job",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "Using the bottle brush, wash the bottle and the teat in hot soapy water, the sooner after a feed the better. "
-                    },
-                    {
-                        "heading": "",
-                        "content": "Rinse everything in cold water."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Mix the sterilising solution with cold water in the container, following the solution manufacturer’s instructions on the label."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Place the bottle and the teat in the solution, making sure there’s no air trapped in the bottle."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Use the floating cover to keep everything submerged."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Leave everything in the solution for at least 30 minutes."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Change the solution every day."
-                    }
-                ]
+                "type": "normal",
+                "content": "<h1>The Job</h1><ol><li>Using the bottle brush, wash the bottle and the teat in hot soapy water, the sooner after a feed the better. </li><li>Rinse everything in cold water.</li><li>Mix the sterilising solution with cold water in the container, following the solution manufacturer’s instructions on the label.</li><li>Place the bottle and the teat in the solution, making sure there’s no air trapped in the bottle.</li><li>Use the floating cover to keep everything submerged.</li><li>Leave everything in the solution for at least 30 minutes.</li><li>Change the solution every day.</li></ol>"
             },
             {
                 "type": "yes-list",
@@ -2119,26 +2089,8 @@
                 ]
             },
             {
-                "type": "yes-list",
-                "title": "The job",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "Using the bottle brush, wash the bottle and the teat in hot soapy water, the sooner after a feed the better."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Rinse everything in cold water."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Place all the equipment in the steriliser with openings and/or teats facing downwards."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Follow the manufacturer's guidelines on how long to leave everything in the steriliser."
-                    }
-                ]
+                "type": "normal",
+                "content": "<h1>The Job</h1><ol><li>Using the bottle brush, wash the bottle and the teat in hot soapy water, the sooner after a feed the better.</li><li>Rinse everything in cold water.</li><li>Place all the equipment in the steriliser with openings and/or teats facing downwards.</li><li>Follow the manufacturer's guidelines on how long to leave everything in the steriliser.</li></ol>"
             },
             {
                 "type": "tip",
@@ -2250,7 +2202,7 @@
     },
     {
         "id": 1,
-        "title": "Stop a baby crying",
+        "title": "crying baby",
         "icon": "5.10-baby-crying.png",
         "image": "5.10-baby-crying-content.png",
         "category": "zero-three-months",
@@ -2261,7 +2213,7 @@
             },
             {
                 "type": "yes-list",
-                "title": "Workstation",
+                "title": "",
                 "bullets": [
                     {
                         "heading": "",
@@ -2349,12 +2301,8 @@
         "category": "zero-three-months",
         "sections": [
             {
-                "type": "normal",
-                "content": "<h1>How to give a baby a bath</h1>"
-            },
-            {
                 "type": "yes-list",
-                "title": "Workstation",
+                "title": "baby bath Workstation",
                 "bullets": [
                     {
                         "heading": "",
@@ -2416,7 +2364,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>The job</h1><h2>Stage one – Cleaning</h2><p>Pick a time when your baby is awake and active.</p><p>Make sure that you’re going to have the bath in a warm room. Use the room heater if you have to. Babies are very sensitive to temperature.</p><p>Get the temperature of the water right – not too hot, not too cold. Use the baby bath thermometer to judge. Around 37ºC is right.</p><p>  Put the baby on a changing mat or on your knee and undress them. You can leave the nappy on for now.</p><p>Wrap the baby in the hoody towel so that it stays warm until you’re ready to pop it in the water.</p><p>Dip the cotton wool in the water and carefully wipe around the eyes, go from the nose out. Use a different cotton ball for each eye to prevent transferring infection.</p><p>Use more pieces of cotton wool to clean the baby’s ears. Don’t force the cotton wool into the ear, just wash around it. Never use a cotton bud.</p><p>Use a very small amount of the shampoo very gently wash the baby’s scalp and hair.</p><p>Use the plastic cup to scoop up a little water and wash the shampoo out of the hair. To avoid getting shampoo in their eyes you can tilt the baby’s head back slightly or place your hand over its forehead.</p><p>Dry the baby’s hair with towel.</p><p>Now you’re ready for the bath</p>"
+                "content": "<h1>The job</h1><h2>Stage one – Cleaning</h2><p>Pick a time when your baby is awake and active.</p><p>Make sure that you’re going to have the bath in a warm room. Use the room heater if you have to. Babies are very sensitive to temperature.</p><p>Get the temperature of the water right – not too hot, not too cold. Use the baby bath thermometer to judge. Around 37°C is right.</p><p>  Put the baby on a changing mat or on your knee and undress them. You can leave the nappy on for now.</p><p>Wrap the baby in the hoody towel so that it stays warm until you’re ready to pop it in the water.</p><p>Dip the cotton wool in the water and carefully wipe around the eyes, go from the nose out. Use a different cotton ball for each eye to prevent transferring infection.</p><p>Use more pieces of cotton wool to clean the baby’s ears. Don’t force the cotton wool into the ear, just wash around it. Never use a cotton bud.</p><p>Use a very small amount of the shampoo very gently wash the baby’s scalp and hair.</p><p>Use the plastic cup to scoop up a little water and wash the shampoo out of the hair. To avoid getting shampoo in their eyes you can tilt the baby’s head back slightly or place your hand over its forehead.</p><p>Dry the baby’s hair with towel.</p><p>Now you’re ready for the bath</p>"
             },
             {
                 "type": "normal",
@@ -2453,7 +2401,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>What to do:</h1><p><b>Talk a lot –</b> Talking comforts babies and shows that you’re giving attention. Talk whenever you’re doing an activity with the baby, such as bathing, feeding. Even if you’re just nearby, you should chat away.</p><p><b>Say their name –</b> It will be several months before the baby will recognise its own name but the more you use it the faster they will learn. Even though the baby may not realise that the name refers to them, they can still get excited by it. They’ll know that it’s a special word.</p><p><b>Eye contact –</b> Maintaining eye contact is useful for creating a connection between you and the baby as you talk. It’s also an added distraction if you’re trying to do something important at the same time, like change a nappy.</p><p><b>Raise the pitch of your voice –</b> A higher pitch that imitates a female voice, can comfort babies and they naturally connect to it.</p><p><b>Make faces –</b> As you talk, be extra expressive. You will look ridiculous when you do this and you will not care.</p>"
+                "content": "<h1>What to do:</h1><p><h2>Talk a lot</h2> Talking comforts babies and shows that you’re giving attention. Talk whenever you’re doing an activity with the baby, such as bathing, feeding. Even if you’re just nearby, you should chat away.</p><p><h2>Say their name</h2> It will be several months before the baby will recognise its own name but the more you use it the faster they will learn. Even though the baby may not realise that the name refers to them, they can still get excited by it. They’ll know that it’s a special word.</p><p><h2>Eye contact</h2> Maintaining eye contact is useful for creating a connection between you and the baby as you talk. It’s also an added distraction if you’re trying to do something important at the same time, like change a nappy.</p><p><h2>Raise the pitch of your voice</h2> A higher pitch that imitates a female voice, can comfort babies and they naturally connect to it.</p><p><h2>Make faces</h2> As you talk, be extra expressive. You will look ridiculous when you do this and you will not care.</p>"
             }
         ]
     },
