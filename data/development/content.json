@@ -1424,33 +1424,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>The job</h1><p>Your partner will probably be aware of what to expect from contractions. Each contraction will start, peak, and then subside.</br>If she gets a few in a row in a regular pattern, start timing them. It’s probably the onset of labour.</p>"
-            },
-            {
-                "type": "yes-list",
-                "title": "",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "Start the timer at the beginning of a contraction."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Jot down the contraction number (1,2,3…) so you can keep track of how many contractions she’s had, and the exact start time."
-                    },
-                    {
-                        "heading": "",
-                        "content": "When the contraction subsides, stop the watch and mark down the total duration of the contraction."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Repeat this process for every contraction."
-                    },
-                    {
-                        "heading": "",
-                        "content": "If there’s pain, or any changes between contractions write them down as additional notes."
-                    }
-                ]
+                "content": "<h1>The job</h1><p>Your partner will probably be aware of what to expect from contractions. Each contraction will start, peak, and then subside.</br>If she gets a few in a row in a regular pattern, start timing them. It’s probably the onset of labour.</p><ol><li>Start the timer at the beginning of a contraction.</li><li>Jot down the contraction number (1,2,3…) so you can keep track of how many contractions she’s had, and the exact start time.</li><li>When the contraction subsides, stop the watch and mark down the total duration of the contraction.</li><li>Repeat this process for every contraction.</li><li>If there’s pain, or any changes between contractions write them down as additional notes.</li></ol>"
             },
             {
                 "type": "normal",
