@@ -3,7 +3,7 @@
         "id": 1,
         "title": "First Trimester",
         "icon": "1.1-first-trimester.png",
-        "image": "1.1-first-trimester-content-content.png",
+        "image": "1.1-first-trimester-content.png",
         "category": "first-trimester",
         "sections": [
             {
@@ -42,7 +42,7 @@
         "id": 1,
         "title": "You",
         "icon": "1.2-you.png",
-        "image": "1.2-you-content-content.png",
+        "image": "1.2-you-content.png",
         "category": "first-trimester",
         "sections": [
             {
