@@ -1,0 +1,211 @@
+/*general page styles */
+body {
+    background: #353535;
+    color:#bbb;
+    font-weight: normal;
+    font:15px/24px Bitter;
+    padding: 0px 10px 0px 10px;
+}
+
+p {
+    font-weight: normal;
+    font:15px/24px Bitter;
+    color:#bbb;
+    padding: 0px;
+    margin-top:10px;
+}
+li {
+    background-size:20px !important;
+    padding: 0px 0px 10px 35px;
+}
+
+h1,h2 {
+    text-transform: uppercase;
+}
+
+h1 {
+    font:bold 32px/36px, Bitter;
+    line-height: 34px;
+    color:#FFF;
+    padding:8px 0px 8px 0px;
+    margin-bottom:15px;
+}
+h2 {
+    font:bold 18px/26px, Bitter;
+    color:#FFF;
+    margin-bottom:-5px;
+    padding-top:5px;
+}
+ol {
+    counter-reset:li; 
+    margin-left:0; 
+    padding-left:0; 
+}
+ol > li {
+    position:relative; 
+    font-size: 25px;
+    margin:0 0 6px 2em; 
+    padding:4px 8px; 
+    list-style:none; 
+    font-size: 15px !important;
+}
+ol > li:before {
+    content:counter(li); /* Use the counter as content */
+    counter-increment:li; /* Increment the counter by 1 */
+    /* Position and style the number */
+    position:absolute;
+    top:-2px;
+    left:-2em;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 15px;
+    /* Some space between the number and the content in browsers that support
+       generated content but not positioning it (Camino 2 is one example) */
+    margin-right:8px;
+    padding:4px;
+    color:#999;
+}
+ol > li:after {
+    
+}
+li ol,
+li ul {margin-top:6px;}
+ol ol li:last-child {margin-bottom:0;}
+
+/*------------------------------*/
+/*------------------------------*/
+/*------------------------------*/
+div:first-child h1:first-child {
+    border-top:none !important;
+}
+/*first trimester styling*/
+.first-trimester div:last-child {
+    border-bottom:2px solid #b6be00;
+}
+.first-trimester h1 {
+    border-top:2px solid #b6be00;
+    border-bottom:1px dashed #b6be00;
+}
+.first-trimester .tip {
+    background-color: #b6be00 !important;
+}
+/*------------------------------*/
+
+/*second trimester styling*/
+.second-trimester h1 {
+    border-top:1px solid #00bdd4;
+    border-bottom:1px dashed #00bdd4;
+}
+.second-trimester div:last-child {
+    border-bottom:2px solid #00bdd4;
+}
+.second-trimester .tip {
+    background-color: #00bdd4 !important;
+}
+/*------------------------------*/
+
+/*third trimester styling*/
+.third-trimester h1 {
+    border-top:1px solid #fb0;
+    border-bottom:1px dashed #fb0;
+}
+.third-trimester div:last-child {
+    border-bottom:2px solid #fb0;
+}
+.third-trimester .tip {
+    background-color: #fb0 !important;
+}
+/*------------------------------*/
+
+/*labour trimester styling*/
+.labour h1 {
+    border-top:2px solid #fe4200;
+    border-bottom:1px dashed #fe4200;
+}
+.labour div:last-child {
+    border-bottom:2px solid #fe4200;
+}
+.labour .tip {
+    background-color: #fe4200 !important;
+}
+/*------------------------------*/
+
+/*0-3 months trimester styling*/
+.zero-three-months h1 {
+    border-top:2px solid #c8a1f0;
+    border-bottom:1px dashed #c8a1f0;
+}
+.zero-three-months  div:last-child {
+    border-bottom:2px solid #c8a1f0;
+}
+.zero-three-months .tip  {
+   background-color: #c8a1f0 !important;
+}
+/*------------------------------*/
+
+/*0-six trimester styling*/
+.three-six-months h1 {
+    border-top:2px solid #b6be00;
+    border-bottom:1px dashed #b6be00;
+}
+.three-six-months  div:last-child {
+    border-bottom:2px solid #b6be00;
+}
+.three-six-months .tip  {
+    background-color: #b6be00 !important;
+}
+/*------------------------------*/
+
+/*tip styling general */
+.tip {
+    background: url('pro-tip.png') no-repeat 15px 14px;
+    padding:0px 15px 7px 15px; 
+    background-size: 30px;
+}
+.tip p {
+    color:#000;
+    opacity: 0.7;
+    margin-top: -10px;
+    padding-top: 0px;
+}
+.tip h1 {
+    border:none;
+    padding:10px 0 0px 40px;
+    color:#fcfcfc;
+}
+/*------------------------------*/
+
+/*list type styling general */
+.warning-list {
+}
+.warning-list ul, .yes-list ul, .no-list ul {
+    padding: 0px;
+    margin: 0px;
+}
+.warning-list li {
+    list-style: none;
+    background:url('warning-list.png') no-repeat 0px 5px;
+
+}
+.yes-list li {
+    list-style: none;
+    background:url('yes-list.png') no-repeat 0px 5px;
+
+}
+.no-list li {
+    list-style: none;
+    background:url('no-list.png') no-repeat 0px 5px;
+}
+
+/*list heading styling*/
+.list-heading {
+    color:#FFF;
+    margin: 0px 0px -2px 0px;
+    padding: 0px;
+    font-weight: bold !important;
+}
+
+/*------------------------------*/
+
+
+
