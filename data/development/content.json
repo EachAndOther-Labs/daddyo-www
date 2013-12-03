@@ -2476,7 +2476,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Immunisation</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</br>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your GP.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your GP will advise you of further schedules for subsequent vaccinations.</p>"
+                "content": "<h1>Immunisation</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your GP.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your GP will advise you of further schedules for subsequent vaccinations.</p>"
             },
             {
                 "type": "tip",
@@ -2624,62 +2624,12 @@
                 "type": "yes-list",
                 "title": "The Job",
                 "bullets": [
-                    {
-                        "heading": "",
-                        "content": "Heat the food up in the microwave or on the stove."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Taste it to check the temperature. It should be warm, but not too warm."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Put the baby in the high chair and make sure that it's secure."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Fasten the bib comfortably around the neck; this is going to get messy."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Scoop small amounts of baby food onto the tip of the baby spoon."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Bring the food up to the baby's mouth and allow the baby to eat with your help."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Don't be put off if the baby gets more food on their face than in their mouth at first."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Use the spoon to gently clear up excess food as you go along."
-                    },
-                    {
-                        "heading": "",
-                        "content": "If baby is distracted try giving them a toy to occupy their hands."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Keep at it until the baby lets you know its done."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Take off the bib."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Using the baby wipes, clean their hands and face."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Take the baby out of the high chair and put it somewhere safe."
-                    },
-                    {
-                        "heading": "",
-                        "content": "Give the high chair a good wipe down."
-                    }
+                
+                {
+                "type": "normal",
+                "content": "<h1>The Job</h1><ol><li>Heat the food up in the microwave or on the stove.</li><li>Taste it to check the temperature. It should be warm, but not too warm.</li><li>Put the baby in the high chair and make sure that it's secure.</li><li>Fasten the bib comfortably around the neck; this is going to get messy.</li><li>Scoop small amounts of baby food onto the tip of the baby spoon.</li><li>Bring the food up to the baby's mouth and allow the baby to eat with your help.</li><li>Don't be put off if the baby gets more food on their face than in their mouth at first.</li><li>Use the spoon to gently clear up excess food as you go along.</li><li>If baby is distracted try giving them a toy to occupy their hands.</li><li>Keep at it until the baby lets you know its done.</li><li>If baby is distracted try giving them a toy to occupy their hands.</li><li>Keep at it until the baby lets you know its done.</li><li>Take off the bib.</li><li>Using the baby wipes, clean their hands and face.</li><li>Take the baby out of the high chair and put it somewhere safe.</li><li>Give the high chair a good wipe down.</li></ol>"
+            },
+           
                 ]
             },
             {
