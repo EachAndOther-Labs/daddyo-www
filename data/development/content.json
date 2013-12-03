@@ -614,7 +614,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Bully-proof?</h2><p>Looking for negative connotations for the names, either historically or in fiction? Do they rhyme with anything that could lead to a schoolyard annoyance.</p>"
+                "content": "<h2>Bully-proof?</h2><p>Looking for negative connotations for the names, either historically or in fiction. Do they rhyme with anything that could lead to a schoolyard annoyance?</p>"
             },
             {
                 "type": "normal",
@@ -1132,7 +1132,7 @@
             },
             {
                 "type": "tip",
-                "content": "Labour can be a pretty nervy, tense time. But there can also be a lot of waiting around. Distractions can help. Bring entertainment. Anything from podcasts to comics to books to new games on your phone to films and TV shows on your tablet. Install a heap of things that you think might appeal to you and your partner. Don't count on catching up on TV shows - you're there to help out."
+                "content": "Labour can be a pretty nervy, tense time. But there can also be a lot of waiting around. Distractions can help. Bring entertainment. Anything from podcasts to comics, books to new games on your phone, or films and TV shows on your tablet. Install a heap of things that you think might appeal to you and your partner. Don't count on catching up on TV shows - you're there to help out."
             },
             {
                 "type": "tip",
@@ -1169,7 +1169,7 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Latent - Contractions start and then come at intervals of 5 mins and last for 30 seconds. While is is going on, the cervix is dilating to 3/4cm. This can take quite a few hours. So be patient."
+                        "content": "Latent - Contractions start and then come at intervals of 5 mins and last for 30 seconds. While it is going on, the cervix is dilating to 3-4cm. This can take quite a few hours. So be patient."
                     },
                     {
                         "heading": "",
@@ -1544,7 +1544,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Sex</h2><p>Semen contains prostaglandin which softens the cervis. Sex also causes the release of oxytocin, which is linked to contractions. Don't try this if your partner's waters have already broken.</p>"
+                "content": "<h2>Sex</h2><p>Semen contains prostaglandin which softens the cervix. Sex also causes the release of oxytocin, which is linked to contractions. Don't try this if your partner's waters have already broken.</p>"
             },
             {
                 "type": "normal",
@@ -1838,7 +1838,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Chemical in disposable nappies."
+                        "content": "Reaction to chemicals in disposable nappies."
                     },
                     {
                         "heading": "",
@@ -1912,7 +1912,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Put the baby on a towel leave it nappy-less for as long as possible to let air at the sore areas."
+                        "content": "Put the baby on a towel and leave it nappy-less for as long as possible to let air at the sore areas."
                     }
                 ]
             },
@@ -2155,10 +2155,6 @@
             {
                 "type": "normal",
                 "content": "<h1>Identifying wind</h1><p>The baby might stop sucking on the bottle before it's finished. It might squirm, make faces and wail. You may even be able to hear trapped air rattling in its stomach. It might be in extra discomfort when lying flat on its back.</p>"
-            },
-            {
-                "type": "normal",
-                "content": "<p>When babies are born their digestive tracts are not fully developed. This means that they often swallow air when they feed or cry, which makes their tummy swell and bloat. It's very uncomfortable for them. This is called wind.</br>Some babies get wind very frequently, but it should reduce as they learn better control in feeding and their digestive track matures.</p>"
             },
             {
                 "type": "normal",
@@ -2489,7 +2485,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>playing with the baby</h1><p>Playing is an important part of learning for children of all ages. It's how they grow and develop and learn everything from basic motor skills, to how to communicate. </br>As your baby gets older and learns how to sit up and interact with the world, your games can become more physical and a lot more interactive.</p><h1>The Bang Things Together game</h1><p>Give the baby little wooden or plastic blocks that it can easily grip. Show it how to bang them together. That's it. That's a game.</p><h1>Knee Rides</h1><p>Put the baby on your knees and bounce it up and down gently. It's a good one to do with nursery rhymes. Also, learn some nursery rhymes.</p><h1>Bath Time</h1><p>By three months you'll be able to introduce toys into bath time that the baby can hold and play with. You can gently splash around too, if the he or she enjoys the water.</p><h1>Blowing Bubbles</h1><p>Keeping bubbles on hand at all times is a good idea. After about four months or so the baby will be able to focus its eyes far enough ahead to be entertained by them.</p><h1>Gotcha!</h1><p>Children learn to anticipate actions at around four months. You can sneak up in a  mock-threatening way, and then inflict tickles and cuddles. This sounds really dumb but once you do this once, it's hard to stop.</p><h1>Aeroplanes</h1><p>This one's easy - pick the baby up and fly it around in your arms like an aeroplane or a rocket, making all the correct noises. This is about 80% of what being a dad is about.</p><h1>This Little Piggy</h1><p>Does this bring back memories? Count off your baby's toes to the This Little Piggy nursery rhyme. Why do they like it? We don't know. But they do.</p>"
+                "content": "<h1>playing with the baby</h1><p>Playing is an important part of learning for children of all ages. It's how they grow and develop and learn everything from basic motor skills, to how to communicate. </br>As your baby gets older and learns how to sit up and interact with the world, your games can become more physical and a lot more interactive.</p><h1>The 'Bang Things Together' game</h1><p>Give the baby little wooden or plastic blocks that they can easily grip. Show them how to bang them together. That's it. That's a game.</p><h1>Knee Rides</h1><p>Put the baby on your knees and bounce it up and down gently. It's a good one to do with nursery rhymes. Also, learn some nursery rhymes.</p><h1>Bath Time</h1><p>By three months you'll be able to introduce toys into bath time that the baby can hold and play with. You can gently splash around too, if he or she enjoys the water.</p><h1>Blowing Bubbles</h1><p>Keeping bubbles on hand at all times is a good idea. After about four months or so the baby will be able to focus its eyes far enough ahead to be entertained by them.</p><h1>Gotcha!</h1><p>Children learn to anticipate actions at around four months. You can sneak up in a  mock-threatening way, and then inflict tickles and cuddles. This sounds really dumb but once you do this once, it's hard to stop.</p><h1>Aeroplanes</h1><p>This one's easy - pick the baby up and fly it around in your arms like an aeroplane or a rocket, making all the correct noises. This is about 80% of what being a dad is about.</p><h1>This Little Piggy</h1><p>Does this bring back memories? Count off your baby's toes to the This Little Piggy nursery rhyme. Why do they like it? We don't know. But they do.</p>"
             }
         ]
     },
