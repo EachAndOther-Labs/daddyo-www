@@ -1142,19 +1142,19 @@
                 "title": "Stage 1 (Starting)",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "Latent - Contractions start and then come at intervals of 5 mins and last for 30 seconds. While is is going on, the cervix is dilating to 3/4cm. This can take quite a few hours. So be patient."
+                        "heading": "Latent",
+                        "content": "Contractions start and then come at intervals of 5 mins and last for 30 seconds. While is is going on, the cervix is dilating to 3/4cm. This can take quite a few hours. So be patient."
                     },
                     {
-                        "heading": "",
-                        "content": "Active - Contractions get stronger and become more frequent. They're also likely to be quite painful. Cervix dilates to 6-7cm. By now you'll be at the hospital and your partner will have an internal examination to assess the baby's position."
+                        "heading": "Active",
+                        "content": "Contractions get stronger and become more frequent. They're also likely to be quite painful. Cervix dilates to 6-7cm. By now you'll be at the hospital and your partner will have an internal examination to assess the baby's position."
                     },
                     {
-                        "heading": "",
-                        "content": "Transition - The time between contractions decreases, often to the point that it feels like there's no break between them. Your partner may start feeling the need to push. At this point the cervix should be fully dilated."
+                        "heading": "Transition",
+                        "content": "The time between contractions decreases, often to the point that it feels like there's no break between them. Your partner may start feeling the need to push. At this point the cervix should be fully dilated."
                     },
                     {
-                        "heading": "",
+                        "heading": "How long",
                         "content": "For first time mothers, the latent stage can last more than eight hours, although it is unlikely to last for more than 18. This reduces to an average of five hours for women who've given birth before."
                     }
                 ]
@@ -1164,32 +1164,32 @@
                 "title": "Stage 2 (Pushing)",
                 "bullets": [
                     {
-                        "heading": "",
+                        "heading": "Dilated",
                         "content": "The cervix is fully open at 10cm."
                     },
                     {
-                        "heading": "",
+                        "heading": "Waters",
                         "content": "Her waters should break naturally."
                     },
                     {
-                        "heading": "",
+                        "heading": "Contractions",
                         "content": "There'll be very strong contractions every 2-3 minutes. They may feel constant."
                     },
                     {
-                        "heading": "",
+                        "heading": "Push",
                         "content": "Your partner has to push. This will last some time and will be exhausting for her. Your job is to support her."
                     },
                     {
-                        "heading": "",
+                        "heading": "Hello world",
                         "content": "The baby is born."
                     },
                     {
-                        "heading": "",
+                        "heading": "Medical checks",
                         "content": "The midwives will take the baby aside briefly for some medical checks, to ensure that windpipe is clear and the baby is breathing correctly."
                     },
                     {
-                        "heading": "",
-                        "content": "Congratulations."
+                        "heading": "Congratulations",
+                        "content": "You're a Daddyo."
                     }
                 ]
             },
@@ -1198,11 +1198,11 @@
                 "title": "Stage 3 (It's not over)",
                 "bullets": [
                     {
-                        "heading": "",
+                        "heading": "Placenta",
                         "content": "The womb contracts, and the placenta exits. You'll probably be distracted with the new arrival, but your partner still has to push the placenta out."
                     },
                     {
-                        "heading": "",
+                        "heading": "Tearing",
                         "content": "Any vaginal tearing will be repaired. Yes, tearing. It's also common for women to have an episiotomy, which is a surgical cut to the vaginal wall to aide childbirth."
                     }
                 ]
