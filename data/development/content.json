@@ -625,7 +625,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Antenatal classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They're supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
+                "content": "<h1>Antenatal classes</h1><p>Antenatal classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They're supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
             },
             {
                 "type": "normal",
@@ -640,44 +640,44 @@
                 "title": "Depending on the class, you'll cover",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": " Birth choices available - Hospital, home birth, private, semi-private, etc."
+                        "heading": "Birth choices available",
+                        "content": "Hospital, home birth, private, semi-private, etc."
                     },
                     {
-                        "heading": "",
-                        "content": "Birth plans - What they are, how to make one."
+                        "heading": "Birth plans",
+                        "content": "What they are, how to make one."
                     },
                     {
-                        "heading": "",
-                        "content": "Labour - How to recognise it, what to do."
+                        "heading": "Labour",
+                        "content": "How to recognise it, what to do."
                     },
                     {
-                        "heading": "",
-                        "content": "Pain relief - From prescription medicine to massage techniques and everything in between."
+                        "heading": "Pain relief",
+                        "content": "From prescription medicine to massage techniques and everything in between."
                     },
                     {
-                        "heading": "",
-                        "content": "Relaxation tips - Which can be key to a smooth birth."
+                        "heading": "Relaxation tips",
+                        "content": "Which can be key to a smooth birth."
                     },
                     {
-                        "heading": "",
-                        "content": "Breathing techniques - Mostly for your partner, but during labour you might need some reminding too. "
+                        "heading": "Breathing techniques",
+                        "content": "Mostly for your partner, but during labour you might need some reminding too. "
                     },
                     {
-                        "heading": "",
-                        "content": "Birthing balls -  You'll find out what they are and might be allowed to try one out, if you're lucky. "
+                        "heading": "Birthing balls",
+                        "content": "You'll find out what they are and might be allowed to try one out, if you're lucky. "
                     },
                     {
-                        "heading": "",
-                        "content": "Birth interventions - What happens when things get complicated."
+                        "heading": "Birth interventions",
+                        "content": "What happens when things get complicated."
                     },
                     {
-                        "heading": "",
-                        "content": "How tos - stay healthy, feed a baby, hold a baby, and more."
+                        "heading": "How tos",
+                        "content": "Stay healthy, feed a baby, hold a baby, and more."
                     },
                     {
-                        "heading": "",
-                        "content": "Emotional wellbeing - for both you and your partner."
+                        "heading": "Emotional wellbeing",
+                        "content": "For both you and your partner."
                     }
                 ]
             },
@@ -798,10 +798,6 @@
             {
                 "type": "normal",
                 "content": "<h2>UN-ECE</h2><p>Your car seat needs to be compliant with EU and UN safety standards.</p>"
-            },
-            {
-                "type": "normal",
-                "content": "<h1>Warning Signs:</h1><p></p>"
             },
             {
                 "type": "warning-list",
@@ -987,52 +983,52 @@
                 "title": "Your partner",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "All her toiletries"
+                        "heading": "Toiletries",
+                        "content": "All her toiletries."
                     },
                     {
-                        "heading": "",
-                        "content": "Toothbrush & toothpaste"
+                        "heading": "Toothbrush",
+                        "content": "And toothpaste too."
                     },
                     {
-                        "heading": "",
-                        "content": "Hairbrush"
+                        "heading": "Hairbrush",
+                        "content": "And a pocket mirror too."
                     },
                     {
-                        "heading": "",
-                        "content": "Soap"
+                        "heading": "Soap",
+                        "content": "Or shower gel."
                     },
                     {
-                        "heading": "",
+                        "heading": "Essentials",
                         "content": "Any other essentials"
                     },
                     {
-                        "heading": "",
-                        "content": "Medication - If she's taking any."
+                        "heading": "Medication",
+                        "content": "If she's taking any."
                     },
                     {
-                        "heading": "",
-                        "content": "Maternity pads - About 24-30 of these. You can get them in the supermarket."
+                        "heading": "Maternity pads",
+                        "content": "About 24-30 of these. You can get them in the supermarket."
                     },
                     {
-                        "heading": "",
-                        "content": "Towels - Fresh clean ones."
+                        "heading": "Towels",
+                        "content": "Fresh clean ones. Non-white towels if you have them."
                     },
                     {
-                        "heading": "",
-                        "content": "Clothes - Bring several changes of loose, comfortable clothes for labour."
+                        "heading": "Clothes",
+                        "content": "Bring several changes of loose, comfortable clothes for labour."
                     },
                     {
-                        "heading": "",
-                        "content": "Underwear - Five or six pairs of comfortable pants."
+                        "heading": "Underwear",
+                        "content": "Five or six pairs of comfortable pants."
                     },
                     {
-                        "heading": "",
-                        "content": "Supportive bras - Including nursing bras if your partner is going to breastfeed."
+                        "heading": "Supportive bras",
+                        "content": "Including nursing bras if your partner is going to breastfeed."
                     },
                     {
-                        "heading": "",
-                        "content": "Homecoming outfit - Something loose and comfortable for your partner to wear coming home"
+                        "heading": "Homecoming outfit",
+                        "content": "Something loose and comfortable for your partner to wear coming home"
                     }
                 ]
             },
@@ -1041,20 +1037,20 @@
                 "title": "Baby",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "Baby vest"
+                        "heading": "Baby vest",
+                        "content": "Pack a few of these."
                     },
                     {
-                        "heading": "",
-                        "content": "Onesies"
+                        "heading": "Onesies",
+                        "content": "Pack a few of these."
                     },
                     {
-                        "heading": "",
-                        "content": "Nappies - a packet to be sure"
+                        "heading": "Nappies",
+                        "content": "A packet to be sure"
                     },
                     {
-                        "heading": "",
-                        "content": "A baby blanket"
+                        "heading": "Baby blanket",
+                        "content": "One or two of these."
                     }
                 ]
             },
@@ -1067,44 +1063,44 @@
                 "title": "You",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "Wash bag"
+                        "heading": "Wash bag",
+                        "content": "To freshen up."
                     },
                     {
-                        "heading": "",
-                        "content": "Cash and small change - You don't want to be looking for an ATM or short of change for a vending machine or for parking."
+                        "heading": "Cash and small change",
+                        "content": "You don't want to be looking for an ATM or short of change for a vending machine or for parking."
                     },
                     {
-                        "heading": "",
-                        "content": "Snacks - You're going to be there for a while."
+                        "heading": "Snacks",
+                        "content": "You're going to be there for a while."
                     },
                     {
-                        "heading": "",
-                        "content": "Chewing gum - Fresh breath and you won't grind your teeth. Win win."
+                        "heading": "Chewing gum",
+                        "content": "Fresh breath and you won't grind your teeth. Win win."
                     },
                     {
-                        "heading": "",
-                        "content": "Medication - If you're taking any."
+                        "heading": "Medication",
+                        "content": "If you're taking any."
                     },
                     {
-                        "heading": "",
-                        "content": "Chargers - For your phone, iPad, camera and whatever other gadgets you have."
+                        "heading": "Chargers",
+                        "content": "For your phone, iPad, camera and whatever other gadgets you have."
                     },
                     {
-                        "heading": "",
-                        "content": "Video camera - If you and your partner have agreed to film the birth."
+                        "heading": "Video camera",
+                        "content": "If you and your partner have agreed to film the birth."
                     },
                     {
-                        "heading": "",
-                        "content": "Warm clothes - Labour rooms can be very chilly. Have something clean and warm to wear."
+                        "heading": "Warm clothes",
+                        "content": "Labour rooms can be very chilly. Have something clean and warm to wear."
                     },
                     {
-                        "heading": "",
-                        "content": "A pillow - If you're hanging around, or spending the night on an uncomfortable cot a decent pillow can make a big difference."
+                        "heading": "A pillow",
+                        "content": "If you're hanging around, or spending the night on an uncomfortable cot a decent pillow can make a big difference."
                     },
                     {
-                        "heading": "",
-                        "content": "Change of clothes - Including socks and underpants."
+                        "heading": "Change of clothes",
+                        "content": "Including socks and underpants."
                     }
                 ]
             },
