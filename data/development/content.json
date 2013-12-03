@@ -99,24 +99,24 @@
                 "title": "Scans can confirm:",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "<b>The baby's size</b> - And its development. The sonographer will be able to point out arms and legs."
+                        "heading": "The baby's size",
+                        "content": "And its development. The sonographer will be able to point out arms and legs."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>The baby's gender</b> - Talk to your partner before you go in for the scan about whether or not you want to know the sex of the baby. There's not that many real surprises in life - but then again, knowing this might help you deck out the nursery. "
+                        "heading": "The baby's gender",
+                        "content": "Talk to your partner before you go in for the scan about whether or not you want to know the sex of the baby. There's not that many real surprises in life - but then again, knowing this might help you deck out the nursery. "
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Multiple babies</b> - Yes. It happens. One in eight pregnancies results in twins. Be mentally prepared."
+                        "heading": "Multiple babies",
+                        "content": "Yes. It happens. One in eight pregnancies results in twins. Be mentally prepared."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Physical abnormalities</b> - The sonographer or doctor will advise you if there are any issues."
+                        "heading": "Physical abnormalities",
+                        "content": "The sonographer or doctor will advise you if there are any issues."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Baby position</b> - This is only a factor in later stages of the pregnancy."
+                        "heading": "Baby position",
+                        "content": "This is only a factor in later stages of the pregnancy."
                     }
                 ]
             },
@@ -232,8 +232,8 @@
                         "content": "(soft, blue vein, mould ripened) same as raw milk."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>CIGARETTES</b> - Yes, it's not a food but we're putting it in here while we're talking about things to give up. If she's a smoker, quitting is going to be really tough on your partner, so you'll have to be supportive. If you smoke too, it'd be a good move to join in and quit. There's no better motivation than a baby on the way."
+                        "heading": "CIGARETTES",
+                        "content": "Yes, it's not a food but we're putting it in here while we're talking about things to give up. If she's a smoker, quitting is going to be really tough on your partner, so you'll have to be supportive. If you smoke too, it'd be a good move to join in and quit. There's no better motivation than a baby on the way."
                     }
                 ]
             },
@@ -278,7 +278,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>What to do</h1><p><b>Care -</b> It's easy to forget how much nausea sucks. If you notice that your partner is looking a little down or peeky, ask if she's alright or if you can help with anything. If you can, great. If not, then at least she knows you care.</p><p><b>Rest -</b> Encourage your partner to rest. More rest usually means less vomiting. Doing an extra 20-30 minutes of the daily chores can go a long way.</p><p><b>Eat in bed -</b> If your partner is vomiting or ill in the morning, she should get up slowly. She could try to have something plain to eat. Dry toast or crackers can be good.</p><p><b>Food smells -</b> Expectant mothers can acquire a superhuman sense of smell, which can bring on morning sickness. Also the scent of food can trigger nausea. Fish is a common trigger, so are beer and garlic. Every woman is different and some foods that she used to love will be intolerable now. Consider eating cold meals more often as the smells tend not to be as strong.</p><p><b>Citrus -</b> The smell of lemons and oranges can sometimes  reduce nausea.</p><p><b>Drinks -</b> Drink lots of fluids and stay hydrated. However, avoid drinks that are too cold or sharp tasting.</p><p><b>Frequent small meals -</b> This is often better than having two large meals. Eat foods that are high in carbohydrates eg. pasta, bread, rice, etc. Spicy, sweet food might be harder to keep down than plain, savoury foods.</p><p><b>Loose waisted clothes -</b> Your partner should wear something comfortable; tight waist bands can increase nausea.</p>"
+                "content": "<h1>What to do</h1><h2>Care</h2><p>It's easy to forget how much nausea sucks. If you notice that your partner is looking a little down or peeky, ask if she's alright or if you can help with anything. If you can, great. If not, then at least she knows you care.</p><h2>Rest</h2><p>Encourage your partner to rest. More rest usually means less vomiting. Doing an extra 20-30 minutes of the daily chores can go a long way.</p><h2>Eat in bed</h2><p>If your partner is vomiting or ill in the morning, she should get up slowly. She could try to have something plain to eat. Dry toast or crackers can be good.</p><h2>Food smells</h2><p> Expectant mothers can acquire a superhuman sense of smell, which can bring on morning sickness. Also the scent of food can trigger nausea. Fish is a common trigger, so are beer and garlic. Every woman is different and some foods that she used to love will be intolerable now. Consider eating cold meals more often as the smells tend not to be as strong.</p><h2>Citrus</h2><p>The smell of lemons and oranges can sometimes  reduce nausea.</p><h2>Drinks</h2><p> Drink lots of fluids and stay hydrated. However, avoid drinks that are too cold or sharp tasting.</p><h2>Frequent small meals</h2><p>This is often better than having two large meals. Eat foods that are high in carbohydrates eg. pasta, bread, rice, etc. Spicy, sweet food might be harder to keep down than plain, savoury foods.</p><h2>Loose waisted clothes</h2><p>Your partner should wear something comfortable; tight waist bands can increase nausea.</p>"
             },
             {
                 "type": "tip",
@@ -294,7 +294,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Warning signs</h1><p>Some women experience severe or extreme morning sickness, which is called hyperemesis gravidarum. If your partner is chronically and violently ill, get medical advice. She may need to be treated in hospital.</p><p><b>Watch out for - </b>Dizzy or faint spells; very dark urine; stomach pains; high temperatures; or blood in vomit.</p>"
+                "content": "<h1>Warning signs</h1><p>Some women experience severe or extreme morning sickness, which is called hyperemesis gravidarum. If your partner is chronically and violently ill, get medical advice. She may need to be treated in hospital.</p><h2>Watch out for</h2><p>Dizzy or faint spells; very dark urine; stomach pains; high temperatures; or blood in vomit.</p>"
             }
         ]
     },
@@ -336,7 +336,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Finances</h1><p>Babies are expensive. Not only are there big off expenses, there's also a lot of smaller ongoing costs – all those nappies add to the bottom line. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted-out Porsche, or go for an ultra-reliable Toyota that will get the job done just as well.</p><p>As a general rule, don't get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><p><h2>Regular chats</h2> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a caf&eacute; or a quiet bar if that makes them less painful.</p>"
+                "content": "<h1>Finances</h1><p>Babies are expensive. Not only are there big one-off expenses, there's also a lot of smaller ongoing costs – all those nappies add to the bottom line. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted-out Porsche, or go for an ultra-reliable Toyota that will get the job done just as well.</p><p>As a general rule, don't get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><h2>Regular chats</h2><p> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a caf&eacute; or a quiet bar if that makes them less painful.</p>"
             },
             {
                 "type": "yes-list",
@@ -415,47 +415,47 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Win win</h2><p>1. If you take responsibility for most of the cooking, it'll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win.</p>"
+                "content": "<h2>Win win</h2><p>If you take responsibility for most of the cooking, it'll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Save cash</h2><p>2. If you don't usually cook at home already, you'll find that you're saving yourselves some cash.</p>"
+                "content": "<h2>Save cash</h2><p>If you don't usually cook at home already, you'll find that you're saving yourselves some cash.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Healthier</h2><p>3. You'll know exactly what you're eating from a nutritional point of view, meaning you can both make good choices.</p>"
+                "content": "<h2>Healthier</h2><p>You'll know exactly what you're eating from a nutritional point of view, meaning you can both make good choices.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Faster</h2><p>4. When you're both tired you'll be able to cook something healthy, fast. Or better still, you'll have stuff in the freezer ready to be microwaved.</p>"
+                "content": "<h2>Faster</h2><p>When you're both tired you'll be able to cook something healthy, fast. Or better still, you'll have stuff in the freezer ready to be microwaved.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Kudos</h2><p>5. You'll get kudos. Lots and lots of kudos.</p>"
+                "content": "<h2>Kudos</h2><p>You'll get kudos. Lots and lots of kudos.</p>"
             },
             {
                 "type": "yes-list",
                 "title": "What to do:",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "<b>Focus on simple meals</b> - It's better to get the basics right than learn how to plan elaborate dinner parties. Start with pasta dishes, stews, soups and salads. Lasagne and chilli freeze particularly well. Anything that can be made one-handed while carrying a baby."
+                        "heading": "Focus on simple meals",
+                        "content": "It's better to get the basics right than learn how to plan elaborate dinner parties. Start with pasta dishes, stews, soups and salads. Lasagne and chilli freeze particularly well. Anything that can be made one-handed while carrying a baby."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Cook to order</b> - Learn how to cook your partner's favourite things."
+                        "heading": "Cook to order",
+                        "content": "Learn how to cook your partner's favourite things."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Collect recipes</b> - There are tons of great sites out there. BBC Food, the Guardian Life & Style section, and Epicurious are excellent resources for healthy quick meals. Keep a note of the ones that work."
+                        "heading": "Collect recipes",
+                        "content": "There are tons of great sites out there. BBC Food, the Guardian Life & Style section, and Epicurious are excellent resources for healthy quick meals. Keep a note of the ones that work."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Classes</b> - Cooking lessons can be expensive. However beginners classes can be a good way to get you started."
+                        "heading": "Classes",
+                        "content": "Cooking lessons can be expensive. However beginners classes can be a good way to get you started."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Baby cook books</b> - Although you won't need it right away, learning to cook healthy tasty food for your baby is a great way to ensure they're getting the nutrition they need. And it feels brilliant when you've cooked something healthy that your kid loves."
+                        "heading": "Baby cook books",
+                        "content": "Although you won't need it right away, learning to cook healthy tasty food for your baby is a great way to ensure they're getting the nutrition they need. And it feels brilliant when you've cooked something healthy that your kid loves."
                     }
                 ]
             }
@@ -536,6 +536,10 @@
             {
                 "type": "normal",
                 "content": "<h1>When to announce</h1><p>The tradition is to wait until twelve weeks from conception before telling your family and friends that you're going to have a baby.</p><p>It's more than tradition. The majority of miscarriages happen in the first three months. It can be hard enough to cope with this as a couple without having the added pressure of telling the bad news to everyone. So resist the temptation as much as possible.</p><p>Many couples make the choice not to tell the big news until after their first scan. You'll both probably be really excited to spread the word about your good news as quickly as possible. But to avoid hurt feelings, agree together when to tell people, and in what order.</p><p>Assuming that you're lucky enough to have all of the following, The Daddyo recommended announcement order is:</p>"
+            },
+            {
+                "type": "normal",
+                "content": "<h1>Announcement order.</h1><ol><li>Both sets of parents.</li><li>Brothers, sisters and close friends</li><li>Aunts, uncles, cousins.</li><li>Colleagues & anyone else.</li></ol>"
             },
             {
                 "type": "yes-list",
