@@ -542,28 +542,6 @@
                 "content": "<h1>Announcement order.</h1><ol><li>Both sets of parents.</li><li>Brothers, sisters and close friends</li><li>Aunts, uncles, cousins.</li><li>Colleagues & anyone else.</li></ol>"
             },
             {
-                "type": "yes-list",
-                "title": "Announcement order",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "1. Both sets of parents"
-                    },
-                    {
-                        "heading": "",
-                        "content": "2. Brothers, sisters and close friends"
-                    },
-                    {
-                        "heading": "",
-                        "content": "3. Aunts, uncles, cousins"
-                    },
-                    {
-                        "heading": "",
-                        "content": "4. Colleagues & anyone else."
-                    }
-                ]
-            },
-            {
                 "type": "normal",
                 "content": "<p>If you feel the need to share your news over Facebook, only do it after you've gone through this list. Family members might find it hurtful to find out third hand that they're going to have a new relation.</p>"
             },
