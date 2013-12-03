@@ -539,29 +539,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Announcement order.</h1><ol><li>Both sets of parents.</li><li>Brothers, sisters and close friends</li><li>Aunts, uncles, cousins.</li><li>Colleagues & anyone else.</li></ol>"
-            },
-            {
-                "type": "yes-list",
-                "title": "Announcement order",
-                "bullets": [
-                    {
-                        "heading": "",
-                        "content": "1. Both sets of parents"
-                    },
-                    {
-                        "heading": "",
-                        "content": "2. Brothers, sisters and close friends"
-                    },
-                    {
-                        "heading": "",
-                        "content": "3. Aunts, uncles, cousins"
-                    },
-                    {
-                        "heading": "",
-                        "content": "4. Colleagues & anyone else."
-                    }
-                ]
+                "content": "<h1>Announcement order</h1><ol><li>Both sets of parents.</li><li>Brothers, sisters and close friends</li><li>Aunts, uncles, cousins.</li><li>Colleagues & anyone else.</li></ol>"
             },
             {
                 "type": "normal",
@@ -647,7 +625,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Antenatal classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They're supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
+                "content": "<h1>Antenatal classes</h1><p>Antenatal classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They're supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
             },
             {
                 "type": "normal",
@@ -662,44 +640,44 @@
                 "title": "Depending on the class, you'll cover",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": " Birth choices available - Hospital, home birth, private, semi-private, etc."
+                        "heading": "Birth choices available",
+                        "content": "Hospital, home birth, private, semi-private, etc."
                     },
                     {
-                        "heading": "",
-                        "content": "Birth plans - What they are, how to make one."
+                        "heading": "Birth plans",
+                        "content": "What they are, how to make one."
                     },
                     {
-                        "heading": "",
-                        "content": "Labour - How to recognise it, what to do."
+                        "heading": "Labour",
+                        "content": "How to recognise it, what to do."
                     },
                     {
-                        "heading": "",
-                        "content": "Pain relief - From prescription medicine to massage techniques and everything in between."
+                        "heading": "Pain relief",
+                        "content": "From prescription medicine to massage techniques and everything in between."
                     },
                     {
-                        "heading": "",
-                        "content": "Relaxation tips - Which can be key to a smooth birth."
+                        "heading": "Relaxation tips",
+                        "content": "Which can be key to a smooth birth."
                     },
                     {
-                        "heading": "",
-                        "content": "Breathing techniques - Mostly for your partner, but during labour you might need some reminding too. "
+                        "heading": "Breathing techniques",
+                        "content": "Mostly for your partner, but during labour you might need some reminding too. "
                     },
                     {
-                        "heading": "",
-                        "content": "Birthing balls -  You'll find out what they are and might be allowed to try one out, if you're lucky. "
+                        "heading": "Birthing balls",
+                        "content": "You'll find out what they are and might be allowed to try one out, if you're lucky. "
                     },
                     {
-                        "heading": "",
-                        "content": "Birth interventions - What happens when things get complicated."
+                        "heading": "Birth interventions",
+                        "content": "What happens when things get complicated."
                     },
                     {
-                        "heading": "",
-                        "content": "How tos - stay healthy, feed a baby, hold a baby, and more."
+                        "heading": "How tos",
+                        "content": "Stay healthy, feed a baby, hold a baby, and more."
                     },
                     {
-                        "heading": "",
-                        "content": "Emotional wellbeing - for both you and your partner."
+                        "heading": "Emotional wellbeing",
+                        "content": "For both you and your partner."
                     }
                 ]
             },
@@ -820,10 +798,6 @@
             {
                 "type": "normal",
                 "content": "<h2>UN-ECE</h2><p>Your car seat needs to be compliant with EU and UN safety standards.</p>"
-            },
-            {
-                "type": "normal",
-                "content": "<h1>Warning Signs:</h1><p></p>"
             },
             {
                 "type": "warning-list",
@@ -1009,52 +983,52 @@
                 "title": "Your partner",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "All her toiletries"
+                        "heading": "Toiletries",
+                        "content": "All her toiletries."
                     },
                     {
-                        "heading": "",
-                        "content": "Toothbrush & toothpaste"
+                        "heading": "Toothbrush",
+                        "content": "And toothpaste too."
                     },
                     {
-                        "heading": "",
-                        "content": "Hairbrush"
+                        "heading": "Hairbrush",
+                        "content": "And a pocket mirror too."
                     },
                     {
-                        "heading": "",
-                        "content": "Soap"
+                        "heading": "Soap",
+                        "content": "Or shower gel."
                     },
                     {
-                        "heading": "",
+                        "heading": "Essentials",
                         "content": "Any other essentials"
                     },
                     {
-                        "heading": "",
-                        "content": "Medication - If she's taking any."
+                        "heading": "Medication",
+                        "content": "If she's taking any."
                     },
                     {
-                        "heading": "",
-                        "content": "Maternity pads - About 24-30 of these. You can get them in the supermarket."
+                        "heading": "Maternity pads",
+                        "content": "About 24-30 of these. You can get them in the supermarket."
                     },
                     {
-                        "heading": "",
-                        "content": "Towels - Fresh clean ones."
+                        "heading": "Towels",
+                        "content": "Fresh clean ones. Non-white towels if you have them."
                     },
                     {
-                        "heading": "",
-                        "content": "Clothes - Bring several changes of loose, comfortable clothes for labour."
+                        "heading": "Clothes",
+                        "content": "Bring several changes of loose, comfortable clothes for labour."
                     },
                     {
-                        "heading": "",
-                        "content": "Underwear - Five or six pairs of comfortable pants."
+                        "heading": "Underwear",
+                        "content": "Five or six pairs of comfortable pants."
                     },
                     {
-                        "heading": "",
-                        "content": "Supportive bras - Including nursing bras if your partner is going to breastfeed."
+                        "heading": "Supportive bras",
+                        "content": "Including nursing bras if your partner is going to breastfeed."
                     },
                     {
-                        "heading": "",
-                        "content": "Homecoming outfit - Something loose and comfortable for your partner to wear coming home"
+                        "heading": "Homecoming outfit",
+                        "content": "Something loose and comfortable for your partner to wear coming home"
                     }
                 ]
             },
@@ -1063,20 +1037,20 @@
                 "title": "Baby",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "Baby vest"
+                        "heading": "Baby vest",
+                        "content": "Pack a few of these."
                     },
                     {
-                        "heading": "",
-                        "content": "Onesies"
+                        "heading": "Onesies",
+                        "content": "Pack a few of these."
                     },
                     {
-                        "heading": "",
-                        "content": "Nappies - a packet to be sure"
+                        "heading": "Nappies",
+                        "content": "A packet to be sure"
                     },
                     {
-                        "heading": "",
-                        "content": "A baby blanket"
+                        "heading": "Baby blanket",
+                        "content": "One or two of these."
                     }
                 ]
             },
@@ -1089,44 +1063,44 @@
                 "title": "You",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "Wash bag"
+                        "heading": "Wash bag",
+                        "content": "To freshen up."
                     },
                     {
-                        "heading": "",
-                        "content": "Cash and small change - You don't want to be looking for an ATM or short of change for a vending machine or for parking."
+                        "heading": "Cash and small change",
+                        "content": "You don't want to be looking for an ATM or short of change for a vending machine or for parking."
                     },
                     {
-                        "heading": "",
-                        "content": "Snacks - You're going to be there for a while."
+                        "heading": "Snacks",
+                        "content": "You're going to be there for a while."
                     },
                     {
-                        "heading": "",
-                        "content": "Chewing gum - Fresh breath and you won't grind your teeth. Win win."
+                        "heading": "Chewing gum",
+                        "content": "Fresh breath and you won't grind your teeth. Win win."
                     },
                     {
-                        "heading": "",
-                        "content": "Medication - If you're taking any."
+                        "heading": "Medication",
+                        "content": "If you're taking any."
                     },
                     {
-                        "heading": "",
-                        "content": "Chargers - For your phone, iPad, camera and whatever other gadgets you have."
+                        "heading": "Chargers",
+                        "content": "For your phone, iPad, camera and whatever other gadgets you have."
                     },
                     {
-                        "heading": "",
-                        "content": "Video camera - If you and your partner have agreed to film the birth."
+                        "heading": "Video camera",
+                        "content": "If you and your partner have agreed to film the birth."
                     },
                     {
-                        "heading": "",
-                        "content": "Warm clothes - Labour rooms can be very chilly. Have something clean and warm to wear."
+                        "heading": "Warm clothes",
+                        "content": "Labour rooms can be very chilly. Have something clean and warm to wear."
                     },
                     {
-                        "heading": "",
-                        "content": "A pillow - If you're hanging around, or spending the night on an uncomfortable cot a decent pillow can make a big difference."
+                        "heading": "A pillow",
+                        "content": "If you're hanging around, or spending the night on an uncomfortable cot a decent pillow can make a big difference."
                     },
                     {
-                        "heading": "",
-                        "content": "Change of clothes - Including socks and underpants."
+                        "heading": "Change of clothes",
+                        "content": "Including socks and underpants."
                     }
                 ]
             },
@@ -1168,19 +1142,24 @@
                 "title": "Stage 1 (Starting)",
                 "bullets": [
                     {
+<<<<<<< HEAD
                         "heading": "",
                         "content": "Latent - Contractions start and then come at intervals of 5 mins and last for 30 seconds. While it is going on, the cervix is dilating to 3-4cm. This can take quite a few hours. So be patient."
+=======
+                        "heading": "Latent",
+                        "content": "Contractions start and then come at intervals of 5 mins and last for 30 seconds. While is is going on, the cervix is dilating to 3/4cm. This can take quite a few hours. So be patient."
+>>>>>>> 29c6e4035a5c10e226872b56233a761940b616ed
                     },
                     {
-                        "heading": "",
-                        "content": "Active - Contractions get stronger and become more frequent. They're also likely to be quite painful. Cervix dilates to 6-7cm. By now you'll be at the hospital and your partner will have an internal examination to assess the baby's position."
+                        "heading": "Active",
+                        "content": "Contractions get stronger and become more frequent. They're also likely to be quite painful. Cervix dilates to 6-7cm. By now you'll be at the hospital and your partner will have an internal examination to assess the baby's position."
                     },
                     {
-                        "heading": "",
-                        "content": "Transition - The time between contractions decreases, often to the point that it feels like there's no break between them. Your partner may start feeling the need to push. At this point the cervix should be fully dilated."
+                        "heading": "Transition",
+                        "content": "The time between contractions decreases, often to the point that it feels like there's no break between them. Your partner may start feeling the need to push. At this point the cervix should be fully dilated."
                     },
                     {
-                        "heading": "",
+                        "heading": "How long",
                         "content": "For first time mothers, the latent stage can last more than eight hours, although it is unlikely to last for more than 18. This reduces to an average of five hours for women who've given birth before."
                     }
                 ]
@@ -1190,32 +1169,32 @@
                 "title": "Stage 2 (Pushing)",
                 "bullets": [
                     {
-                        "heading": "",
+                        "heading": "Dilated",
                         "content": "The cervix is fully open at 10cm."
                     },
                     {
-                        "heading": "",
+                        "heading": "Waters",
                         "content": "Her waters should break naturally."
                     },
                     {
-                        "heading": "",
+                        "heading": "Contractions",
                         "content": "There'll be very strong contractions every 2-3 minutes. They may feel constant."
                     },
                     {
-                        "heading": "",
+                        "heading": "Push",
                         "content": "Your partner has to push. This will last some time and will be exhausting for her. Your job is to support her."
                     },
                     {
-                        "heading": "",
+                        "heading": "Hello world",
                         "content": "The baby is born."
                     },
                     {
-                        "heading": "",
+                        "heading": "Medical checks",
                         "content": "The midwives will take the baby aside briefly for some medical checks, to ensure that windpipe is clear and the baby is breathing correctly."
                     },
                     {
-                        "heading": "",
-                        "content": "Congratulations."
+                        "heading": "Congratulations",
+                        "content": "You're a Daddyo."
                     }
                 ]
             },
@@ -1224,11 +1203,11 @@
                 "title": "Stage 3 (It's not over)",
                 "bullets": [
                     {
-                        "heading": "",
+                        "heading": "Placenta",
                         "content": "The womb contracts, and the placenta exits. You'll probably be distracted with the new arrival, but your partner still has to push the placenta out."
                     },
                     {
-                        "heading": "",
+                        "heading": "Tearing",
                         "content": "Any vaginal tearing will be repaired. Yes, tearing. It's also common for women to have an episiotomy, which is a surgical cut to the vaginal wall to aide childbirth."
                     }
                 ]
@@ -1294,7 +1273,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Warning sign</h2><p>A little blood in the show is fine and to be expected. If there's continued bleeding though, call the midwife or the hospital.</p>"
+                "content": "<h1>Warning sign</h1><p>A little blood in the show is fine and to be expected. If there's continued bleeding though, call the midwife or the hospital.</p>"
             },
             {
                 "type": "normal",
@@ -1302,7 +1281,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Warning sign</h2><p>Amniotic fluid is a little yellowish and actually looks a lot like urine. It might have a little blood in it to begin with, but not much. Extra blood means you need to seek medical advice.</p>"
+                "content": "<h1>Warning sign</h1><p>Amniotic fluid is a little yellowish and actually looks a lot like urine. It might have a little blood in it to begin with, but not much. Extra blood means you need to seek medical advice.</p>"
             },
             {
                 "type": "normal",
@@ -1653,36 +1632,36 @@
                 "title": "Your partner",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "Clothes - Clean and loose-fitting"
+                        "heading": "Clothes",
+                        "content": "Clean and loose-fitting"
                     },
                     {
-                        "heading": "",
-                        "content": "PJs - Several pairs"
+                        "heading": "PJs",
+                        "content": "Several pairs"
                     },
                     {
-                        "heading": "",
-                        "content": "Maternity towels - Several packs"
+                        "heading": "Maternity towels",
+                        "content": "Several packs"
                     },
                     {
-                        "heading": "",
-                        "content": "Underwear - Clean and comfortable"
+                        "heading": "Underwear",
+                        "content": "Clean and comfortable"
                     },
                     {
-                        "heading": "",
+                        "heading": "Cream",
                         "content": "Haemorrhoid cream and wipes (just buy it and don't ask questions)"
                     },
                     {
-                        "heading": "",
-                        "content": "Squirty bottle - Can help with bathing and relieve stinging"
+                        "heading": "Squirty bottle",
+                        "content": "Can help with bathing and relieve stinging"
                     },
                     {
-                        "heading": "",
-                        "content": "Lanolin - If breastfeeding. Your can get this in the chemist"
+                        "heading": "Lanolin",
+                        "content": "If breastfeeding. Your can get this in the chemist"
                     },
                     {
-                        "heading": "",
-                        "content": "Ice packs - For swelling"
+                        "heading": "Ice packs",
+                        "content": "For swelling"
                     }
                 ]
             },
@@ -1691,28 +1670,28 @@
                 "title": "Baby",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "Nursery - Kitted-out, clean and tidy"
+                        "heading": "Nursery",
+                        "content": "Kitted-out, clean and tidy"
                     },
                     {
-                        "heading": "",
-                        "content": "Feeding equipment - Bottles, steriliser, formula if bottle-feeding"
+                        "heading": "Feeding equipment",
+                        "content": "Bottles, steriliser, formula if bottle-feeding"
                     },
                     {
-                        "heading": "",
-                        "content": "Clothes - Suitable for newborns"
+                        "heading": "Clothes",
+                        "content": "Suitable for newborns"
                     },
                     {
-                        "heading": "",
-                        "content": "Nappies - Suitable for newborns"
+                        "heading": "Nappies",
+                        "content": "Suitable for newborns"
                     },
                     {
-                        "heading": "",
-                        "content": "Baby clothes - Including onesies"
+                        "heading": "Baby clothes",
+                        "content": "Including onesies"
                     },
                     {
-                        "heading": "",
-                        "content": "Baby wipes"
+                        "heading": "Baby wipes",
+                        "content": "You'll use these A LOT"
                     }
                 ]
             },
