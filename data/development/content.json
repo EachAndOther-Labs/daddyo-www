@@ -336,7 +336,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Finances</h1><p>Babies are expensive. Not only are there big off expenses, there's also a lot of smaller ongoing costs – all those nappies add to the bottom line. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted-out Porsche, or go for an ultra-reliable Toyota that will get the job done just as well.</p><p>As a general rule, don't get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><p><h2>Regular chats</h2> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a caf&eacute; or a quiet bar if that makes them less painful.</p>"
+                "content": "<h1>Finances</h1><p>Babies are expensive. Not only are there big one-off expenses, there's also a lot of smaller ongoing costs – all those nappies add to the bottom line. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted-out Porsche, or go for an ultra-reliable Toyota that will get the job done just as well.</p><p>As a general rule, don't get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><h2>Regular chats</h2><p> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a caf&eacute; or a quiet bar if that makes them less painful.</p>"
             },
             {
                 "type": "yes-list",
@@ -415,47 +415,47 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Win win</h2><p>1. If you take responsibility for most of the cooking, it'll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win.</p>"
+                "content": "<h2>Win win</h2><p>If you take responsibility for most of the cooking, it'll take pressure off your partner during the pregnancy, which gives her more time to rest. More rest, generally means less of the bad pregnancy stuff. So win win.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Save cash</h2><p>2. If you don't usually cook at home already, you'll find that you're saving yourselves some cash.</p>"
+                "content": "<h2>Save cash</h2><p>If you don't usually cook at home already, you'll find that you're saving yourselves some cash.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Healthier</h2><p>3. You'll know exactly what you're eating from a nutritional point of view, meaning you can both make good choices.</p>"
+                "content": "<h2>Healthier</h2><p>You'll know exactly what you're eating from a nutritional point of view, meaning you can both make good choices.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Faster</h2><p>4. When you're both tired you'll be able to cook something healthy, fast. Or better still, you'll have stuff in the freezer ready to be microwaved.</p>"
+                "content": "<h2>Faster</h2><p>When you're both tired you'll be able to cook something healthy, fast. Or better still, you'll have stuff in the freezer ready to be microwaved.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Kudos</h2><p>5. You'll get kudos. Lots and lots of kudos.</p>"
+                "content": "<h2>Kudos</h2><p>You'll get kudos. Lots and lots of kudos.</p>"
             },
             {
                 "type": "yes-list",
                 "title": "What to do:",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "<b>Focus on simple meals</b> - It's better to get the basics right than learn how to plan elaborate dinner parties. Start with pasta dishes, stews, soups and salads. Lasagne and chilli freeze particularly well. Anything that can be made one-handed while carrying a baby."
+                        "heading": "Focus on simple meals",
+                        "content": "It's better to get the basics right than learn how to plan elaborate dinner parties. Start with pasta dishes, stews, soups and salads. Lasagne and chilli freeze particularly well. Anything that can be made one-handed while carrying a baby."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Cook to order</b> - Learn how to cook your partner's favourite things."
+                        "heading": "Cook to order",
+                        "content": "Learn how to cook your partner's favourite things."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Collect recipes</b> - There are tons of great sites out there. BBC Food, the Guardian Life & Style section, and Epicurious are excellent resources for healthy quick meals. Keep a note of the ones that work."
+                        "heading": "Collect recipes",
+                        "content": "There are tons of great sites out there. BBC Food, the Guardian Life & Style section, and Epicurious are excellent resources for healthy quick meals. Keep a note of the ones that work."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Classes</b> - Cooking lessons can be expensive. However beginners classes can be a good way to get you started."
+                        "heading": "Classes",
+                        "content": "Cooking lessons can be expensive. However beginners classes can be a good way to get you started."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Baby cook books</b> - Although you won't need it right away, learning to cook healthy tasty food for your baby is a great way to ensure they're getting the nutrition they need. And it feels brilliant when you've cooked something healthy that your kid loves."
+                        "heading": "Baby cook books",
+                        "content": "Although you won't need it right away, learning to cook healthy tasty food for your baby is a great way to ensure they're getting the nutrition they need. And it feels brilliant when you've cooked something healthy that your kid loves."
                     }
                 ]
             }
