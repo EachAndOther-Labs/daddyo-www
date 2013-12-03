@@ -700,11 +700,11 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<p>Week 18 to  birth (usually between weeks 38-40).</p><h1>The Baby</h1>"
+                "content": "<h1>The Baby</h1>"
             },
             {
                 "type": "normal",
-                "content": "<p>There'll be less kicking and activity over the course of this trimester - mostly because the growing baby is running out of space in the womb. Your baby will now be able to respond to sound, light and even touch. From week 26 it is possible that the baby could survive outside the womb, albeit with intensive medical care. Closer to the due date your baby should position itself head down and lower down in the abdomen.</p>"
+                "content": "Week 18 to  birth (usually between weeks 38-40). There'll be less kicking and activity over the course of this trimester - mostly because the growing baby is running out of space in the womb. Your baby will now be able to respond to sound, light and even touch. From week 26 it is possible that the baby could survive outside the womb, albeit with intensive medical care. Closer to the due date your baby should position itself head down and lower down in the abdomen.</p>"
             },
             {
                 "type": "normal",
@@ -1268,7 +1268,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>A show</h2><p>This is when the mucus that is plugging the cervix comes away. It's a blob of jelly like stuff, possibly with some blood in it. It's not always obvious, and for some women it doesn't come away until much later in labour. If it does happen, call the midwife or hospital. They'll probably tell you to stay put but best to check in.</p><p>A show is evidence that the cervix is starting to open. Labour can follow immediately or it can take a few days. It's a wait and see situation. Nevertheless, it's time to double check the hospital bags.</p>"
+                "content": "<h2>A show</h2><p>This is when the mucus that is plugging the cervix comes away. It's a blob of jelly-like stuff, possibly with some blood in it. It's not always obvious, and for some women it doesn't come away until much later in labour. If it does happen, call the midwife or hospital. They'll probably tell you to stay put but best to check in.</p><p>A show is evidence that the cervix is starting to open. Labour can follow immediately or it can take a few days. It's a wait-and-see situation. Nevertheless, it's time to double-check the hospital bags.</p>"
             },
             {
                 "type": "normal",
@@ -1276,7 +1276,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Waters breaking</h2><p>This is amniotic fluid draining from the vagina. The baby has been growing in what's called an amniotic sac. When the membrane breaks the fluid comes out the vagina. It can either be a sudden a gush or just a trickle. It's the traditional sign of labour starting but in many cases it doesn't happen until much later in labour.</p>"
+                "content": "<h2>Waters breaking</h2><p>This is amniotic fluid draining from the vagina. The baby has been growing in what's called an amniotic sac. When the membrane breaks the fluid comes out the vagina. It can either be a sudden gush or just a trickle. It's the traditional sign of labour starting but in many cases it doesn't happen until much later in labour.</p>"
             },
             {
                 "type": "normal",
@@ -1439,7 +1439,7 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Don't leave this checklist till the last minute. Make sure that you've prepared a couple of weeks in advance of the due date."
+                        "content": "Don't leave this checklist until the last minute. Make sure you're prepared a couple of weeks in advance of the due date."
                     },
                     {
                         "heading": "",
@@ -1471,7 +1471,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Freezer and fridge well stocked with easy to cook, nutritious food."
+                        "content": "Freezer and fridge well stocked with easy-to-cook, nutritious food."
                     }
                 ]
             }
@@ -1490,7 +1490,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>However, you're probably pretty fed up with everything at this point, so there are some things that you can try, which vary from the science based to the old-wives tales.</p>"
+                "content": "<p>However, you're probably pretty fed up with everything at this point, so there are some things that you can try, which vary from science based to old-wives tales.</p>"
             },
             {
                 "type": "generic",
@@ -2148,7 +2148,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Lap pat</h2><p>Put the baby face down on your lap. Keeping the baby steady, gently pat or rub it's back with your free hand.</p>"
+                "content": "<h2>Lap pat</h2><p>Put the baby face down on your lap. Keeping the baby steady, gently pat or rub its back with your free hand.</p>"
             },
             {
                 "type": "tip",
@@ -2480,7 +2480,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Immunisation</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</br>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your GP.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your GP will advise you of further schedules for subsequent vaccinations.</p>"
+                "content": "<h1>Immunisation</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</br>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your GP.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your GP will advise you of further schedules for subsequent vaccinations.</p>"
             },
             {
                 "type": "tip",
@@ -2557,7 +2557,7 @@
                     },
                     {
                         "heading": "Teething gel",
-                        "content": "A sugar free, mildly anesthetic gel that helps to numb pain. Only for babies over four months. Get advice from your pharmacist."
+                        "content": "A sugar-free, mildly anaesthetic gel that helps to numb pain. Only for babies over four months. Get advice from your pharmacist."
                     },
                     {
                         "heading": "Crunchy food",
@@ -2571,11 +2571,11 @@
             },
             {
                 "type": "tip",
-                "content": "Sometimes you hear that teething brings on diarrhoea or fever. There is no evidence for this. If your baby has any of these symptoms, don't ignore them and put them down to teething."
+                "content": "Sometimes you hear that teething brings on diarrhoea or fever. There is no evidence for this. If your baby has either of these symptoms, don't ignore them and put them down to teething."
             },
             {
                 "type": "tip",
-                "content": "Teeth need to be cleaned. Put a tiny bit of fluoride toothpaste on a some clean, damp gauze. Rub this over and around the baby's teeth. Job done. Do this twice a day."
+                "content": "Teeth need to be cleaned. Put a tiny bit of fluoride toothpaste on a clean, damp gauze. Rub this over and around the baby's teeth. Job done. Do this twice a day."
             }
         ]
     },
@@ -2755,7 +2755,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Baby Proofing your home</h1><p>The good news is that your baby won't be too mobile in the first six months. But it will get mobile soon, and possibly unpredictably.</p><p>Make sure that your living room, kitchen, nursery and any other areas that your baby is likely to spend time in, are generally safe. No unstable book shelves, piles of art materials, Xboxes with wires that you could trip on - look at your place with a critical eye.</p><p>Later on you'll need to go much further in providing a safe environment for your kid. But here are the basics...</p>"
+                "content": "<h1>Baby Proofing your home</h1><p>The good news is that your baby won't be too mobile in the first six months. But it will get mobile soon, and possibly unpredictably.</p><p>Make sure that your living room, kitchen, nursery and any other areas that your baby is likely to spend time in, are generally safe. Unstable book shelves, piles of art materials, Xboxes with wires that you could trip on are all obvious hazards. Make sure you look at your place with a critical eye.</p><p>Later on you'll need to go much further in providing a safe environment for your kid. But here are the basics...</p>"
             },
             {
                 "type": "yes-list",
