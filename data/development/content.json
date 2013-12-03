@@ -533,7 +533,10 @@
         "image": "2.2-when-to-announce-content.png",
         "category": "second-trimester",
         "sections": [
-       
+            {
+                "type": "normal",
+                "content": "<h1>When to announce</h1><p>The tradition is to wait until twelve weeks from conception before telling your family and friends that you're going to have a baby.</p><p>It's more than tradition. The majority of miscarriages happen in the first three months. It can be hard enough to cope with this as a couple without having the added pressure of telling the bad news to everyone. So resist the temptation as much as possible.</p><p>Many couples make the choice not to tell the big news until after their first scan. You'll both probably be really excited to spread the word about your good news as quickly as possible. But to avoid hurt feelings, agree together when to tell people, and in what order.</p><p>Assuming that you're lucky enough to have all of the following, The Daddyo recommended announcement order is:</p>"
+            },
             {
                 "type": "normal",
                 "content": "<h1>Announcement order.</h1><ol><li>Both sets of parents.</li><li>Brothers, sisters and close friends</li><li>Aunts, uncles, cousins.</li><li>Colleagues & anyone else.</li></ol>"
