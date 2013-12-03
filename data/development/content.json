@@ -99,24 +99,24 @@
                 "title": "Scans can confirm:",
                 "bullets": [
                     {
-                        "heading": "",
-                        "content": "<b>The baby's size</b> - And its development. The sonographer will be able to point out arms and legs."
+                        "heading": "The baby's size",
+                        "content": "And its development. The sonographer will be able to point out arms and legs."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>The baby's gender</b> - Talk to your partner before you go in for the scan about whether or not you want to know the sex of the baby. There's not that many real surprises in life - but then again, knowing this might help you deck out the nursery. "
+                        "heading": "The baby's gender",
+                        "content": "Talk to your partner before you go in for the scan about whether or not you want to know the sex of the baby. There's not that many real surprises in life - but then again, knowing this might help you deck out the nursery. "
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Multiple babies</b> - Yes. It happens. One in eight pregnancies results in twins. Be mentally prepared."
+                        "heading": "Multiple babies",
+                        "content": "Yes. It happens. One in eight pregnancies results in twins. Be mentally prepared."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Physical abnormalities</b> - The sonographer or doctor will advise you if there are any issues."
+                        "heading": "Physical abnormalities",
+                        "content": "The sonographer or doctor will advise you if there are any issues."
                     },
                     {
-                        "heading": "",
-                        "content": "<b>Baby position</b> - This is only a factor in later stages of the pregnancy."
+                        "heading": "Baby position",
+                        "content": "This is only a factor in later stages of the pregnancy."
                     }
                 ]
             },
