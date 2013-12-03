@@ -536,7 +536,7 @@
        
             {
                 "type": "normal",
-                "content": "<h1>Announcement order.</h1><ol><li>Both sets of parents.</li><li>Brothers, sisters and close friends</li><li>Aunts, uncles, cousins.</li><li>Colleagues & anyone else.</li>/ol>"
+                "content": "<h1>Announcement order.</h1><ol><li>Both sets of parents.</li><li>Brothers, sisters and close friends</li><li>Aunts, uncles, cousins.</li><li>Colleagues & anyone else.</li></ol>"
             },
             {
                 "type": "yes-list",
