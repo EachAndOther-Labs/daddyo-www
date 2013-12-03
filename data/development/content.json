@@ -8,7 +8,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>The Baby</h1><p>The fertalised egg attaches itself to the wall of the womb. It starts off as just one cell, which quickly multiplies. Until week eight, it's technically known as an embryo. By then all of the major organs will be in place and medically it's referred to as a foetus. You'll call it 'the baby'.</p><p>Your baby will grow from microscopic size at conception, to the size of a plum by week eight. By week 12 it'll be about 7.5-10cm long and weigh a whopping 28g.</p>"
+                "content": "<h1>The Baby</h1><p>The fertilised egg attaches itself to the wall of the womb. It starts off as just one cell, which quickly multiplies. Until week eight, it's technically known as an embryo. By then all of the major organs will be in place and medically it's referred to as a foetus. You'll call it 'the baby'.</p><p>Your baby will grow from microscopic size at conception, to the size of a plum by week eight. By week 12 it'll be about 7.5-10cm long and weigh a whopping 28g.</p>"
             },
             {
                 "type": "normal",
@@ -213,11 +213,11 @@
                     },
                     {
                         "heading": "CURED MEATS (PARMA, PROSCUITTO)",
-                        "content": "Risk of listeriosis, toxoplamosis."
+                        "content": "Risk of listeriosis, toxoplasmosis."
                     },
                     {
                         "heading": "SALAMIS",
-                        "content": "Risk of listeriosis & toxoplamosis."
+                        "content": "Risk of listeriosis & toxoplasmosis."
                     },
                     {
                         "heading": "UNCOOKED SMOKED SEAFOOD",
@@ -1632,7 +1632,7 @@
                         "content": "Clean and loose-fitting"
                     },
                     {
-                        "heading": "PJs",
+                        "heading": "Pyjamas",
                         "content": "Several pairs"
                     },
                     {
@@ -1653,7 +1653,7 @@
                     },
                     {
                         "heading": "Lanolin",
-                        "content": "If breastfeeding. Your can get this in the chemist"
+                        "content": "If breastfeeding. You can get this in the chemist"
                     },
                     {
                         "heading": "Ice packs",
