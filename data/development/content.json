@@ -1266,21 +1266,22 @@
                 "type": "normal",
                 "content": "<h2>A show</h2><p>This is when the mucus that is plugging the cervix comes away. It's a blob of jelly-like stuff, possibly with some blood in it. It's not always obvious, and for some women it doesn't come away until much later in labour. If it does happen, call the midwife or hospital. They'll probably tell you to stay put but best to check in.</p><p>A show is evidence that the cervix is starting to open. Labour can follow immediately or it can take a few days. It's a wait-and-see situation. Nevertheless, it's time to double-check the hospital bags.</p>"
             },
-            {
-                "type": "normal",
-                "content": "<h1>Warning sign</h1><p>A little blood in the show is fine and to be expected. If there's continued bleeding though, call the midwife or the hospital.</p>"
-            },
-            {
+              {
                 "type": "normal",
                 "content": "<h2>Waters breaking</h2><p>This is amniotic fluid draining from the vagina. The baby has been growing in what's called an amniotic sac. When the membrane breaks the fluid comes out the vagina. It can either be a sudden gush or just a trickle. It's the traditional sign of labour starting but in many cases it doesn't happen until much later in labour.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Warning sign</h1><p>Amniotic fluid is a little yellowish and actually looks a lot like urine. It might have a little blood in it to begin with, but not much. Extra blood means you need to seek medical advice.</p>"
+                "content": "<h1>Warning signs</h1><h2>Blood</h2><p>A little blood in the show is fine and to be expected. If there's continued bleeding though, call the midwife or the hospital.</p>"
+            },
+          
+            {
+                "type": "normal",
+                "content": "<h2>Amniotic fluid</h2><p>Amniotic fluid is a little yellowish and actually looks a lot like urine. It might have a little blood in it to begin with, but not much. Extra blood means you need to seek medical advice.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Warning sign</h2><p>If your partner's waters break, and there's no other signs of the onset of labour, call the midwife or hospital. Without the protection of the amniotic sac the baby may be at risk of infection. It's likely you'll be told to wait for 24 hours and after that point the baby may be induced. But call, and get advice.</p>"
+                "content": "<h2>No sign of labour</h2><p>If your partner's waters break, and there's no other signs of the onset of labour, call the midwife or hospital. Without the protection of the amniotic sac the baby may be at risk of infection. It's likely you'll be told to wait for 24 hours and after that point the baby may be induced. But call, and get advice.</p>"
             },
             {
                 "type": "tip",
