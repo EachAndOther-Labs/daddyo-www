@@ -1268,7 +1268,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Warning sign</h2><p>A little blood in the show is fine and to be expected. If there's continued bleeding though, call the midwife or the hospital.</p>"
+                "content": "<h1>Warning sign</h1><p>A little blood in the show is fine and to be expected. If there's continued bleeding though, call the midwife or the hospital.</p>"
             },
             {
                 "type": "normal",
@@ -1276,7 +1276,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Warning sign</h2><p>Amniotic fluid is a little yellowish and actually looks a lot like urine. It might have a little blood in it to begin with, but not much. Extra blood means you need to seek medical advice.</p>"
+                "content": "<h1>Warning sign</h1><p>Amniotic fluid is a little yellowish and actually looks a lot like urine. It might have a little blood in it to begin with, but not much. Extra blood means you need to seek medical advice.</p>"
             },
             {
                 "type": "normal",
