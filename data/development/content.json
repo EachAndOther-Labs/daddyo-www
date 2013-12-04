@@ -564,7 +564,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Phases</h1><h2>Research phase</h2><p>Go through a 'research phase'. Get inspiration from books, movies, wherever. (Ironman is not a name) Have a time limit on this part - a week, a month, it doesn't matter. Although, it's probably a good idea to do it a bit before the due date.</p>"
+                "content": "<h1>Phases</h1><h2>Research phase</h2><p>Go through a 'research phase'. Get inspiration from books, films, wherever. (Ironman is not a name) Have a time limit on this part - a week, a month, it doesn't matter. Although, it's probably a good idea to do it a bit before the due date.</p>"
             },
             {
                 "type": "normal",
@@ -1143,7 +1143,7 @@
                 "bullets": [
                     {
                         "heading": "Latent",
-                        "content": "Contractions start and then come at intervals of 5 mins and last for 30 seconds. While is is going on, the cervix is dilating to 3/4cm. This can take quite a few hours. So be patient."
+                        "content": "Contractions start and then come at intervals of 5 mins and last for 30 seconds. While is is going on, the cervix is dilating to 3-4cm. This can take quite a few hours. So be patient."
                     },
                     {
                         "heading": "Active",

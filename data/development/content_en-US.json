@@ -8,7 +8,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>The Baby</h1><p>The fertilized egg attaches itself to the wall of the womb. It starts off as just one cell, which quickly multiplies. Until week eight, it's technically known as an embryo. By then all of the major organs will be in place and medically it's referred to as a fetus. You'll call it 'the baby'.</p><p>Your baby will grow from microscopic size at conception, to the size of a plum by week eight. By week 12 it'll be about 7.5-10cm long and weigh a whopping 28g.</p>"
+                "content": "<h1>The Baby</h1><p>The fertilized egg attaches itself to the wall of the womb. It starts off as just one cell, which quickly multiplies. Until week eight, it's technically known as an embryo. By then all of the major organs will be in place and medically it's referred to as a fetus. You'll call it 'the baby'.</p><p>Your baby will grow from microscopic size at conception, to the size of a plum by week eight. By week 12 it'll be about 3 inches in length and weighs about an ounce.</p>"
             },
             {
                 "type": "normal",
@@ -67,7 +67,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h2>Lifestyle</h2><p>You're probably going to need to be a bit more responsible about your time. This could mean cutting down on the lads nights out, or not spending three weekends away a month rock climbing.</p>"
+                "content": "<h2>Lifestyle</h2><p>You're probably going to need to be a bit more responsible about your time. This could mean cutting down on the guys nights out, or not spending three weekends away a month rock climbing.</p>"
             },
             {
                 "type": "normal",
@@ -336,7 +336,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Finances</h1><p>Babies are expensive. Not only are there big one-off expenses, there's also a lot of smaller ongoing costs – all those nappies add to the bottom line. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted-out Porsche, or go for an ultra-reliable Toyota that will get the job done just as well.</p><p>As a general rule, don't get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><h2>Regular chats</h2><p> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a caf&eacute; or a quiet bar if that makes them less painful.</p>"
+                "content": "<h1>Finances</h1><p>Babies are expensive. Not only are there big one-off expenses, there's also a lot of smaller ongoing costs – all those diapers add to the bottom line. But how much you spend is totally up to you and your partner. Like buying a car, you can get a fully kitted-out Porsche, or go for an ultra-reliable Chevrolet that will get the job done just as well.</p><p>As a general rule, don't get carried away. There are lots of good quality, good value products out there. Do some market research online and shop around.</p><p>Whether you do a budget now or not, you will need to do one for the next year.</p><h2>Regular chats</h2><p> You and your partner should set aside time to talk about the figures. Once a month, once every two weeks. Whatever is needed. Stick the dates in the diary and keep to them. You could hold these meet ups in a caf&eacute; or a quiet bar if that makes them less painful.</p>"
             },
             {
                 "type": "yes-list",
@@ -359,7 +359,7 @@
                         "content": "Obstetrics fees"
                     },
                     {
-                        "heading": "Post-natal care by your general health practitioner",
+                        "heading": "Postnatal care by your family practitioner",
                         "content": ""
                     },
                     {
@@ -375,7 +375,7 @@
                         "content": "Cots, nightlights, baby monitors"
                     },
                     {
-                        "heading": "Nappies",
+                        "heading": "Diapers",
                         "content": "Lots and lots of these"
                     },
                     {
@@ -383,18 +383,18 @@
                         "content": "Is what you drive now appropriate (e.g. for baby seats)?"
                     },
                     {
-                        "heading": "Car seat / Buggy",
-                        "content": "As a first-time family, it's pretty likely that the most convenient way to buy your first buggy and car seat is as part of a travel system. And there's many benefits to doing this. However, you will need to budget for a second car seat and a lighter, fold-up buggy further down the line."
+                        "heading": "Car seat / Stroller",
+                        "content": "As a first-time family, it's pretty likely that the most convenient way to buy your first stroller and car seat is as part of a travel system. And there's many benefits to doing this. However, you will need to budget for a second car seat and a lighter, fold-up stroller further down the line."
                     }
                 ]
             },
             {
                 "type": "tip",
-                "content": "Saving from day one is a good idea. Even if you've been planning for a while, use the nine months to get a budget in place that allows you to put a few quid away. Not everyone can afford to do so, but if you can it'll take some pressure off later."
+                "content": "Saving from day one is a good idea. Even if you've been planning for a while, use the nine months to get a budget in place that allows you to put a few bucks away. Not everyone can afford to do so, but if you can it'll take some pressure off later."
             },
             {
                 "type": "tip",
-                "content": "People don't need buggies and baby gear forever. Savvy shoppers can pick up great deals on second-hand gear, and hand-me-downs are likely to be offered by friends and family. Just make sure that you are satisfied that the items are safe and in good nick. Never buy a second-hand car seat."
+                "content": "People don't need strollers and baby gear forever. Savvy shoppers can pick up great deals on second-hand gear, and hand-me-downs are likely to be offered by friends and family. Just make sure that you are satisfied that the items are safe and in good order. Never buy a second-hand car seat."
             },
             {
                 "type": "tip",
@@ -547,7 +547,7 @@
             },
             {
                 "type": "tip",
-                "content": "Book your paternity leave/holidays from work. You may need to ask for some flexibility, as the birth could happen a couple of weeks before or after the due date and you might have to duck out on very short notice. Nevertheless, having these dates down in the work diary makes everything feel a lot more real."
+                "content": "Book your paternity leave/vacation from work. You may need to ask for some flexibility, as the birth could happen a couple of weeks before or after the due date and you might have to duck out on very short notice. Nevertheless, having these dates down in the work diary makes everything feel a lot more real."
             }
         ]
     },
@@ -618,14 +618,14 @@
     },
     {
         "id": 12,
-        "title": "Antenatal Classes",
+        "title": "childbirth education",
         "icon": "2.4-antenatal-classes.png",
         "image": "2.4-antenatal-classes-content.png",
         "category": "second-trimester",
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Antenatal classes</h1><p>Antenatal classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They're supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
+                "content": "<h1>Childbirth education classes</h1><p>Childbirth education classes are parental cramming sessions that you usually attend between 8-10 weeks before the due date. They're supposed to prepare you for the birth itself and the early stages of parenting. Of course, nothing will prepare you fully for it.</p>"
             },
             {
                 "type": "normal",
@@ -720,7 +720,7 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Antenatal classes"
+                        "content": "Childbirth education classes"
                     },
                     {
                         "heading": "",
@@ -769,7 +769,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>You use a rear facing seat from birth. By the time your baby is about 13kg, it will most likely have outgrown rear facing car seats and you'll need to switch to a front facing one.</p>"
+                "content": "<p>You use a rear facing seat from birth. By the time your baby is about 28 lbs, it will most likely have outgrown rear facing car seats and you'll need to switch to a front facing one.</p>"
             },
             {
                 "type": "normal",
@@ -876,26 +876,26 @@
     },
     {
         "id": 16,
-        "title": "Strollers and prams",
+        "title": "Strollers and baby carriages",
         "icon": "3.4-prams-buggies.png",
         "image": "3.4-prams-buggies-content.png",
         "category": "third-trimester",
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Keep in mind:</h1><h2>Cost</h2><p>Buggies can be expensive. How much you spend on one is up to you and your partner. Consider buying secondhand if you can find one in good condition.</p>"
+                "content": "<h1>Keep in mind:</h1><h2>Cost</h2><p>Strollers can be expensive. How much you spend on one is up to you and your partner. Consider buying secondhand if you can find one in good condition.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Safety first</h2><p>Whether buying from a shop or secondhand always make sure that the buggy complies with proper safety standards. If in doubt you should consult your vendor.</p>"
+                "content": "<h2>Safety first</h2><p>Whether buying from a store or secondhand always make sure that the stroller complies with proper safety standards. If in doubt you should consult your vendor.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Research</h2><p>Talk to friends and family who've had kids recently. Find out what's worked for them. If you get a chance, try out a friends buggy for yourself (even better if there's a helpful kid already in it). Do your own research online on the model you're thinking of buying. Time spent researching will save time in the buggy shop, and that'll be time well spent.</p>"
+                "content": "<h2>Research</h2><p>Talk to friends and family who've had kids recently. Find out what's worked for them. If you get a chance, try out a friends stroller for yourself (even better if there's a helpful kid already in it). Do your own research online on the model you're thinking of buying. Time spent researching will save time in the stroller store, and that'll be time well spent.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Can it be used from birth</h2><p>Most buggies can't be used from birth. You'll need to check with your retailer to assess suitability.</p>"
+                "content": "<h2>Can it be used from birth</h2><p>Most strollers can't be used from birth. You'll need to check with your retailer to assess suitability.</p>"
             },
             {
                 "type": "yes-list",
@@ -903,7 +903,7 @@
                 "bullets": [
                     {
                         "heading": "Size",
-                        "content": "Is the buggy going to fit in your trunk? Three-wheelers in particular take up a lot of room."
+                        "content": "Is the stroller going to fit in your trunk? Three-wheelers in particular take up a lot of room."
                     },
                     {
                         "heading": "Ease of folding",
@@ -915,7 +915,7 @@
                     },
                     {
                         "heading": "Five point harness",
-                        "content": "These are the safety belts that keep the child securely in the buggy. The harness goes over your baby's shoulders, around the waist and between the legs. Make sure your buggy's got them, and that they're good. In this instance 'good' means safe, but also means 'doesn't need a degree in engineering to operate'. Make sure in the shop that you can easily open, close and adjust the harness – especially one-handed. Importantly, make sure that <b>both</b> you and your partner are able to use the harness easily."
+                        "content": "These are the safety belts that keep the child securely in the stroller. The harness goes over your baby's shoulders, around the waist and between the legs. Make sure your stroller's got them, and that they're good. In this instance 'good' means safe, but also means 'doesn't need a degree in engineering to operate'. Make sure in the store that you can easily open, close and adjust the harness – especially one-handed. Importantly, make sure that <b>both</b> you and your partner are able to use the harness easily."
                     },
                     {
                         "heading": "Brakes",
@@ -927,7 +927,7 @@
                     },
                     {
                         "heading": "Check the tyres",
-                        "content": "Larger pneumatic tyres (air-filled) are suitable for a wide range of surfaces so if you're planning on doing a lot of walking – off-road, beach or city – they'll be your best option. Small solid wheels are usually found on little fold-up buggies and their natural habitat is shopping centers. However they're usually more compact and easier to cope with on public transportation."
+                        "content": "Larger pneumatic tyres (air-filled) are suitable for a wide range of surfaces so if you're planning on doing a lot of walking – off-road, beach or city – they'll be your best option. Small solid wheels are usually found on little fold-up strollers and their natural habitat is shopping malls. However they're usually more compact and easier to cope with on public transportation."
                     },
                     {
                         "heading": "Add-ons",
@@ -945,10 +945,10 @@
                 "bullets": [
                     {
                         "heading": "Travel systems",
-                        "content": "A great solution for newborns. You get portability and easy switching from pram to car seat. You'll need to check if separate adaptors are needed to correctly fit the car seat."
+                        "content": "A great solution for newborns. You get portability and easy switching from baby carriage to car seat. You'll need to check if separate adaptors are needed to correctly fit the car seat."
                     },
                     {
-                        "heading": "Buggy/stroller",
+                        "heading": "Stroller",
                         "content": "Not suitable from birth but a good all-rounder. Usually lower cost and reasonably compact."
                     },
                     {
@@ -959,7 +959,7 @@
             },
             {
                 "type": "tip",
-                "content": "If you're going to the shop to have a look at your options, avoid busy shopping times. You'll be able to spend a more time with the retail staff and probably be able to give the strollers a better going over."
+                "content": "If you're going to the store to have a look at your options, avoid busy shopping times. You'll be able to spend a more time with the retail staff and probably be able to give the strollers a better going over."
             }
         ]
     },
@@ -1020,7 +1020,7 @@
                     },
                     {
                         "heading": "Underwear",
-                        "content": "Five or six pairs of comfortable pants."
+                        "content": "Five or six pairs of comfortable underwear."
                     },
                     {
                         "heading": "Supportive bras",
@@ -1045,7 +1045,7 @@
                         "content": "Pack a few of these."
                     },
                     {
-                        "heading": "Nappies",
+                        "heading": "Diapers",
                         "content": "A packet to be sure"
                     },
                     {
@@ -1056,7 +1056,7 @@
             },
             {
                 "type": "normal",
-                "content": "Bring spares of everything. Newborns puke a lot, and new parents can be a bit clumsy changing nappies."
+                "content": "Bring spares of everything. Newborns puke a lot, and new parents can be a bit clumsy changing diapers."
             },
             {
                 "type": "yes-list",
@@ -1100,13 +1100,13 @@
                     },
                     {
                         "heading": "Change of clothes",
-                        "content": "Including socks and underpants."
+                        "content": "Including socks and underwear."
                     }
                 ]
             },
             {
                 "type": "tip",
-                "content": "Labor can be a pretty nervy, tense time. But there can also be a lot of waiting around. Distractions can help. Bring entertainment. Anything from podcasts to comics, books to new games on your phone, or films and TV shows on your tablet. Install a heap of things that you think might appeal to you and your partner. Don't count on catching up on TV shows - you're there to help out."
+                "content": "Labor can be a pretty nervy, tense time. But there can also be a lot of waiting around. Distractions can help. Bring entertainment. Anything from podcasts to comics, books to new games on your phone, or movies and TV shows on your tablet. Install a heap of things that you think might appeal to you and your partner. Don't count on catching up on TV shows - you're there to help out."
             },
             {
                 "type": "tip",
@@ -1143,11 +1143,11 @@
                 "bullets": [
                     {
                         "heading": "Latent",
-                        "content": "Contractions start and then come at intervals of 5 mins and last for 30 seconds. While is is going on, the cervix is dilating to 3/4cm. This can take quite a few hours. So be patient."
+                        "content": "Contractions start and then come at intervals of 5 mins and last for 30 seconds. While is is going on, the cervix is dilating to 3-4cm (1.5&Prime;). This can take quite a few hours. So be patient."
                     },
                     {
                         "heading": "Active",
-                        "content": "Contractions get stronger and become more frequent. They're also likely to be quite painful. Cervix dilates to 6-7cm. By now you'll be at the hospital and your partner will have an internal examination to assess the baby's position."
+                        "content": "Contractions get stronger and become more frequent. They're also likely to be quite painful. Cervix dilates to 6-7cm (about 2.5&Prime;). By now you'll be at the hospital and your partner will have an internal examination to assess the baby's position."
                     },
                     {
                         "heading": "Transition",
@@ -1165,7 +1165,7 @@
                 "bullets": [
                     {
                         "heading": "Dilated",
-                        "content": "The cervix is fully open at 10cm."
+                        "content": "The cervix is fully open at 10cm (4&Prime;)."
                     },
                     {
                         "heading": "Waters",
@@ -1354,7 +1354,7 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Follow the instructions from your antenatal classes. Ask the midwives where you should stand or what to do if you're not sure. They'll tell you anyway if you're getting in the way."
+                        "content": "Follow the instructions from your childbirth education classes. Ask the midwives where you should stand or what to do if you're not sure. They'll tell you anyway if you're getting in the way."
                     },
                     {
                         "heading": "",
@@ -1536,7 +1536,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>You're a Daddyo!</h1><p>Congratulations, buddy! For the next few weeks you're going to be on an amazing, constant buzz. But don't get carried away; the first three months can be pretty tough. Expect sleepless nights and a lot of adjustment. It's non-stop feeding, crying and changing nappies. But the positives are going to blow the negatives away.</p>"
+                "content": "<h1>You're a Daddyo!</h1><p>Congratulations, buddy! For the next few weeks you're going to be on an amazing, constant buzz. But don't get carried away; the first three months can be pretty tough. Expect sleepless nights and a lot of adjustment. It's non-stop feeding, crying and changing diapers. But the positives are going to blow the negatives away.</p>"
             },
             {
                 "type": "normal",
@@ -1560,7 +1560,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>While that's all normal, be conscious that some women suffer from Post-natal depression (PND).</br>Symptoms include, tiredness, sadness, feelings of inadequacy and nervousness. If you suspect that your partner might be suffering from mild or severe PND, talk to her, then get advice from your general health practitioner. It's a medical condition caused by hormonal imbalance and she might need some help.</p>"
+                "content": "<p>While that's all normal, be conscious that some women suffer from Postnatal depression (PND).</br>Symptoms include, tiredness, sadness, feelings of inadequacy and nervousness. If you suspect that your partner might be suffering from mild or severe PND, talk to her, then get advice from your general health practitioner. It's a medical condition caused by hormonal imbalance and she might need some help.</p>"
             },
             {
                 "type": "yes-list",
@@ -1572,7 +1572,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Mastering nappy changing."
+                        "content": "Mastering diaper changing."
                     },
                     {
                         "heading": "",
@@ -1678,7 +1678,7 @@
                         "content": "Suitable for newborns"
                     },
                     {
-                        "heading": "Nappies",
+                        "heading": "Diapers",
                         "content": "Suitable for newborns"
                     },
                     {
@@ -1756,7 +1756,7 @@
     },
     {
         "id": 27,
-        "title": "Changing Nappies",
+        "title": "Changing Diapers",
         "image": "5.4-changing-nappies-content.png",
         "icon": "5.4-changing-nappies.png",
         "category": "zero-three-months",
@@ -1771,7 +1771,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Nappy - correct size"
+                        "content": "Diaper - correct size"
                     },
                     {
                         "heading": "",
@@ -1787,21 +1787,21 @@
                     },
                     {
                         "heading": "",
-                        "content": "Plastic bag or nappy bin"
+                        "content": "Plastic bag or diaper pail"
                     }
                 ]
             },
             {
                 "type": "normal",
-                "content": "<h1>The Job</h1><p>Daunting but very doable. Young babies will need changing up to twelve times a day, so you'll get plenty of practice.</p><ol><li>If you're using a changing table <b>NEVER</b> leave the baby unattended.</li><li>Unfasten the old nappy by pulling on the tabs.</li><li>If there's poo, use the old nappy to wipe off most of it as you take it off.</li><li>Disposable nappies can be rolled and resealed.</li><li>Put it in the nappy bin or plastic bag.</li><li>Use the baby wipes to get the rest of the poo.</li><li>Even if there's just pee, you still have to do a good job cleaning.</li><li>Clean girls from front to back to avoid getting bacteria in her vagina.</li><li>Wipe boys from front to back making sure to clean around the scrotum and penis.</li><li>Place the fresh nappy under the baby with the tabs facing up.</li><li>Pour baby powder around the genitals to avoid nappy rash.</li><li>Pull the front of the nappy over the baby.</li><li>Fasten one side of the nappy, then the other.</li><li>Fasten the nappy so that it won't come off but isn't so tight that it could cause discomfort.</li><li>Put the baby in a secure place.</li><li>Wash your hands or use antibacterial handwash.</li></ol>"
+                "content": "<h1>The Job</h1><p>Daunting but very doable. Young babies will need changing up to twelve times a day, so you'll get plenty of practice.</p><ol><li>If you're using a changing table <b>NEVER</b> leave the baby unattended.</li><li>Unfasten the old diaper by pulling on the tabs.</li><li>If there's poo, use the old diaper to wipe off most of it as you take it off.</li><li>Disposable diapers can be rolled and resealed.</li><li>Put it in the diaper pail or plastic bag.</li><li>Use the baby wipes to get the rest of the poo.</li><li>Even if there's just pee, you still have to do a good job cleaning.</li><li>Clean girls from front to back to avoid getting bacteria in her vagina.</li><li>Wipe boys from front to back making sure to clean around the scrotum and penis.</li><li>Place the fresh diaper under the baby with the tabs facing up.</li><li>Pour baby powder around the genitals to avoid diaper rash.</li><li>Pull the front of the diaper over the baby.</li><li>Fasten one side of the diaper, then the other.</li><li>Fasten the diaper so that it won't come off but isn't so tight that it could cause discomfort.</li><li>Put the baby in a secure place.</li><li>Wash your hands or use antibacterial handwash.</li></ol>"
             },
             {
                 "type": "tip",
-                "content": "Don't get oil, lotion or any moisture on the nappy's sticky tabs as they may lose their stickability."
+                "content": "Don't get oil, lotion or any moisture on the diapers sticky tabs as they may lose their stickability."
             },
             {
                 "type": "normal",
-                "content": "<h1>Nappy rash</h1><p>A pretty common affliction that most babies will get at some point in their first 18 months. Some babies have more sensitive skin and are more prone to nappy rash.</p>"
+                "content": "<h1>Diaper rash</h1><p>A pretty common affliction that most babies will get at some point in their first 18 months. Some babies have more sensitive skin and are more prone to diaper rash.</p>"
             },
             {
                 "type": "warning-list",
@@ -1809,11 +1809,11 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Not changing the nappy after a poo or wee."
+                        "content": "Not changing the diaper after a poo or wee."
                     },
                     {
                         "heading": "",
-                        "content": "Reaction to chemicals in disposable nappies."
+                        "content": "Reaction to chemicals in disposable diapers."
                     },
                     {
                         "heading": "",
@@ -1857,7 +1857,7 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Change nappies as soon as possible."
+                        "content": "Change diapers as soon as possible."
                     },
                     {
                         "heading": "",
@@ -1869,7 +1869,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "If your baby seems to frequently get nappy rash, consider using a barrier cream, which you can get from your druggist."
+                        "content": "If your baby seems to frequently get diaper rash, consider using a barrier cream, which you can get from your druggist."
                     }
                 ]
             },
@@ -1883,17 +1883,17 @@
                     },
                     {
                         "heading": "",
-                        "content": "Use a nappy rash cream, which you can get from your druggist."
+                        "content": "Use a diaper rash cream, which you can get from your druggist."
                     },
                     {
                         "heading": "",
-                        "content": "Put the baby on a towel and leave it nappy-less for as long as possible to let air at the sore areas."
+                        "content": "Put the baby on a towel and leave it diaper-less for as long as possible to let air at the sore areas."
                     }
                 ]
             },
             {
                 "type": "normal",
-                "content": "<h1>Warning Sign</h1><p>A persistent rash could be something other than nappy rash. A bright red, moist rash with little pimples could be thrush. Check with your druggist or general health practitioner.</p>"
+                "content": "<h1>Warning Sign</h1><p>A persistent rash could be something other than diaper rash. A bright red, moist rash with little pimples could be thrush. Check with your druggist or general health practitioner.</p>"
             }
         ]
     },
@@ -1922,7 +1922,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "It's efficient for waste and there are far fewer nappy changes."
+                        "content": "It's efficient for waste and there are far fewer diaper changes."
                     }
                 ]
             },
@@ -2174,7 +2174,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Pram or buggy"
+                        "content": "Baby carriage or stroller"
                     },
                     {
                         "heading": "",
@@ -2186,17 +2186,17 @@
                     },
                     {
                         "heading": "",
-                        "content": "Nappy"
+                        "content": "Diaper"
                     }
                 ]
             },
             {
                 "type": "normal",
-                "content": "<h1>Is the baby in discomfort?</h1><h2>Hungry</h2><p>Even if it's just after a feed, your baby could still be hungry. Try a feed.</p><h2>Trapped wind</h2><p>If your baby is pulling its legs, flailing its limbs along with intense crying, it might have wind. Using one of the winding techniques.</p><h2>Nappy change</h2><p>You'll know pretty quick if your baby's nappy needs changing. Sniff, recoil, then change.</p><h2>Nappy rash</h2><p>Treat with nappy rash creams if suspected.</p><h2>Too hot/cold</h2><p>Pay careful attention that your baby's clothing is appropriate to the environment, and that it is not too warm or cold.</p><h2>Illness</h2><p>If the crying is accompanied with changes in behavior, if the baby is burning up, or there is any other reason that you suspect the kid might be ill, check your baby's temperature. Fever temperature is anything over 37.5&deg;C.</br>If you're in any doubt go to your general health practitioner. See warning signs below.</p>"
+                "content": "<h1>Is the baby in discomfort?</h1><h2>Hungry</h2><p>Even if it's just after a feed, your baby could still be hungry. Try a feed.</p><h2>Trapped wind</h2><p>If your baby is pulling its legs, flailing its limbs along with intense crying, it might have wind. Using one of the winding techniques.</p><h2>Diaper change</h2><p>You'll know pretty quick if your baby's diaper needs changing. Sniff, recoil, then change.</p><h2>Diaper rash</h2><p>Treat with diaper rash creams if suspected.</p><h2>Too hot/cold</h2><p>Pay careful attention that your baby's clothing is appropriate to the environment, and that it is not too warm or cold.</p><h2>Illness</h2><p>If the crying is accompanied with changes in behavior, if the baby is burning up, or there is any other reason that you suspect the kid might be ill, check your baby's temperature. Fever temperature is anything over 37.5&deg;C.</br>If you're in any doubt go to your general health practitioner. See warning signs below.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Does the baby need soothing?</h1><p>Sometimes your baby will just want attention. The following can be helpful:</p><h2>Cuddle & Hum</h2><p>The easiest go-to solution. Hold the baby close to you, supporting its head on your chest, one arm under its bottom the other holding its back. Hum or sing gently to the baby and gently pat the baby's bottom in a heartbeat-like rhythm.</p><h2>Rocking</h2><p>In your arms, in a crib, in the pram. Any movement is good. However, don't use this as a method to lull the baby asleep as they get too used to it and they may become unable to sleep without rocking.</p><h2>Pacifier/pacifier</h2><p>Always make sure you're sanitizing these regularly. Be warned, it's a tough habit to break.</p><h2>Colic hold</h2><p>Put the baby face down on your arm with its head towards your elbow, tummy on the palm of your hand. Lowering your arm, so that its head is above its stomach. This hold can also help with wind.</p><h2>Walk</h2><p>The outdoors provides fresh air and a distraction for both of you. Get out and about and stay active.</p><h2>Distract</h2><p>Your baby might just be bored - new games or a change of environment can help.</p><h2>Get naked</h2><p>Some babies like the feeling of being free. You could try taking off your baby's nappy and letting it kick about, or pop it in the bath and jump in yourself to play.</p><h2>Swaddle</h2><p>The opposite can be true too, tightly wrapping your baby in blankets can make it feel more secure.</p>"
+                "content": "<h1>Does the baby need soothing?</h1><p>Sometimes your baby will just want attention. The following can be helpful:</p><h2>Cuddle & Hum</h2><p>The easiest go-to solution. Hold the baby close to you, supporting its head on your chest, one arm under its bottom the other holding its back. Hum or sing gently to the baby and gently pat the baby's bottom in a heartbeat-like rhythm.</p><h2>Rocking</h2><p>In your arms, in a crib, in the baby carriage. Any movement is good. However, don't use this as a method to lull the baby asleep as they get too used to it and they may become unable to sleep without rocking.</p><h2>Pacifier/pacifier</h2><p>Always make sure you're sanitizing these regularly. Be warned, it's a tough habit to break.</p><h2>Colic hold</h2><p>Put the baby face down on your arm with its head towards your elbow, tummy on the palm of your hand. Lowering your arm, so that its head is above its stomach. This hold can also help with wind.</p><h2>Walk</h2><p>The outdoors provides fresh air and a distraction for both of you. Get out and about and stay active.</p><h2>Distract</h2><p>Your baby might just be bored - new games or a change of environment can help.</p><h2>Get naked</h2><p>Some babies like the feeling of being free. You could try taking off your baby's diaper and letting it kick about, or pop it in the bath and jump in yourself to play.</p><h2>Swaddle</h2><p>The opposite can be true too, tightly wrapping your baby in blankets can make it feel more secure.</p>"
             },
             {
                 "type": "tip",
@@ -2283,7 +2283,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Fresh nappy"
+                        "content": "Fresh diaper"
                     },
                     {
                         "heading": "",
@@ -2313,15 +2313,15 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>The job</h1><h2>Stage one - Cleaning</h2><p>Pick a time when your baby is awake and active.</p><p>Make sure that you're going to have the bath in a warm room. Use the room heater if you have to. Babies are very sensitive to temperature.</p><p>Get the temperature of the water right - not too hot, not too cold. Use the baby bath thermometer to judge. Around 37&deg;C is right.</p><p>  Put the baby on a changing mat or on your knee and undress them. You can leave the nappy on for now.</p><p>Wrap the baby in the hoody towel so that it stays warm until you're ready to pop it in the water.</p><p>Dip the absorbent cotton in the water and carefully wipe around the eyes, go from the nose out. Use a different cotton ball for each eye to prevent transferring infection.</p><p>Use more pieces of absorbent cotton to clean the baby's ears. Don't force the absorbent cotton into the ear, just wash around it. Never use a cotton swab.</p><p>Use a very small amount of the shampoo very gently wash the baby's scalp and hair.</p><p>Use the plastic cup to scoop up a little water and wash the shampoo out of the hair. To avoid getting shampoo in their eyes you can tilt the baby's head back slightly or place your hand over its forehead.</p><p>Dry the baby's hair with a towel.</p><p>Now you're ready for the bath</p>"
+                "content": "<h1>The job</h1><h2>Stage one - Cleaning</h2><p>Pick a time when your baby is awake and active.</p><p>Make sure that you're going to have the bath in a warm room. Use the room heater if you have to. Babies are very sensitive to temperature.</p><p>Get the temperature of the water right - not too hot, not too cold. Use the baby bath thermometer to judge. Around 37&deg;C is right.</p><p>  Put the baby on a changing mat or on your knee and undress them. You can leave the diaper on for now.</p><p>Wrap the baby in the hoody towel so that it stays warm until you're ready to pop it in the water.</p><p>Dip the absorbent cotton in the water and carefully wipe around the eyes, go from the nose out. Use a different cotton ball for each eye to prevent transferring infection.</p><p>Use more pieces of absorbent cotton to clean the baby's ears. Don't force the absorbent cotton into the ear, just wash around it. Never use a cotton swab.</p><p>Use a very small amount of the shampoo very gently wash the baby's scalp and hair.</p><p>Use the plastic cup to scoop up a little water and wash the shampoo out of the hair. To avoid getting shampoo in their eyes you can tilt the baby's head back slightly or place your hand over its forehead.</p><p>Dry the baby's hair with a towel.</p><p>Now you're ready for the bath</p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Stage two - The Bath</h2><p>Remove the nappy and lower the baby into the water, using an arm to support its head.</p><p>Continue to wash the baby using the baby sponges, paying special attention to neck, hands, bottom and feet.</p><p>Swish water gently around the tub.</p><p>Bathing your baby should be a fun experience. As your baby gets older, start to introduce toys and play games. Talk as you wash; it helps babies relax.</p><p>When you're all done, carefully take the baby out of the water and wrap it in the hoody towel.</p><p><b>Never leave a baby alone in water, even for a second.</b></p>"
+                "content": "<h2>Stage two - The Bath</h2><p>Remove the diaper and lower the baby into the water, using an arm to support its head.</p><p>Continue to wash the baby using the baby sponges, paying special attention to neck, hands, bottom and feet.</p><p>Swish water gently around the tub.</p><p>Bathing your baby should be a fun experience. As your baby gets older, start to introduce toys and play games. Talk as you wash; it helps babies relax.</p><p>When you're all done, carefully take the baby out of the water and wrap it in the hoody towel.</p><p><b>Never leave a baby alone in water, even for a second.</b></p>"
             },
             {
                 "type": "normal",
-                "content": "<h2>Finishing up</h2><p>On the changing mat, carefully pat the baby dry.</p><p>Make sure to dry in between skin folds like arm pits, behind knees and around the groin. Check for irritated or dry skin.</p><p>You can rub in some baby oil or cream but make sure you do this on a stable surface or on the floor as they may be a little slippery afterwards.</p><p>Put on a new nappy.</p><p>Put on fresh clothes (on the baby - but you too if it got messy).</p> "
+                "content": "<h2>Finishing up</h2><p>On the changing mat, carefully pat the baby dry.</p><p>Make sure to dry in between skin folds like arm pits, behind knees and around the groin. Check for irritated or dry skin.</p><p>You can rub in some baby oil or cream but make sure you do this on a stable surface or on the floor as they may be a little slippery afterwards.</p><p>Put on a new diaper.</p><p>Put on fresh clothes (on the baby - but you too if it got messy).</p> "
             },
             {
                 "type": "tip",
@@ -2350,7 +2350,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>What to do:</h1><h2>Talk a lot</h2><p>Talking comforts babies and shows them that you're paying them attention. Talk whenever you're doing an activity with the baby, such as bathing, feeding. Even if you're just nearby, you should chat away.</p><h2>Say their name</h2><p>It will be several months before the baby will recognize its own name but the more you use it the faster they will learn. Even though the baby may not realise that the name refers to them, they can still get excited by it. They'll know that it's a special word.</p><h2>Eye contact</h2><p>Maintaining eye contact is useful for creating a connection between you and your baby. It's also a welcome distraction if you're trying to do something important at the same time, like change a nappy.</p><h2>Raise the pitch of your voice</h2><p>A higher pitch that imitates a female voice can comfort babies and they naturally connect to it.</p><h2>Make faces</h2><p>As you talk, be extra expressive. You will look ridiculous when you do this but you will not care.</p>"
+                "content": "<h1>What to do:</h1><h2>Talk a lot</h2><p>Talking comforts babies and shows them that you're paying them attention. Talk whenever you're doing an activity with the baby, such as bathing, feeding. Even if you're just nearby, you should chat away.</p><h2>Say their name</h2><p>It will be several months before the baby will recognize its own name but the more you use it the faster they will learn. Even though the baby may not realise that the name refers to them, they can still get excited by it. They'll know that it's a special word.</p><h2>Eye contact</h2><p>Maintaining eye contact is useful for creating a connection between you and your baby. It's also a welcome distraction if you're trying to do something important at the same time, like change a diaper.</p><h2>Raise the pitch of your voice</h2><p>A higher pitch that imitates a female voice can comfort babies and they naturally connect to it.</p><h2>Make faces</h2><p>As you talk, be extra expressive. You will look ridiculous when you do this but you will not care.</p>"
             }
         ]
     },
@@ -2367,7 +2367,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Try these tactics</h1><h2>Alternate nights</h2><p>Take it in turns to handle most, if not all of the night feeds on alternate nights. Yes, it can mean one horrible day running on hardly any sleep, but you get to catch up the following night. Make sure that you use the maximum amount of sleeping time on your night 'off'. If your partner is breast feeding, you won't be able to help out much on feeds - but you can still take nappy duty.</p><h2>Family and friends</h2><p>Take offers of help from trusted, experienced family and friends. Getting out for half an hour or grabbing a quick nap can have <i>huge</i> benefits.</p><h2>Work balance</h2><p>If you don't have much, or any, paternity leave you and your partner may have to come to an arrangement that allows you to get a little more sleep during the week, with you taking up the slack on the weekends. Don't forget, being unproductive at work because of lack of sleep can create extra stress.</p>"
+                "content": "<h1>Try these tactics</h1><h2>Alternate nights</h2><p>Take it in turns to handle most, if not all of the night feeds on alternate nights. Yes, it can mean one horrible day running on hardly any sleep, but you get to catch up the following night. Make sure that you use the maximum amount of sleeping time on your night 'off'. If your partner is breast feeding, you won't be able to help out much on feeds - but you can still take diaper duty.</p><h2>Family and friends</h2><p>Take offers of help from trusted, experienced family and friends. Getting out for half an hour or grabbing a quick nap can have <i>huge</i> benefits.</p><h2>Work balance</h2><p>If you don't have much, or any, paternity leave you and your partner may have to come to an arrangement that allows you to get a little more sleep during the week, with you taking up the slack on the weekends. Don't forget, being unproductive at work because of lack of sleep can create extra stress.</p>"
             },
             {
                 "type": "tip",
@@ -2720,7 +2720,7 @@
                     },
                     {
                         "heading": "Plastic caps",
-                        "content": "For electrical sockets."
+                        "content": "For electrical outlets."
                     },
                     {
                         "heading": "Child proof door locks",
