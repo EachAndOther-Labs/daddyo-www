@@ -24,7 +24,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Telling your GP."
+                        "content": "Telling your general health practitioner."
                     },
                     {
                         "heading": "",
@@ -34,7 +34,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Warning signs</h1><p>Unfortunately, this is the stage of pregnancy when the risk of miscarriage is at its highest. In most cases it's a natural occurrence because the fetus is not developing correctly. You should consult your GP at the first sign of any abdominal pains or unusual bleeding. Be vigilant. But also try not to worry. </p>"
+                "content": "<h1>Warning signs</h1><p>Unfortunately, this is the stage of pregnancy when the risk of miscarriage is at its highest. In most cases it's a natural occurrence because the fetus is not developing correctly. You should consult your general health practitioner at the first sign of any abdominal pains or unusual bleeding. Be vigilant. But also try not to worry. </p>"
             }
         ]
     },
@@ -143,7 +143,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>As always, if your partner experiences anything that you're concerned about - chronic vomiting, loss of appetite, whatever -  visit your GP.</p>"
+                "content": "<p>As always, if your partner experiences anything that you're concerned about - chronic vomiting, loss of appetite, whatever -  visit your general health practitioner.</p>"
             },
             {
                 "type": "yes-list",
@@ -294,7 +294,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Warning signs</h1><p>Some women experience severe or extreme morning sickness, which is called hyperemesis gravidarum. If your partner is chronically and violently ill, get medical advice. She may need to be treated in hospital.</p><h2>Watch out for</h2><p>Dizzy or faint spells; very dark urine; stomach pains; high temperatures; or blood in vomit.</p>"
+                "content": "<h1>Warning signs</h1><p>Some women experience severe or extreme morning sickness, which is called hyperemesis gravidarum. If your partner is chronically and violently ill, get medical advice. She may need to be treated in the hospital.</p><h2>Watch out for</h2><p>Dizzy or faint spells; very dark urine; stomach pains; high temperatures; or blood in vomit.</p>"
             }
         ]
     },
@@ -359,7 +359,7 @@
                         "content": "Obstetrics fees"
                     },
                     {
-                        "heading": "Post-natal GP care",
+                        "heading": "Post-natal care by your general health practitioner",
                         "content": ""
                     },
                     {
@@ -907,7 +907,7 @@
                     },
                     {
                         "heading": "Ease of folding",
-                        "content": "Can you easily collapse or fold the stroller? Do you need both hands to do it, or can you do it with one? These are important questions because with one arm holding a baby many seemingly simple tasks become very tricky. Foldability is also critical if you take public transport regularly."
+                        "content": "Can you easily collapse or fold the stroller? Do you need both hands to do it, or can you do it with one? These are important questions because with one arm holding a baby many seemingly simple tasks become very tricky. Foldability is also critical if you take public transportation regularly."
                     },
                     {
                         "heading": "Lifestyle",
@@ -927,7 +927,7 @@
                     },
                     {
                         "heading": "Check the tyres",
-                        "content": "Larger pneumatic tyres (air-filled) are suitable for a wide range of surfaces so if you're planning on doing a lot of walking – off-road, beach or city – they'll be your best option. Small solid wheels are usually found on little fold-up buggies and their natural habitat is shopping centers. However they're usually more compact and easier to cope with on public transport."
+                        "content": "Larger pneumatic tyres (air-filled) are suitable for a wide range of surfaces so if you're planning on doing a lot of walking – off-road, beach or city – they'll be your best option. Small solid wheels are usually found on little fold-up buggies and their natural habitat is shopping centers. However they're usually more compact and easier to cope with on public transportation."
                     },
                     {
                         "heading": "Add-ons",
@@ -953,7 +953,7 @@
                     },
                     {
                         "heading": "Three-wheeler",
-                        "content": "Bulkier and trickier to fold, which can be a consideration for public transport, but a lot more maneuverable when you've got it set. Great for active lifestyles."
+                        "content": "Bulkier and trickier to fold, which can be a consideration for public transportation, but a lot more maneuverable when you've got it set. Great for active lifestyles."
                     }
                 ]
             },
@@ -976,7 +976,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>Pack all items for the labor ward in their own bag. It makes it easier to find what you need without having the stuff for the ward in the way.</br>Also, you don't know how long your partner's stay in hospital is going to be. Make sure that you know where all the spare clothes, pads and baby things are at home in case the stay is longer than expected.</p>"
+                "content": "<p>Pack all items for the labor ward in their own bag. It makes it easier to find what you need without having the stuff for the ward in the way.</br>Also, you don't know how long your partner's stay in the hospital is going to be. Make sure that you know where all the spare clothes, pads and baby things are at home in case the stay is longer than expected.</p>"
             },
             {
                 "type": "yes-list",
@@ -1560,7 +1560,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>While that's all normal, be conscious that some women suffer from Post-natal depression (PND).</br>Symptoms include, tiredness, sadness, feelings of inadequacy and nervousness. If you suspect that your partner might be suffering from mild or severe PND, talk to her, then get advice from your GP. It's a medical condition caused by hormonal imbalance and she might need some help.</p>"
+                "content": "<p>While that's all normal, be conscious that some women suffer from Post-natal depression (PND).</br>Symptoms include, tiredness, sadness, feelings of inadequacy and nervousness. If you suspect that your partner might be suffering from mild or severe PND, talk to her, then get advice from your general health practitioner. It's a medical condition caused by hormonal imbalance and she might need some help.</p>"
             },
             {
                 "type": "yes-list",
@@ -1893,7 +1893,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Warning Sign</h1><p>A persistent rash could be something other than nappy rash. A bright red, moist rash with little pimples could be thrush. Check with your druggist or GP.</p>"
+                "content": "<h1>Warning Sign</h1><p>A persistent rash could be something other than nappy rash. A bright red, moist rash with little pimples could be thrush. Check with your druggist or general health practitioner.</p>"
             }
         ]
     },
@@ -2106,11 +2106,11 @@
                 "bullets": [
                     {
                         "heading": "Refusing to feed",
-                        "content": "This might be OK, or a sign that something is wrong. If the baby has missed two or three feedings and seems uncomfortable, it's probably best to head to your GP."
+                        "content": "This might be OK, or a sign that something is wrong. If the baby has missed two or three feedings and seems uncomfortable, it's probably best to head to your general health practitioner."
                     },
                     {
                         "heading": "Vomiting",
-                        "content": "Babies vomit <i>a lot</i>. This is often due to swallowing air during feeding. They could also have a bout of gastroenteritis, which they should fight off in a day or two. If your baby is vomiting, monitor its temperature and contact your GP if you're concerned. Persistent vomiting can be a sign of something more serious, including meningitis or an allergy. Be cool, but be vigilant."
+                        "content": "Babies vomit <i>a lot</i>. This is often due to swallowing air during feeding. They could also have a bout of gastroenteritis, which they should fight off in a day or two. If your baby is vomiting, monitor its temperature and contact your general health practitioner if you're concerned. Persistent vomiting can be a sign of something more serious, including meningitis or an allergy. Be cool, but be vigilant."
                     }
                 ]
             }
@@ -2166,7 +2166,7 @@
                 "bullets": [
                     {
                         "heading": "",
-                        "content": "Soother"
+                        "content": "Pacifier"
                     },
                     {
                         "heading": "",
@@ -2192,11 +2192,11 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Is the baby in discomfort?</h1><h2>Hungry</h2><p>Even if it's just after a feed, your baby could still be hungry. Try a feed.</p><h2>Trapped wind</h2><p>If your baby is pulling its legs, flailing its limbs along with intense crying, it might have wind. Using one of the winding techniques.</p><h2>Nappy change</h2><p>You'll know pretty quick if your baby's nappy needs changing. Sniff, recoil, then change.</p><h2>Nappy rash</h2><p>Treat with nappy rash creams if suspected.</p><h2>Too hot/cold</h2><p>Pay careful attention that your baby's clothing is appropriate to the environment, and that it is not too warm or cold.</p><h2>Illness</h2><p>If the crying is accompanied with changes in behavior, if the baby is burning up, or there is any other reason that you suspect the kid might be ill, check your baby's temperature. Fever temperature is anything over 37.5&deg;C.</br>If you're in any doubt go to your GP. See warning signs below.</p>"
+                "content": "<h1>Is the baby in discomfort?</h1><h2>Hungry</h2><p>Even if it's just after a feed, your baby could still be hungry. Try a feed.</p><h2>Trapped wind</h2><p>If your baby is pulling its legs, flailing its limbs along with intense crying, it might have wind. Using one of the winding techniques.</p><h2>Nappy change</h2><p>You'll know pretty quick if your baby's nappy needs changing. Sniff, recoil, then change.</p><h2>Nappy rash</h2><p>Treat with nappy rash creams if suspected.</p><h2>Too hot/cold</h2><p>Pay careful attention that your baby's clothing is appropriate to the environment, and that it is not too warm or cold.</p><h2>Illness</h2><p>If the crying is accompanied with changes in behavior, if the baby is burning up, or there is any other reason that you suspect the kid might be ill, check your baby's temperature. Fever temperature is anything over 37.5&deg;C.</br>If you're in any doubt go to your general health practitioner. See warning signs below.</p>"
             },
             {
                 "type": "normal",
-                "content": "<h1>Does the baby need soothing?</h1><p>Sometimes your baby will just want attention. The following can be helpful:</p><h2>Cuddle & Hum</h2><p>The easiest go-to solution. Hold the baby close to you, supporting its head on your chest, one arm under its bottom the other holding its back. Hum or sing gently to the baby and gently pat the baby's bottom in a heartbeat-like rhythm.</p><h2>Rocking</h2><p>In your arms, in a crib, in the pram. Any movement is good. However, don't use this as a method to lull the baby asleep as they get too used to it and they may become unable to sleep without rocking.</p><h2>Soother/pacifier</h2><p>Always make sure you're sanitizing these regularly. Be warned, it's a tough habit to break.</p><h2>Colic hold</h2><p>Put the baby face down on your arm with its head towards your elbow, tummy on the palm of your hand. Lowering your arm, so that its head is above its stomach. This hold can also help with wind.</p><h2>Walk</h2><p>The outdoors provides fresh air and a distraction for both of you. Get out and about and stay active.</p><h2>Distract</h2><p>Your baby might just be bored - new games or a change of environment can help.</p><h2>Get naked</h2><p>Some babies like the feeling of being free. You could try taking off your baby's nappy and letting it kick about, or pop it in the bath and jump in yourself to play.</p><h2>Swaddle</h2><p>The opposite can be true too, tightly wrapping your baby in blankets can make it feel more secure.</p>"
+                "content": "<h1>Does the baby need soothing?</h1><p>Sometimes your baby will just want attention. The following can be helpful:</p><h2>Cuddle & Hum</h2><p>The easiest go-to solution. Hold the baby close to you, supporting its head on your chest, one arm under its bottom the other holding its back. Hum or sing gently to the baby and gently pat the baby's bottom in a heartbeat-like rhythm.</p><h2>Rocking</h2><p>In your arms, in a crib, in the pram. Any movement is good. However, don't use this as a method to lull the baby asleep as they get too used to it and they may become unable to sleep without rocking.</p><h2>Pacifier/pacifier</h2><p>Always make sure you're sanitizing these regularly. Be warned, it's a tough habit to break.</p><h2>Colic hold</h2><p>Put the baby face down on your arm with its head towards your elbow, tummy on the palm of your hand. Lowering your arm, so that its head is above its stomach. This hold can also help with wind.</p><h2>Walk</h2><p>The outdoors provides fresh air and a distraction for both of you. Get out and about and stay active.</p><h2>Distract</h2><p>Your baby might just be bored - new games or a change of environment can help.</p><h2>Get naked</h2><p>Some babies like the feeling of being free. You could try taking off your baby's nappy and letting it kick about, or pop it in the bath and jump in yourself to play.</p><h2>Swaddle</h2><p>The opposite can be true too, tightly wrapping your baby in blankets can make it feel more secure.</p>"
             },
             {
                 "type": "tip",
@@ -2238,7 +2238,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>Unfortunately, some babies cry more than most. In fact, there might be constant crying for three hours a day or periods of intense crying where your baby looks like it is in pain, but in fact isn't. It can be a difficult phase, but it's a natural part of development. It usually eases off after five months. Get to know your baby's patterns and if you're in doubt seek advice from your GP.</p>"
+                "content": "<p>Unfortunately, some babies cry more than most. In fact, there might be constant crying for three hours a day or periods of intense crying where your baby looks like it is in pain, but in fact isn't. It can be a difficult phase, but it's a natural part of development. It usually eases off after five months. Get to know your baby's patterns and if you're in doubt seek advice from your general health practitioner.</p>"
             }
         ]
     },
@@ -2279,7 +2279,7 @@
                     },
                     {
                         "heading": "",
-                        "content": "Cotton wool"
+                        "content": "Absorbent cotton"
                     },
                     {
                         "heading": "",
@@ -2313,7 +2313,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>The job</h1><h2>Stage one - Cleaning</h2><p>Pick a time when your baby is awake and active.</p><p>Make sure that you're going to have the bath in a warm room. Use the room heater if you have to. Babies are very sensitive to temperature.</p><p>Get the temperature of the water right - not too hot, not too cold. Use the baby bath thermometer to judge. Around 37&deg;C is right.</p><p>  Put the baby on a changing mat or on your knee and undress them. You can leave the nappy on for now.</p><p>Wrap the baby in the hoody towel so that it stays warm until you're ready to pop it in the water.</p><p>Dip the cotton wool in the water and carefully wipe around the eyes, go from the nose out. Use a different cotton ball for each eye to prevent transferring infection.</p><p>Use more pieces of cotton wool to clean the baby's ears. Don't force the cotton wool into the ear, just wash around it. Never use a cotton bud.</p><p>Use a very small amount of the shampoo very gently wash the baby's scalp and hair.</p><p>Use the plastic cup to scoop up a little water and wash the shampoo out of the hair. To avoid getting shampoo in their eyes you can tilt the baby's head back slightly or place your hand over its forehead.</p><p>Dry the baby's hair with a towel.</p><p>Now you're ready for the bath</p>"
+                "content": "<h1>The job</h1><h2>Stage one - Cleaning</h2><p>Pick a time when your baby is awake and active.</p><p>Make sure that you're going to have the bath in a warm room. Use the room heater if you have to. Babies are very sensitive to temperature.</p><p>Get the temperature of the water right - not too hot, not too cold. Use the baby bath thermometer to judge. Around 37&deg;C is right.</p><p>  Put the baby on a changing mat or on your knee and undress them. You can leave the nappy on for now.</p><p>Wrap the baby in the hoody towel so that it stays warm until you're ready to pop it in the water.</p><p>Dip the absorbent cotton in the water and carefully wipe around the eyes, go from the nose out. Use a different cotton ball for each eye to prevent transferring infection.</p><p>Use more pieces of absorbent cotton to clean the baby's ears. Don't force the absorbent cotton into the ear, just wash around it. Never use a cotton swab.</p><p>Use a very small amount of the shampoo very gently wash the baby's scalp and hair.</p><p>Use the plastic cup to scoop up a little water and wash the shampoo out of the hair. To avoid getting shampoo in their eyes you can tilt the baby's head back slightly or place your hand over its forehead.</p><p>Dry the baby's hair with a towel.</p><p>Now you're ready for the bath</p>"
             },
             {
                 "type": "normal",
@@ -2329,7 +2329,7 @@
             },
             {
                 "type": "tip",
-                "content": "You shouldn't bathe a baby until the umbilical stump has fallen off - usually about two weeks after birth. Until then, you should only wash the baby using a clean warm cloth and cotton wool for the face. Using powder around the stump is a good way to keep the area dry."
+                "content": "You shouldn't bathe a baby until the umbilical stump has fallen off - usually about two weeks after birth. Until then, you should only wash the baby using a clean warm cloth and absorbent cotton for the face. Using powder around the stump is a good way to keep the area dry."
             },
             {
                 "type": "tip",
@@ -2473,11 +2473,11 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Immunization</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</br>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your GP.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your GP will advise you of further schedules for subsequent vaccinations.</p>"
+                "content": "<h1>Immunization</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</br>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your general health practitioner.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your general health practitioner will advise you of further schedules for subsequent vaccinations.</p>"
             },
             {
                 "type": "tip",
-                "content": "There may be legitimate medical reasons not to use vaccines. This should be the exception not the rule and you should check with your GP."
+                "content": "There may be legitimate medical reasons not to use vaccines. This should be the exception not the rule and you should check with your general health practitioner."
             },
             {
                 "type": "tip",
@@ -2545,7 +2545,7 @@
                         "content": "Great to chew on and a good distraction. Some brands can be chilled in the refrigerator to give extra relief."
                     },
                     {
-                        "heading": "Clean, cold, wet flannel cloth",
+                        "heading": "Clean, cold, wet wash cloth",
                         "content": "This can make a good makeshift teething ring."
                     },
                     {
@@ -2558,7 +2558,7 @@
                     },
                     {
                         "heading": "Painkillers",
-                        "content": "If your baby is in real distress, you could consider specific painkillers made for babies. Talk to you druggist or GP to see if this course of action is needed."
+                        "content": "If your baby is in real distress, you could consider specific painkillers made for babies. Talk to you druggist or general health practitioner to see if this course of action is needed."
                     }
                 ]
             },
@@ -2641,7 +2641,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Warning Sign</h1><p>You'll get to know your baby's feeding patterns. If it refuses to eat or shows no interest in food over the course of a couple of days, you should contact your GP.</p>"
+                "content": "<h1>Warning Sign</h1><p>You'll get to know your baby's feeding patterns. If it refuses to eat or shows no interest in food over the course of a couple of days, you should contact your general health practitioner.</p>"
             },
             {
                 "type": "yes-list",
