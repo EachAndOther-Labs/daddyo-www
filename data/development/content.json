@@ -1123,7 +1123,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Labour</h1><p>This phase is all action. And sometimes, a fair bit of waiting around too.</br>The baby is ready to go. Hopefully it happens on, or near, the due date. However, early or late births are not uncommon. Unfortunately, every woman's labour is different so it's hard to give hard and fast rules.</p>"
+                "content": "<h1>Labour</h1><p>This phase is all action. And sometimes, a fair bit of waiting around too.</p><p>The baby is ready to go. Hopefully it happens on, or near, the due date. However, early or late births are not uncommon. Unfortunately, every woman's labour is different so it's hard to give hard and fast rules.</p>"
             },
             {
                 "type": "normal",
@@ -2367,7 +2367,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Try these tactics</h1><h2>Alternate nights</h2><p>Take it in turns to handle most, if not all of the night feeds on alternate nights. Yes, it can mean one horrible day running on hardly any sleep, but you get to catch up the following night. Make sure that you use the maximum amount of sleeping time on your night 'off'. If your partner is breast feeding, you won't be able to help out much on feeds - but you can still take nappy duty.</p><h2>Family and friends</h2><p>Take offers of help from trusted, experienced family and friends. Getting out for half an hour or grabbing a quick nap can have <i>huge</i> benefits.</p><h2>Work balance</h2><p>If you don't have much, or any, paternity leave you and your partner may have to come to an arrangement that allows you to get a little more sleep during the week, with you taking up the slack on the weekends. Don't forget, being unproductive at work because of lack of sleep can create extra stress.</p>"
+                "content": "<h1>Try these tactics</h1><h2>Alternate nights</h2><p>Take it in turns to handle most, if not all of the night feeds on alternate nights. Yes, it can mean one horrible day running on hardly any sleep, but you get to catch up the following night. Make sure that you use the maximum amount of sleeping time on your night &quot;off&quot;. If your partner is breast feeding, you won't be able to help out much on feeds - but you can still take nappy duty.</p><h2>Family and friends</h2><p>Take offers of help from trusted, experienced family and friends. Getting out for half an hour or grabbing a quick nap can have <i>huge</i> benefits.</p><h2>Work balance</h2><p>If you don't have much, or any, paternity leave you and your partner may have to come to an arrangement that allows you to get a little more sleep during the week, with you taking up the slack on the weekends. Don't forget, being unproductive at work because of lack of sleep can create extra stress.</p>"
             },
             {
                 "type": "tip",
@@ -2473,7 +2473,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Immunisation</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</br>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your GP.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your GP will advise you of further schedules for subsequent vaccinations.</p>"
+                "content": "<h1>Immunisation</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</br>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your GP.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in-1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your GP will advise you of further schedules for subsequent vaccinations.</p>"
             },
             {
                 "type": "tip",
@@ -2504,7 +2504,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>What is it?</h1><p>Babies usually develop teeth while in the womb but they only start coming through their gums after around six months (although sometimes it can happen earlier). It can be pretty painful for them.</p><p>It goes: bottom front teeth (5-7 months); top front teeth (6-8 months); teeth on either side of the top front teeth (9-11 months); teeth on either side of the bottom front teeth (10-12 months); back teeth (12-16 months); canines (16-20 months); second molars (20-30 months).</p>"
+                "content": "<h1>What is it?</h1><p>Babies usually develop teeth while in the womb but they only start coming through their gums after around six months (although sometimes it can happen earlier). It can be pretty painful for them.</p><p>It goes:</p><ol><li>bottom front teeth (5-7 months)</li><li>top front teeth (6-8 months)</li><li>teeth on either side of the top front teeth (9-11 months)</li><li>teeth on either side of the bottom front teeth (10-12 months)</li><li>back teeth (12-16 months)</li><li>canines (16-20 months)</li><li>second molars (20-30 months)</li></ol>"
             },
             {
                 "type": "warning-list",
