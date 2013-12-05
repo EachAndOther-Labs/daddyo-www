@@ -876,7 +876,7 @@
     },
     {
         "id": 16,
-        "title": "Strollers and baby carriages",
+        "title": "Stroller & baby buggy",
         "icon": "3.4-prams-buggies.png",
         "image": "3.4-prams-buggies-content.png",
         "category": "third-trimester",
@@ -1245,7 +1245,7 @@
     },
     {
         "id": 19,
-        "title": "Signs of labour",
+        "title": "Signs of labor",
         "icon": "4.2-signs-of-labour.png",
         "image": "4.2-signs-of-labour-content.png",
         "category": "labour",
@@ -1425,7 +1425,7 @@
     },
     {
         "id": 22,
-        "title": "Labour Checklist",
+        "title": "Labor Checklist",
         "icon": "4.6-labour-checklist.png",
         "image": "4.6-labour-checklist-content.png",
         "category": "labour",
