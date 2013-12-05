@@ -560,7 +560,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Picking names</h1><p>When couples start thinking of having kids they play the what'll-we-name-our-kids game. It can be a lot less fun when you're playing for keeps and both parties start playing rough.</br>To keep it clean, and to keep arguments to a minimum, here's the rules to the Daddyo baby name game.</p>"
+                "content": "<h1>Picking names</h1><p>When couples start thinking of having kids they play the what'll-we-name-our-kids game. It can be a lot less fun when you're playing for keeps and both parties start playing rough.</p><p>To keep it clean, and to keep arguments to a minimum, here's the rules to the Daddyo baby name game.</p>"
             },
             {
                 "type": "normal",
@@ -976,7 +976,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>Pack all items for the labor ward in their own bag. It makes it easier to find what you need without having the stuff for the ward in the way.</br>Also, you don't know how long your partner's stay in the hospital is going to be. Make sure that you know where all the spare clothes, pads and baby things are at home in case the stay is longer than expected.</p>"
+                "content": "<p>Pack all items for the labor ward in their own bag. It makes it easier to find what you need without having the stuff for the ward in the way.</p><p>Also, you don't know how long your partner's stay in the hospital is going to be. Make sure that you know where all the spare clothes, pads and baby things are at home in case the stay is longer than expected.</p>"
             },
             {
                 "type": "yes-list",
@@ -1131,7 +1131,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>The Baby</h1><p>The baby will be born head first, or legs first (breech birth).</br>Normal birth weight is between 6lb and 9lb.<p>"
+                "content": "<h1>The Baby</h1><p>The baby will be born head first, or legs first (breech birth). Normal birth weight is between 6lb and 9lb.<p>"
             },
             {
                 "type": "normal",
@@ -1368,7 +1368,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>Newborns can look pretty strange, have wrinkles or even cone heads. They change their appearance very quickly over a few days. Be tactful about how you react. If you think about making some joke about how weird the baby looks, keep it to yourself. Your partner has just done a lot of work to get this kid here in one piece.</br>Don't worry - it'll start looking like a normal baby pretty soon.</p>"
+                "content": "<p>Newborns can look pretty strange, have wrinkles or even cone heads. They change their appearance very quickly over a few days. Be tactful about how you react. If you think about making some joke about how weird the baby looks, keep it to yourself. Your partner has just done a lot of work to get this kid here in one piece. Don't worry - it'll start looking like a normal baby pretty soon.</p>"
             }
         ]
     },
@@ -1403,7 +1403,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>The job</h1><p>Your partner will probably be aware of what to expect from contractions. Each contraction will start, peak, and then subside.</br>If she gets a few in a row in a regular pattern, start timing them. It's probably the onset of labor.</p><ol><li>Start the timer at the beginning of a contraction.</li><li>Jot down the contraction number (1,2,3...) so you can keep track of how many contractions she's had, and the exact start time.</li><li>When the contraction subsides, stop the watch and mark down the total duration of the contraction.</li><li>Repeat this process for every contraction.</li><li>If there's pain, or any changes between contractions, write them down as additional notes.</li></ol>"
+                "content": "<h1>The job</h1><p>Your partner will probably be aware of what to expect from contractions. Each contraction will start, peak, and then subside.</p><p>If she gets a few in a row in a regular pattern, start timing them. It's probably the onset of labor.</p><ol><li>Start the timer at the beginning of a contraction.</li><li>Jot down the contraction number (1,2,3...) so you can keep track of how many contractions she's had, and the exact start time.</li><li>When the contraction subsides, stop the watch and mark down the total duration of the contraction.</li><li>Repeat this process for every contraction.</li><li>If there's pain, or any changes between contractions, write them down as additional notes.</li></ol>"
             },
             {
                 "type": "normal",
@@ -1483,7 +1483,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Why are babies born late?</h1><p>Labor usually starts when the time is right. Every pregnancy is different and a late birth, especially the first time around, isn't uncommon. Your baby isn't officially late until two weeks after the actual due date.</br>Unless there's a clear indication that the baby is in trouble of some sort, your hospital or midwife will probably recommend letting nature take its course.</p>"
+                "content": "<h1>Why are babies born late?</h1><p>Labor usually starts when the time is right. Every pregnancy is different and a late birth, especially the first time around, isn't uncommon. Your baby isn't officially late until two weeks after the actual due date.</p><p>Unless there's a clear indication that the baby is in trouble of some sort, your hospital or midwife will probably recommend letting nature take its course.</p>"
             },
             {
                 "type": "normal",
@@ -1560,7 +1560,7 @@
             },
             {
                 "type": "normal",
-                "content": "<p>While that's all normal, be conscious that some women suffer from Postnatal depression (PND).</br>Symptoms include, tiredness, sadness, feelings of inadequacy and nervousness. If you suspect that your partner might be suffering from mild or severe PND, talk to her, then get advice from your general health practitioner. It's a medical condition caused by hormonal imbalance and she might need some help.</p>"
+                "content": "<p>While that's all normal, be conscious that some women suffer from Postnatal depression (PND).</p><p>Symptoms include tiredness, sadness, feelings of inadequacy and nervousness. If you suspect that your partner might be suffering from mild or severe PND, talk to her, then get advice from your general health practitioner. It's a medical condition caused by hormonal imbalance and she might need some help.</p>"
             },
             {
                 "type": "yes-list",
@@ -1726,7 +1726,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>General rules</h1><p>Always support the baby's head. Newborns can't support the weight of their own heads, so this is really important.</p><p>Keeping the head above the tummy aids digestion and can help prevent wind.</p><p>Be calm and confident holding the baby.</br>Talking will relax the baby while you hold it.</p>"
+                "content": "<h1>General rules</h1><p>Always support the baby's head. Newborns can't support the weight of their own heads, so this is really important.</p><p>Keeping the head above the tummy aids digestion and can help prevent wind.</p><p>Be calm and confident holding the baby.</p><p>Talking will relax the baby while you hold it.</p>"
             },
             {
                 "type": "generic",
@@ -1991,7 +1991,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Sterilizing bottles</h1><p>Sterilizing your baby's feeding equipment is vital in preventing potential infections.</br>You can either use a sterilizing solution or an electric sterilizer, which is probably more convenient but is also more expensive.</p>"
+                "content": "<h1>Sterilizing bottles</h1><p>Sterilizing your baby's feeding equipment is vital in preventing potential infections.</p><p>You can either use a sterilizing solution or an electric sterilizer, which is probably more convenient but is also more expensive.</p>"
             },
             {
                 "type": "yes-list",
@@ -2125,7 +2125,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Winding a baby</h1><p>When babies are born their digestive tracts are not fully developed. This means that they often swallow air when they feed or cry, which makes their tummy swell and bloat. It's very uncomfortable for them. This is called wind.</br>Some babies get wind very frequently, but it should reduce as they learn better control in feeding and their digestive track matures.</p>"
+                "content": "<h1>Winding a baby</h1><p>When babies are born their digestive tracts are not fully developed. This means that they often swallow air when they feed or cry, which makes their tummy swell and bloat. It's very uncomfortable for them. This is called wind.</p><p>Some babies get wind very frequently, but it should reduce as they learn better control in feeding and their digestive track matures.</p>"
             },
             {
                 "type": "normal",
@@ -2192,7 +2192,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>Is the baby in discomfort?</h1><h2>Hungry</h2><p>Even if it's just after a feed, your baby could still be hungry. Try a feed.</p><h2>Trapped wind</h2><p>If your baby is pulling its legs, flailing its limbs along with intense crying, it might have wind. Using one of the winding techniques.</p><h2>Diaper change</h2><p>You'll know pretty quick if your baby's diaper needs changing. Sniff, recoil, then change.</p><h2>Diaper rash</h2><p>Treat with diaper rash creams if suspected.</p><h2>Too hot/cold</h2><p>Pay careful attention that your baby's clothing is appropriate to the environment, and that it is not too warm or cold.</p><h2>Illness</h2><p>If the crying is accompanied with changes in behavior, if the baby is burning up, or there is any other reason that you suspect the kid might be ill, check your baby's temperature. Fever temperature is anything over 37.5&deg;C.</br>If you're in any doubt go to your general health practitioner. See warning signs below.</p>"
+                "content": "<h1>Is the baby in discomfort?</h1><h2>Hungry</h2><p>Even if it's just after a feed, your baby could still be hungry. Try a feed.</p><h2>Trapped wind</h2><p>If your baby is pulling its legs, flailing its limbs along with intense crying, it might have wind. Using one of the winding techniques.</p><h2>Diaper change</h2><p>You'll know pretty quick if your baby's diaper needs changing. Sniff, recoil, then change.</p><h2>Diaper rash</h2><p>Treat with diaper rash creams if suspected.</p><h2>Too hot/cold</h2><p>Pay careful attention that your baby's clothing is appropriate to the environment, and that it is not too warm or cold.</p><h2>Illness</h2><p>If the crying is accompanied with changes in behavior, if the baby is burning up, or there is any other reason that you suspect the kid might be ill, check your baby's temperature. Fever temperature is anything over 99.5&deg;F.</p><p>If you're in any doubt go to your general health practitioner. See warning signs below.</p>"
             },
             {
                 "type": "normal",
@@ -2313,7 +2313,7 @@
             },
             {
                 "type": "normal",
-                "content": "<h1>The job</h1><h2>Stage one - Cleaning</h2><p>Pick a time when your baby is awake and active.</p><p>Make sure that you're going to have the bath in a warm room. Use the room heater if you have to. Babies are very sensitive to temperature.</p><p>Get the temperature of the water right - not too hot, not too cold. Use the baby bath thermometer to judge. Around 37&deg;C is right.</p><p>  Put the baby on a changing mat or on your knee and undress them. You can leave the diaper on for now.</p><p>Wrap the baby in the hoody towel so that it stays warm until you're ready to pop it in the water.</p><p>Dip the absorbent cotton in the water and carefully wipe around the eyes, go from the nose out. Use a different cotton ball for each eye to prevent transferring infection.</p><p>Use more pieces of absorbent cotton to clean the baby's ears. Don't force the absorbent cotton into the ear, just wash around it. Never use a cotton swab.</p><p>Use a very small amount of the shampoo very gently wash the baby's scalp and hair.</p><p>Use the plastic cup to scoop up a little water and wash the shampoo out of the hair. To avoid getting shampoo in their eyes you can tilt the baby's head back slightly or place your hand over its forehead.</p><p>Dry the baby's hair with a towel.</p><p>Now you're ready for the bath</p>"
+                "content": "<h1>The job</h1><h2>Stage one - Cleaning</h2><p>Pick a time when your baby is awake and active.</p><p>Make sure that you're going to have the bath in a warm room. Use the room heater if you have to. Babies are very sensitive to temperature.</p><p>Get the temperature of the water right - not too hot, not too cold. Use the baby bath thermometer to judge. Around 98.6&deg;F is right.</p><p>  Put the baby on a changing mat or on your knee and undress them. You can leave the diaper on for now.</p><p>Wrap the baby in the hoody towel so that it stays warm until you're ready to pop it in the water.</p><p>Dip the absorbent cotton in the water and carefully wipe around the eyes, go from the nose out. Use a different cotton ball for each eye to prevent transferring infection.</p><p>Use more pieces of absorbent cotton to clean the baby's ears. Don't force the absorbent cotton into the ear, just wash around it. Never use a cotton swab.</p><p>Use a very small amount of the shampoo very gently wash the baby's scalp and hair.</p><p>Use the plastic cup to scoop up a little water and wash the shampoo out of the hair. To avoid getting shampoo in their eyes you can tilt the baby's head back slightly or place your hand over its forehead.</p><p>Dry the baby's hair with a towel.</p><p>Now you're ready for the bath</p>"
             },
             {
                 "type": "normal",
@@ -2346,7 +2346,7 @@
         "sections": [
             {
                 "type": "generic",
-                "content": "<h1>Talk to your Baby</h1><p>If you've never been around kids before, you might think that it's strange to natter away to a baby. But it'll probably feel very natural when you're holding your own.</br>Babies understand tones from an early age. Talking to them can soothe and relax them, and, of course, it's good for speech development. But that's further down the road.</p>"
+                "content": "<h1>Talk to your Baby</h1><p>If you've never been around kids before, you might think that it's strange to natter away to a baby. But it'll probably feel very natural when you're holding your own.</p><p>Babies understand tones from an early age. Talking to them can soothe and relax them, and, of course, it's good for speech development. But that's further down the road.</p>"
             },
             {
                 "type": "normal",
@@ -2363,7 +2363,7 @@
         "sections": [
             {
                 "type": "generic",
-                "content": "<h1>Dealing with sleep deprivation</h1><p>The first weeks, and possibly months, can be very disruptive on your sleeping patterns. You'll learn to live with never having enough sleep.</br>However, sleep deprivation can lead to postnatal depression for you or your partner, so don't overlook trying to organise your lives to make it as easy as possible on you both. Talk about it early, and be ready to make compromises and allowances.</p>"
+                "content": "<h1>Dealing with sleep deprivation</h1><p>The first weeks, and possibly months, can be very disruptive on your sleeping patterns. You'll learn to live with never having enough sleep.</p><p>However, sleep deprivation can lead to postnatal depression for you or your partner, so don't overlook trying to organise your lives to make it as easy as possible on you both. Talk about it early, and be ready to make compromises and allowances.</p>"
             },
             {
                 "type": "normal",
@@ -2413,7 +2413,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>3-6 Months</h1><p>You should be an old hand at this now. You've mastered the basics. You've probably gotten some sleep. And if you're lucky, you've found a routine that is working for you and your partner.</p><h1>The baby</h1><p>Your baby will now be more active. There'll be lot more kicking and wriggling and it'll have much better control over its head movements. You'll notice how the baby will start to rock back and forth, and towards the end of the six months it'll probably be able to roll over. They could also be able to sit up by themselves and crawling is probably soon to follow.</p><p>Hand-eye coordination is going to get a lot better also. The baby will be able to grasp and rattle small objects and is probably putting anything and everything in its mouth. It will also be able to pull things towards it.</p><p>At this point, it'll also be able to recognize familiar faces, follow motion and will likely start to focus on bright colors.</br>You'll be introduced to a whole new range of sounds, from squealing to gurgling, and the baby might make noises then wait for you to respond.</p><h1>Your partner</h1><p>Things will have settled for your partner too. She should be getting more sleep and probably will be back to her normal self.</p>"
+                "content": "<h1>3-6 Months</h1><p>You should be an old hand at this now. You've mastered the basics. You've probably gotten some sleep. And if you're lucky, you've found a routine that is working for you and your partner.</p><h1>The baby</h1><p>Your baby will now be more active. There'll be lot more kicking and wriggling and it'll have much better control over its head movements. You'll notice how the baby will start to rock back and forth, and towards the end of the six months it'll probably be able to roll over. They could also be able to sit up by themselves and crawling is probably soon to follow.</p><p>Hand-eye coordination is going to get a lot better also. The baby will be able to grasp and rattle small objects and is probably putting anything and everything in its mouth. It will also be able to pull things towards it.</p><p>At this point, it'll also be able to recognize familiar faces, follow motion and will likely start to focus on bright colors.</p><p>You'll be introduced to a whole new range of sounds, from squealing to gurgling, and the baby might make noises then wait for you to respond.</p><h1>Your partner</h1><p>Things will have settled for your partner too. She should be getting more sleep and probably will be back to her normal self.</p>"
             },
             {
                 "type": "warning-list",
@@ -2460,7 +2460,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>playing with the baby</h1><p>Playing is an important part of learning for children of all ages. It's how they grow and develop and learn everything from basic motor skills, to how to communicate. </br>As your baby gets older and learns how to sit up and interact with the world, your games can become more physical and a lot more interactive.</p><h1>The 'Bang Things Together' game</h1><p>Give the baby little wooden or plastic blocks that they can easily grip. Show them how to bang them together. That's it. That's a game.</p><h1>Knee Rides</h1><p>Put the baby on your knees and bounce it up and down gently. It's a good one to do with nursery rhymes. Also, learn some nursery rhymes.</p><h1>Bath Time</h1><p>By three months you'll be able to introduce toys into bath time that the baby can hold and play with. You can gently splash around too, if he or she enjoys the water.</p><h1>Blowing Bubbles</h1><p>Keeping bubbles on hand at all times is a good idea. After about four months or so the baby will be able to focus its eyes far enough ahead to be entertained by them.</p><h1>Gotcha!</h1><p>Children learn to anticipate actions at around four months. You can sneak up in a  mock-threatening way, and then inflict tickles and cuddles. This sounds really dumb but once you do this once, it's hard to stop.</p><h1>Aeroplanes</h1><p>This one's easy - pick the baby up and fly it around in your arms like an aeroplane or a rocket, making all the correct noises. This is about 80% of what being a dad is about.</p><h1>This Little Piggy</h1><p>Does this bring back memories? Count off your baby's toes to the This Little Piggy nursery rhyme. Why do they like it? We don't know. But they do.</p>"
+                "content": "<h1>playing with the baby</h1><p>Playing is an important part of learning for children of all ages. It's how they grow and develop and learn everything from basic motor skills, to how to communicate.</p><p>As your baby gets older and learns how to sit up and interact with the world, your games can become more physical and a lot more interactive.</p><h1>The 'Bang Things Together' game</h1><p>Give the baby little wooden or plastic blocks that they can easily grip. Show them how to bang them together. That's it. That's a game.</p><h1>Knee Rides</h1><p>Put the baby on your knees and bounce it up and down gently. It's a good one to do with nursery rhymes. Also, learn some nursery rhymes.</p><h1>Bath Time</h1><p>By three months you'll be able to introduce toys into bath time that the baby can hold and play with. You can gently splash around too, if he or she enjoys the water.</p><h1>Blowing Bubbles</h1><p>Keeping bubbles on hand at all times is a good idea. After about four months or so the baby will be able to focus its eyes far enough ahead to be entertained by them.</p><h1>Gotcha!</h1><p>Children learn to anticipate actions at around four months. You can sneak up in a  mock-threatening way, and then inflict tickles and cuddles. This sounds really dumb but once you do this once, it's hard to stop.</p><h1>Aeroplanes</h1><p>This one's easy - pick the baby up and fly it around in your arms like an aeroplane or a rocket, making all the correct noises. This is about 80% of what being a dad is about.</p><h1>This Little Piggy</h1><p>Does this bring back memories? Count off your baby's toes to the This Little Piggy nursery rhyme. Why do they like it? We don't know. But they do.</p>"
             }
         ]
     },
@@ -2473,7 +2473,7 @@
         "sections": [
             {
                 "type": "normal",
-                "content": "<h1>Immunization</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</br>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your general health practitioner.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in-1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your general health practitioner will advise you of further schedules for subsequent vaccinations.</p>"
+                "content": "<h1>Immunization</h1><p>Seeing your child get an injection can be tough. Seeing them get really sick is a whole lot tougher. Vaccination is a critical way to keep your child, and other children, safe.</p><p>Once you vaccinate against a disease, your baby's body will be able to produce antibodies to fight that disease. They are very quick to administer, safe and extremely effective.</p><p>Not vaccinating your child can put it at risk.</p><p>Vaccinations available for your child may differ between regions so you should check with your general health practitioner.</p><h1>Common vaccinations and timelines</h1><h2>Two months</h2><p><b>5-in-1 vaccine -</b> Protects against diphtheria, tetanus, whooping cough, polio and Haemophilus influenzae type b (which can cause meningitis).</br><b>PCV (Pneumococcal vaccine)</b></br><b>Rotavirus vaccine</b></p><h2>Three months</h2><p><b>5-in-1 vaccine -</b> Second dose</br><b>Meningitis C</b></br><b>Rotavirus vaccine -</b> Second dose</p><h2>Four months</h2><p><b>5-in-1 vaccine -</b> Third dose</br><b>PCV (Pneumococcal vaccine) -</b> second dose</p><p>Your general health practitioner will advise you of further schedules for subsequent vaccinations.</p>"
             },
             {
                 "type": "tip",
