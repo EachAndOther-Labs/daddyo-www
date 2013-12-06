@@ -4,14 +4,14 @@
  *   var Webflow = Webflow || [];
  *   Webflow.push(readyFunction);
  */
-(function () {
+var Webflow = (function () {
   'use strict';
   
   var $ = window.$;
   var api = {};
   var modules = {};
   var primary = [];
-  var secondary = window.Webflow || [];
+  var secondary = Webflow || [];
   var $win = $(window);
   var _ = api._ = underscore();
   var domready = false;
@@ -343,7 +343,7 @@
   }
     
   // Export api
-  window.Webflow = api;
+  return api;
 }());
 /**
  * Webflow: Forms
@@ -757,7 +757,10 @@ Webflow.define('webflow-scroll', function ($) {
       if (Webflow.env('design')) {
         return;
       }
-
+      
+      // Ignore links being used by jQuery mobile
+      if (window.$.mobile && $(e.currentTarget).hasClass('ui-link')) return;
+      
       var hash = this.hash ? this.hash.substring(1) : null;
       if (hash) {
         findEl(hash, e);

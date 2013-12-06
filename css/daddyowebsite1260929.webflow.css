@@ -20,10 +20,17 @@ h1 {
   text-transform: uppercase;
 }
 h2 {
-  margin: 10px 0px;
-  font-size: 32px;
+  margin: -40px 0px 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  direction: ltr;
+  font-family: Bitter, serif;
+  color: white;
+  font-size: 30px;
   line-height: 36px;
   font-weight: 700;
+  text-transform: uppercase;
 }
 h3 {
   margin: 0px 0px 6px;
@@ -41,10 +48,13 @@ h4 {
   font-weight: 700;
 }
 h5 {
-  margin: 10px 0px;
+  margin: 0px;
+  font-family: Bitter, serif;
+  color: #999;
   font-size: 14px;
   line-height: 20px;
   font-weight: 700;
+  text-transform: uppercase;
 }
 h6 {
   margin: 10px 0px;
@@ -220,12 +230,12 @@ p {
   color: rgba(0, 0, 0, 0.49);
 }
 .dark.quote {
-  margin-bottom: 60px;
+  margin-bottom: 41px;
   padding-right: 0px;
   padding-left: 0px;
   background-color: rgba(0, 0, 0, 0);
   color: #b6be00;
-  font-size: 24px;
+  font-size: 22px;
   line-height: 36px;
   font-style: italic;
   font-weight: 400;
@@ -269,8 +279,10 @@ p {
   background-color: rgba(0, 0, 0, 0);
 }
 .footer.mobile {
-  padding-top: 30px;
+  margin-top: 60px;
+  padding-top: 0px;
   padding-bottom: 50px;
+  border-top: 1px dashed #666;
 }
 .video-thumbnail {
   width: 300px;
@@ -283,6 +295,9 @@ p {
   float: left;
   border: 4px solid #666;
   background-color: #575757;
+}
+.quotes {
+  color: white;
 }
 .quotes-columns {
   margin-top: 30px;
@@ -303,6 +318,13 @@ p {
   line-height: 40px;
   font-style: normal;
 }
+.intro-text.phone {
+  margin-top: 50px;
+  padding-top: 6px;
+  padding-bottom: 30px;
+  font-size: 24px;
+  line-height: 30px;
+}
 .footer-link-cols {
   margin-top: 29px;
 }
@@ -310,7 +332,8 @@ p {
   margin-left: -20px;
 }
 .daddyo-icon.mobile {
-  width: 130px;
+  width: 150px;
+  margin-left: 86px;
 }
 .daddyo-text {
   width: 200px;
@@ -322,10 +345,12 @@ p {
   font-size: 50px;
 }
 .daddyo-text.mobile {
-  margin-left: 10px;
+  width: 300px;
+  margin-top: 0px;
+  margin-left: 20px;
 }
 .intro-text-box {
-  border-bottom: 1px dashed rgba(255, 255, 255, 0.29);
+  border-bottom: 0px dashed rgba(255, 255, 255, 0.29);
 }
 .intro-section {
   display: block;
@@ -340,39 +365,100 @@ p {
   width: 100%;
   margin-top: 40px;
   margin-bottom: -25px;
-  padding-top: 40px;
+  padding-top: 16px;
   padding-right: 25px;
   padding-left: 25px;
+  border-bottom-width: 0px;
   background-color: #333;
   background-image: url(../images/bg.png);
 }
 .mobile {
   padding-bottom: 0px;
 }
+.mobile.feature-headings {
+  margin-bottom: 2px;
+}
 .subheading {
-  margin-top: -65px;
-  margin-left: 120px;
+  margin-top: 15px;
+  margin-left: 25px;
+  float: left;
+  font-size: 32px;
+  line-height: 34px;
+  text-align: center;
 }
 .quote-logo-placeholder {
   margin-bottom: 20px;
   padding-top: 20px;
   padding-bottom: 5px;
   padding-left: 0px;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: #555;
   text-align: center;
 }
 .quote-loogo-text {
   padding-top: 10px;
   padding-bottom: 20px;
+  color: #bdbdbd;
 }
 .review-quote {
+  color: #aaa;
   font-style: italic;
 }
 .footer-heading {
   padding-top: 0px;
 }
 .tom {
-  opacity: 0.5;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  background-color: #b6be00;
+  opacity: 1;
+}
+.tom.mobile-pic {
+  background-color: #b6bf00;
+}
+.about {
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+}
+.about.heading {
+  margin-bottom: 8px;
+  font-size: 30px;
+}
+.divider {
+  height: 1px;
+  border: 1px dotted #666;
+}
+.dark-block {
+  height: auto;
+  margin-top: -40px;
+  padding-bottom: 0px;
+  background-color: #949c00;
+}
+.iq-content {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  float: left;
+}
+.iq-logo {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.coming-soon-text {
+  display: block;
+  margin-right: auto;
+  margin-left: 58px;
+  float: left;
+  font-family:'Indie Flower', sans-serif;
+  color: #999;
+  font-size: 18px;
+  text-align: center;
+}
+.footer-links {
+  color: #ddd;
+}
+.twitter-widget {
+  margin-top: 6px;
 }
 @media (max-width: 991px) {
   body {
@@ -468,11 +554,15 @@ p {
     margin-left: 101px;
   }
   .subheading {
-    font-size: 23px;
-    line-height: 26px;
+    margin-left: 37px;
+    font-size: 28px;
+    line-height: 28px;
   }
   .footer-heading {
     padding-top: 25px;
+  }
+  .mobiletext {
+    padding-left: 0px;
   }
 }
 @media (max-width: 767px) {
@@ -531,6 +621,7 @@ p {
   }
   .daddyo-text.mobile {
     display: block;
+    width: 250px;
     margin-top: 4px;
     margin-right: auto;
     margin-left: auto;
@@ -543,6 +634,26 @@ p {
   .subheading {
     display: block;
     margin: 10px auto 20px;
+    float: none;
+    text-align: center;
+  }
+  .iq-content {
+    margin-bottom: 31px;
+    float: none;
+  }
+  .coming-soon-text {
+    margin-top: -5px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    float: none;
+  }
+  .smartphone {
+    display: block;
+    margin-right: auto;
+    margin-bottom: 4px;
+    margin-left: auto;
+    float: none;
+    font-size: 16px;
     text-align: center;
   }
 }
@@ -612,6 +723,9 @@ p {
     padding-right: 10px;
     padding-left: 10px;
   }
+  .dark.about.mobile-padding {
+    padding-left: 0px;
+  }
   .comic-strip {
     padding-right: 0px;
     padding-left: 0px;
@@ -646,6 +760,7 @@ p {
   }
   .daddyo-text.mobile {
     display: block;
+    width: 250px;
     margin-top: 4px;
     margin-right: auto;
     margin-left: auto;
@@ -675,6 +790,9 @@ p {
   .mobile.feature-headings {
     padding-left: 10px;
   }
+  .mobile.smartphone {
+    font-size: 20px;
+  }
   .subheading {
     display: block;
     margin-top: 10px;
@@ -682,5 +800,36 @@ p {
     margin-left: auto;
     line-height: 26px;
     text-align: center;
+  }
+  .tom.mobile-pic {
+    margin-bottom: 20px;
+  }
+  .dark-block {
+    margin-bottom: 30px;
+  }
+  .mobiletext {
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 28px;
+  }
+  .iq-content {
+    margin-bottom: 30px;
+    float: none;
+  }
+  .coming-soon-text {
+    line-height: 24px;
+  }
+  .smartphone {
+    display: block;
+    margin-right: auto;
+    margin-bottom: 9px;
+    margin-left: auto;
+    float: none;
+    font-family: Bitter, serif;
+    font-size: 18px;
+    text-align: center;
+  }
+  .smartphone.links {
+    margin-bottom: 25px;
   }
 }
