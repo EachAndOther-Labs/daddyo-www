@@ -70,9 +70,11 @@ p {
   line-height: 28px;
 }
 .button {
-  display: inline-block;
-  width: 300px;
-  margin-top: 0px;
+  display: block;
+  width: auto;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
   padding: 12px 30px;
   float: left;
   border-radius: 4px;
@@ -83,6 +85,9 @@ p {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+}
+.button:hover {
+  background-color: #8d9400;
 }
 .button:hover.mobile-button:hover {
   background-color: #949c00;
@@ -141,6 +146,10 @@ p {
 .content-panel.mobile {
   top: 550px;
   height: 300px;
+}
+.content-panel.padding {
+  top: 0px;
+  padding-bottom: 10px;
 }
 ._960 {
   top: 600px;
@@ -269,6 +278,9 @@ p {
   margin-left: 0px;
   padding-right: 0px;
   background-color: rgba(0, 0, 0, 0.2);
+}
+.comic-images.padding {
+  padding-bottom: 6px;
 }
 .footer {
   display: block;
