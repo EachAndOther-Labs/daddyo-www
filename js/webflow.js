@@ -820,8 +820,8 @@ Webflow.define('webflow-slider', function ($, _) {
     var data = $.data(el, namespace);
     if (!data) data = $.data(el, namespace, { index: 0, el: $el, config: {} });
     data.mask = $el.children('.w-slider-mask');
-    data.left = $el.children('.w-slider-arrow.w-left');
-    data.right = $el.children('.w-slider-arrow.w-right');
+    data.left = $el.children('.w-slider-arrow-left');
+    data.right = $el.children('.w-slider-arrow-right');
     data.nav = $el.children('.w-slider-nav');
     data.slides = data.mask.children('.w-slide');
     
@@ -967,9 +967,10 @@ Webflow.define('webflow-slider', function ($, _) {
       if (designer && evt.type == 'setting') {
         configure(data);
         layout(data);
-        if (options.select != null) {
-          select(data, options.select);
-        }
+        if (options.select == null) return;
+        if (options.select == 'prev') return previous(data)();
+        if (options.select == 'next') return next(data)();
+        select(data, options.select);
         return;
       }
       
